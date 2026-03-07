@@ -58,14 +58,17 @@ CLAUDE.md        ← this file
 ### Jekyll Configuration
 `_config.yml` must point Jekyll to `/posts` as the posts directory so posts never need to move if the framework changes in the future.
 
-### Post Filename Convention
+### Post Directory and Filename Convention
+
+Each day gets its own directory. The date appears only in the directory name, not the filename.
+
 ```
-posts/YYYY-MM-DD-slugified-headline.md
+posts/YYYY-MM-DD/slugified-headline.md
 ```
 
 Example:
 ```
-posts/2024-03-05-congress-bans-wd40-storage-without-red-straw.md
+posts/2024-03-05/congress-bans-wd40-storage-without-red-straw.md
 ```
 
 Slugify aggressively: lowercase, hyphens, no special characters, no stop words if the slug exceeds ~60 characters.
@@ -118,7 +121,7 @@ CSS and JS are written against these class names. All templates must produce thi
 ## What "Done" Looks Like Before I Commit
 
 A post is ready to commit when:
-- [ ] Markdown file exists in `/posts/` with correct filename format
+- [ ] Markdown file exists in `/posts/YYYY-MM-DD/` with correct filename format
 - [ ] Front matter is complete and valid
 - [ ] Dateline is present in the article body
 - [ ] At least two fake attributed quotes included
