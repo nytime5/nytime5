@@ -2,8 +2,11 @@
 title: "Ohio Man Develops Apparent Ability to Trace Anonymous Internet Trolls to Their Homes and Make Their Heads Explode"
 date: 2026-03-07
 tags: [internet, superpowers, public-safety, ohio]
+image: /posts/2026-03-07/man-develops-superpower-trace-internet-trolls-explode-heads.jpg
 excerpt: "Federal investigators say they are treating the case as both a cybercrime and a series of extremely unusual medical events."
 ---
+
+![Greg Polhaus at his home workstation in Dayton, Ohio, on Thursday, as federal agents conducted a preliminary interview in the adjoining hallway. Credit: James Ketcham/The Dayton Daily News](man-develops-superpower-trace-internet-trolls-explode-heads.jpg)
 
 DAYTON, Ohio — A 34-year-old software engineer from suburban Dayton has drawn the attention of federal law enforcement and the broader scientific community after reportedly developing the ability to identify anonymous internet commenters and cause their heads to detonate remotely, according to officials briefed on the matter.
 
