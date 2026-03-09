@@ -75,6 +75,32 @@ Slugify aggressively: lowercase, hyphens, no special characters, no stop words i
 
 ---
 
+## Article Image
+
+Every article must include a generated image placed in the same directory as the article Markdown file.
+
+### Image Requirements
+- **One image per article**, generated at article creation time using an image generation model via Replicate.
+- **Filename:** `image.webp` (always this name, in the same directory as the post).
+- **Style:** Photojournalistic. The image should look like a real newspaper photograph — no cartoons, no illustrations, no stock-photo glossiness. Match the deadpan tone of the article.
+- **Prompt construction:** Describe the scene as a press photographer would see it. Include specific visual details (setting, lighting, expressions, clothing) that sell the premise as real. Never mention satire, humor, or absurdity in the image prompt.
+- **Front matter:** Add an `image` field pointing to the image path relative to the site root.
+
+### Directory Layout Example
+```
+posts/2024-03-05/
+  congress-bans-wd40-storage-without-red-straw.md
+  image.webp
+```
+
+### Markdown Usage
+Include the image at the top of the article body (after front matter, before the dateline) using:
+```markdown
+![Article image](image.webp)
+```
+
+---
+
 ## Front Matter
 
 Every post must include this front matter. Do not add Jekyll-specific fields like `layout` inside posts — handle layout at the template level.
@@ -84,6 +110,7 @@ Every post must include this front matter. Do not add Jekyll-specific fields lik
 title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With It"
 date: YYYY-MM-DD
 tags: [congress, hardware, consumer-safety]
+image: /posts/YYYY-MM-DD/image.webp
 excerpt: "Lawmakers cited mounting evidence that the straws, once separated, are gone forever."
 ---
 ```
@@ -92,6 +119,7 @@ excerpt: "Lawmakers cited mounting evidence that the straws, once separated, are
 - **title** — Full headline. Formal NYT style. Capitalize major words. Can be long.
 - **date** — ISO format. Use today's date unless I specify otherwise.
 - **tags** — 2 to 5 tags. Lowercase, hyphenated. Draw from existing tags where possible before creating new ones.
+- **image** — Path to the article image relative to the site root. Always `/posts/YYYY-MM-DD/image.webp`.
 - **excerpt** — One sentence. Deadpan. This appears in article previews and should function as a secondary joke.
 
 ---
@@ -125,6 +153,8 @@ A post is ready to commit when:
 - [ ] Front matter is complete and valid
 - [ ] Dateline is present in the article body
 - [ ] At least two fake attributed quotes included
+- [ ] Generated image exists as `image.webp` in the post directory
+- [ ] Image referenced in front matter and article body
 - [ ] No meta-jokes or fourth-wall breaks in the body copy
 - [ ] Excerpt functions as a standalone deadpan sentence
 
