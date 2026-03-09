@@ -2,8 +2,11 @@
 title: "Inflexible Man Has to Take Off Shoes to Tie Them"
 date: 2026-03-09
 tags: [health, flexibility, footwear]
+image: /posts/2026-03-09/inflexible-man-removes-shoes-to-tie-them.jpg
 excerpt: "Experts say the condition, while not life-threatening, has fundamentally altered the man's relationship with laced shoes."
 ---
+
+![Kevin Durnell tying his New Balance 608s on the living room floor after removing them, a process he says takes "maybe four minutes, tops." Credit: Rachel Engel/The Gazette](inflexible-man-removes-shoes-to-tie-them.jpg)
 
 CEDAR RAPIDS, Iowa — A local man has been forced to adopt what biomechanics researchers are calling a "profoundly inefficient footwear protocol" after discovering that the only way he can tie his shoes is to first remove them entirely, tie them on a flat surface, and then slide his feet back in.
 
