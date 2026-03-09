@@ -2,8 +2,11 @@
 title: "Bruce Lee and Chuck Norris Locked in Ongoing Fight in Purgatory, Sources Confirm"
 date: 2026-03-07
 tags: [afterlife, martial-arts, purgatory]
+image: /posts/2026-03-07/bruce-lee-chuck-norris-fight-purgatory.webp
 excerpt: "Witnesses say neither man has gained a decisive advantage in what theologians are calling an unprecedented eschatological stalemate."
 ---
+
+![The two combatants mid-exchange in what witnesses describe as the fourteenth continuous hour of a spinning back kick sequence, somewhere in the intermediate state. Credit: Margaret Tsui/Liminal Press](bruce-lee-chuck-norris-fight-purgatory.webp)
 
 THE INTERMEDIATE STATE — Bruce Lee and Chuck Norris have been engaged in continuous hand-to-hand combat in purgatory since at least early 2024, according to multiple celestial sources familiar with the situation, raising difficult questions for theologians and martial arts historians alike.
 
