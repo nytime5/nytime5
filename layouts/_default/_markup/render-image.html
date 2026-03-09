@@ -1,0 +1,5 @@
+{{- $src := .Destination -}}
+{{- if not (strings.HasPrefix $src "/") -}}
+  {{- $src = printf "/posts/%s/%s" (path.Dir .Page.File.Path) $src -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
