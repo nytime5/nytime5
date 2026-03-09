@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="post-list">
+  {{ $pages := where site.RegularPages "Kind" "page" }}
+  {{ range $pages.ByDate.Reverse }}
+  {{ $permalink := .RelPermalink }}
+  <article class="post-preview">
+    {{ with .Params.image }}
+    <a href="{{ $permalink }}" class="post-preview-image-link">
+      <img class="post-preview-image" src="{{ . }}" alt="">
+    </a>
+    {{ end }}
+    <div class="post-preview-text">
+      <h2 class="post-preview-title">
+        <a href="{{ $permalink }}">{{ .Title }}</a>
+      </h2>
+      <p class="post-meta">
+        <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </p>
+      {{ with .Params.excerpt }}<p class="post-preview-excerpt">{{ . }}</p>{{ end }}
+    </div>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

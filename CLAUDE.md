@@ -39,8 +39,9 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 ## Jekyll Setup
 
 ### Framework
-- **Jekyll** hosted on **GitHub**, deployed via **Cloudflare Pages**
+- **Hugo** hosted on **GitHub**, deployed via **Cloudflare Pages**
 - Cloudflare handles CDN, SSL, and DNS — do not add any configuration that conflicts with Cloudflare proxying
+- Cloudflare Pages build settings: framework preset Hugo, build command `hugo`, output directory `public`
 
 ### Directory Structure
 ```
@@ -48,15 +49,13 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 /assets/
   /css/          ← all stylesheets (never move this)
   /js/           ← all JavaScript (never move this)
-  /images/       ← article images and site assets
-/_layouts/       ← Jekyll templates
-/_includes/      ← Jekyll partials
-/_config.yml     ← Jekyll configuration
+/layouts/        ← Hugo templates
+hugo.toml        ← Hugo configuration
 CLAUDE.md        ← this file
 ```
 
-### Jekyll Configuration
-`_config.yml` must point Jekyll to `/posts` as the posts directory so posts never need to move if the framework changes in the future.
+### Hugo Configuration
+`hugo.toml` uses module mounts to serve `/posts` as both content and static (for images). Posts are regular pages, not page bundles — multiple articles share a date directory.
 
 ### Post Directory and Filename Convention
 
@@ -162,14 +161,14 @@ A post is ready to commit when:
 
 ---
 
-## Future Framework Compatibility
+## Framework Portability
 
-This repo is designed so that migrating from Jekyll to Hugo (or another framework) requires only:
-- Updating build configuration to point to `/posts/`
-- Replacing templates in `/_layouts/` and `/_includes/`
+The content layer (posts, images, front matter) is decoupled from the framework. Migrating to another SSG would require only:
+- Replacing `hugo.toml` with the new framework's config
+- Rewriting templates in `/layouts/`
 - CSS, JS, images, and all post content remain untouched
 
-Front matter must stay compatible with both Jekyll and Hugo. Avoid Jekyll-specific front matter fields inside post files.
+Front matter uses standard YAML fields with no Hugo-specific fields inside post files.
 
 ---
 
@@ -186,8 +185,8 @@ Front matter must stay compatible with both Jekyll and Hugo. Avoid Jekyll-specif
 ## Cloudflare Notes
 
 - Site is proxied through Cloudflare — do not hardcode IP addresses anywhere
-- SSL is handled by Cloudflare — do not configure Jekyll to force HTTPS redirects
-- Caching is handled by Cloudflare — do not add aggressive cache headers in Jekyll config that could conflict
+- SSL is handled by Cloudflare — do not configure Hugo to force HTTPS redirects
+- Caching is handled by Cloudflare — do not add aggressive cache headers in Hugo config that could conflict
 
 ---
 

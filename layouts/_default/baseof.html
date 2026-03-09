@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} — {{ end }}{{ site.Title }}</title>
+  <meta name="description" content="{{ with .Params.excerpt }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="/" class="site-logo">The New York Nytime5</a>
+      <p class="site-tagline">{{ site.Params.description }}</p>
+      <hr class="header-rule">
+      <p class="header-date">{{ now | time.Format "Monday, January 2, 2006" }}</p>
+    </div>
+  </header>
+  <main class="site-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <hr>
+    <p>&copy; {{ now.Year }} nytime5.com</p>
+  </footer>
+</body>
+</html>

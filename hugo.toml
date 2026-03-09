@@ -1,0 +1,33 @@
+baseURL = "https://nytime5.com"
+title = "The New York Nytime5"
+languageCode = "en-us"
+
+# Clean URLs
+[permalinks]
+  [permalinks.page]
+    '/' = '/:year/:month/:day/:slugorfilename/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  pagerSize = 20
+
+[params]
+  description = "All the News That's Fit to Fabricate"
+
+# Mount posts/ as both content and static so images are served
+[[module.mounts]]
+  source = "posts"
+  target = "content"
+
+[[module.mounts]]
+  source = "posts"
+  target = "static/posts"
+  includeFiles = "**/*.webp"
+
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
