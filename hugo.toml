@@ -26,7 +26,7 @@ languageCode = "en-us"
 [[module.mounts]]
   source = "posts"
   target = "static/posts"
-  includeFiles = "**/*.webp"
+  includeFiles = "**/*.jpg"
 
 [[module.mounts]]
   source = "assets"

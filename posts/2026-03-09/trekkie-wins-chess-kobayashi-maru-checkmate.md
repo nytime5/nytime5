@@ -2,11 +2,11 @@
 title: "Local Trekkie Claims Undefeated Chess Record by Invoking Kobayashi Maru Whenever Placed in Checkmate"
 date: 2026-03-09
 tags: [chess, star-trek, gaming, sportsmanship]
-image: /posts/2026-03-09/trekkie-wins-chess-kobayashi-maru-checkmate.webp
+image: /posts/2026-03-09/trekkie-wins-chess-kobayashi-maru-checkmate.jpg
 excerpt: "He has not technically won a game of chess in four years, but insists he has not lost one either."
 ---
 
-![Derek Sorvino reviewing his laminated scoring binder between games at the Milwaukee Community Chess Club on Saturday. Credit: Daniel Voss/The Milwaukee Journal Sentinel](trekkie-wins-chess-kobayashi-maru-checkmate.webp)
+![Derek Sorvino reviewing his laminated scoring binder between games at the Milwaukee Community Chess Club on Saturday. Credit: Daniel Voss/The Milwaukee Journal Sentinel](trekkie-wins-chess-kobayashi-maru-checkmate.jpg)
 
 MILWAUKEE — Derek Sorvino, a 38-year-old database administrator and self-described "student of Starfleet tactical doctrine," has maintained what he calls a perfect chess record since 2022 by declaring the Kobayashi Maru — a fictional no-win scenario from the *Star Trek* franchise — each time an opponent places him in checkmate.
 
