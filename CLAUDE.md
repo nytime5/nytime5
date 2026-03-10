@@ -190,4 +190,10 @@ Front matter uses standard YAML fields with no Hugo-specific fields inside post 
 
 ---
 
+## Shell Commands
+
+Always run shell commands as individual statements, not compound commands. Do not chain commands with `&&`, `;`, or `|`. Run each command separately in sequence.
+
+---
+
 *This is the first file committed to the repo. All subsequent work follows these conventions.*
