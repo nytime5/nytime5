@@ -21,6 +21,7 @@
   <meta name="twitter:title" content="{{ .Title | default site.Title }}">
   <meta name="twitter:description" content="{{ $description }}">
   {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>
 <body>
