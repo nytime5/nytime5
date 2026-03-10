@@ -9,6 +9,7 @@
             "WebFetch(domain:replicate.delivery)",
             "WebFetch(domain:nytime5.com)",
             "Bash(curl*replicate.delivery*)",
+            "Bash(curl*)",
             "Bash(grep -h \"^tags:\" /home/paul/git/nytime5/nytime5/posts/*/*.md)",
             "Bash(hugo version)",
             "Bash(hugo --quiet)",
@@ -16,6 +17,7 @@
             "Bash(npx hugo)"
         ],
         "additionalDirectories": [
+            "/home/paul/git/nytime5/nytime5/posts/**",
             "/home/paul/git/nytime5/nytime5/posts"
         ]
     }
