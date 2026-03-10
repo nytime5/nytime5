@@ -2,8 +2,11 @@
 title: "Leading Philosophers Concede That if Biological Sex Is Not Rooted in Objective Reality, Then Nothing Is, Which They Acknowledge Is Actually a Coherent Position"
 date: 2026-03-09
 tags: [philosophy, academia, epistemology, biology]
+image: /posts/2026-03-09/philosophers-concede-if-sex-not-objective-nothing-is.jpg
 excerpt: "The nation's foremost metaphysicians have asked only that everyone involved be honest about what they are signing up for."
 ---
+
+![Members of the joint statement's drafting committee reviewing the final text in a seminar room at Harvard's Emerson Hall on Sunday. Credit: Nina Caldwell/The Boston Globe](philosophers-concede-if-sex-not-objective-nothing-is.jpg)
 
 CAMBRIDGE, Mass. — A coalition of prominent analytic philosophers released a joint statement on Monday acknowledging that if the claim "biological sex is not grounded in objective reality" is to be taken seriously, then the logical consequence is that nothing at all is grounded in objective reality — a position they described as "ancient, internally consistent, and frankly underappreciated."
 

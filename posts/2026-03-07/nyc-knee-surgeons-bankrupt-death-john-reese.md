@@ -2,8 +2,11 @@
 title: "New York City Knee Surgeons Report Catastrophic Revenue Collapse Following Death of John Reese"
 date: 2026-03-07
 tags: [new-york, medicine, crime, economy, orthopedics]
+image: /posts/2026-03-07/nyc-knee-surgeons-bankrupt-death-john-reese.jpg
 excerpt: "Orthopedic specialists across the five boroughs described Mr. Reese as 'essentially our entire referral pipeline.'"
 ---
+
+![A shuttered orthopedic surgery clinic on the Upper East Side of Manhattan, one of fourteen practices to file for bankruptcy protection since Mr. Reese's death. Credit: Angela Bristow/The New York Times](nyc-knee-surgeons-bankrupt-death-john-reese.jpg)
 
 NEW YORK — The orthopedic surgery industry in New York City is facing what economists are calling an unprecedented demand-side collapse, following the death of John Reese, a former government operative whose singular preference for non-lethal, kneecap-specific gunshot wounds had, over the course of nearly a decade, sustained a significant portion of the city's surgical caseload.
 

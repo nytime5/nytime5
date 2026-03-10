@@ -2,8 +2,11 @@
 title: "USDA Approves Commercial Cultivation of 'Cauliflower Ears,' a Corn-Cauliflower Hybrid That Has Alarmed Agronomists and Combat Athletes Alike"
 date: 2026-03-07
 tags: [agriculture, food, science, sports]
+image: /posts/2026-03-07/cauliflower-ears-corn-hybrid.jpg
 excerpt: "The vegetable, which resembles the cartilaginous deformity common among wrestlers and boxers, has been described by growers as 'deeply unsettling to look at' and 'nutritionally adequate.'"
 ---
+
+![Dr. Leonard Foutz examining a mature specimen of Cauliflower Ears at Iowa State University's Institute for Applied Brassica Studies on Wednesday. Credit: Thomas Weir/Associated Press](cauliflower-ears-corn-hybrid.jpg)
 
 AMES, Iowa — The United States Department of Agriculture granted full commercial cultivation approval Friday for a genetically engineered hybrid vegetable combining the cellular architecture of cauliflower with the cob structure of sweet corn, resulting in a produce item that agronomists, grocery retailers, and mixed martial arts professionals have uniformly described as "extremely difficult to explain to people."
 

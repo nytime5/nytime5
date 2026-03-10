@@ -2,8 +2,11 @@
 title: "New Cryptocurrency Claims Pig Latin Encryption as Cornerstone of Financial Security Architecture"
 date: 2026-03-07
 tags: [cryptocurrency, technology, finance, cybersecurity]
+image: /posts/2026-03-07/new-cryptocurrency-pig-latin-encryption-financial-security.jpg
 excerpt: "Analysts say the protocol represents either a paradigm shift in cryptographic obfuscation or something a child invented on a bus."
 ---
+
+![Engineers at Sty Labs reviewing transaction logs on a monitor at the company's San Francisco headquarters last week. Credit: Kevin Tao/Reuters](new-cryptocurrency-pig-latin-encryption-financial-security.jpg)
 
 SAN FRANCISCO — A startup founded by three former blockchain engineers has launched what it describes as the world's first cryptocurrency secured entirely by Pig Latin encryption, a proprietary obfuscation methodology the company says renders its ledger "essentially unbreakable by anyone who has not completed second grade."
 

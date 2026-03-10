@@ -2,8 +2,11 @@
 title: "Federal Reserve Chairman Calls Human Reproduction 'Economically Unjustifiable,' Cites Absence of Any Viable Use Case for Infants"
 date: 2026-03-07
 tags: [federal-reserve, economy, monetary-policy, demographics]
+image: /posts/2026-03-07/federal-reserve-chairman-criticizes-reproduction-no-use-case-babies.jpg
 excerpt: "The chairman noted that babies, after extensive review, appear to offer no measurable output while generating substantial costs across all major spending categories."
 ---
+
+![Federal Reserve Chairman Gerald Posch addressing reporters at the Eccles Building on Thursday after the Federal Open Market Committee's rate decision. Credit: Samuel Ortiz/Bloomberg](federal-reserve-chairman-criticizes-reproduction-no-use-case-babies.jpg)
 
 WASHINGTON — Federal Reserve Chairman Gerald Posch delivered what economists are calling his most consequential policy statement in years on Thursday, when he formally criticized the practice of human reproduction on the grounds that infants serve no identifiable economic function and represent, in his words, "a drag on household balance sheets with no foreseeable upside."
 
