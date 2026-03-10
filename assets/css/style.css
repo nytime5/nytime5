@@ -99,12 +99,18 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0 0 0.25rem;
 }
 
-.post-content img + em,
-.post-content p > img + br + em {
-  display: block;
+.post-content .post-figure {
+  margin: 0 0 1.25rem;
+}
+
+.post-content .post-figure img {
+  margin: 0 0 0.25rem;
+}
+
+.post-content figcaption {
   font-size: 0.8rem;
+  font-style: italic;
   color: var(--color-fg-light);
-  margin-bottom: 1.25rem;
 }
 
 /* ── Post List (homepage) ── */

@@ -2,4 +2,9 @@
 {{- if not (strings.HasPrefix $src "/") -}}
   {{- $src = printf "/posts/%s/%s" (path.Dir .Page.File.Path) $src -}}
 {{- end -}}
-<img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+<figure class="post-figure">
+  <img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+  {{- with .Text }}
+  <figcaption>{{ . }}</figcaption>
+  {{- end }}
+</figure>
