@@ -1,10 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "mcp__replicate__*"
+      "mcp__replicate__*",
+      "WebSearch",
+      "WebFetch(domain:replicate.delivery)",
+      "WebFetch(domain:nytime5.com)",
+      "Bash(curl*replicate.delivery*)",
+      "Bash(grep -h \"^tags:\" /home/paul/git/nytime5/nytime5/posts/*/*.md)",
+      "Bash(hugo version)",
+      "Bash(hugo --quiet)",
+      "Bash(/tmp/hugo)",
+      "Bash(npx hugo)"
     ],
     "additionalDirectories": [
-      "/home/paul/git/nytime5/nytime5/posts/2026-03-07"
+      "/home/paul/git/nytime5/nytime5/posts"
     ]
   }
 }
