@@ -4,6 +4,7 @@ date: 2026-03-09
 tags: [philosophy, academia, epistemology, biology]
 image: /posts/2026-03-09/philosophers-concede-if-sex-not-objective-nothing-is.jpg
 excerpt: "The nation's foremost metaphysicians have asked only that everyone involved be honest about what they are signing up for."
+draft: true
 ---
 
 ![Members of the joint statement's drafting committee reviewing the final text in a seminar room at Harvard's Emerson Hall on Sunday. Credit: Nina Caldwell/The Boston Globe](philosophers-concede-if-sex-not-objective-nothing-is.jpg)
