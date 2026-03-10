@@ -2,8 +2,11 @@
 title: "Minnesota Man, Once Universally Recognized as Blond, Rejects Emerging Consensus That He Is Brunette"
 date: 2026-03-08
 tags: [identity, minnesota, norwegian-american, hair]
+image: /posts/2026-03-08/norwegian-american-insists-he-is-blond.jpg
 excerpt: "Erik Halvorsen, 34, described the reclassification of his hair color as 'revisionist' and said he would not be entertaining further discussion on the matter."
 ---
+
+![Erik Halvorsen presenting a childhood school photograph as evidence during a family gathering in Bloomington, Minn., on Saturday. Several relatives declined to make eye contact. Credit: Julie Engström/Star Tribune](norwegian-american-insists-he-is-blond.jpg)
 
 MINNEAPOLIS — Erik Halvorsen, a 34-year-old project coordinator of Norwegian descent, confirmed Monday that he remains "completely blond," pushing back forcefully against what he characterized as a coordinated and factually baseless campaign by friends, family members, and coworkers to reclassify him as brunette.
 
