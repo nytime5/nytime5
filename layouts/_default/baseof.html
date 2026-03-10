@@ -1,44 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if not .IsHome }}{{ .Title }} — {{ end }}{{ site.Title }}</title>
-  {{ $description := site.Params.description }}{{ with .Params.excerpt }}{{ $description = . }}{{ end }}
-  <meta name="description" content="{{ $description }}">
-  <meta property="og:site_name" content="{{ site.Title }}">
-  <meta property="og:title" content="{{ .Title | default site.Title }}">
-  <meta property="og:description" content="{{ $description }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  {{ with .Params.image -}}
-  <meta property="og:image" content="{{ . | absURL }}">
-  <meta property="og:type" content="article">
-  <meta name="twitter:card" content="summary_large_image">
-  {{- else -}}
-  <meta property="og:type" content="website">
-  <meta name="twitter:card" content="summary">
-  {{- end }}
-  <meta name="twitter:title" content="{{ .Title | default site.Title }}">
-  <meta name="twitter:description" content="{{ $description }}">
-  {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} — {{ end }}{{ site.Title }}</title>
+    {{ $description := site.Params.description }}{{ with .Params.excerpt }}{{ $description = . }}{{ end }}
+    <meta name="description" content="{{ $description }}">
+    <meta property="og:site_name" content="{{ site.Title }}">
+    <meta property="og:title" content="{{ .Title | default site.Title }}">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    {{ with .Params.image -}}
+    <meta property="og:image" content="{{ . | absURL }}">
+    <meta property="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image">
+    {{- else -}}
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    {{- end }}
+    <meta name="twitter:title" content="{{ .Title | default site.Title }}">
+    <meta name="twitter:description" content="{{ $description }}">
+    {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a href="/" class="site-logo">The New York Nytime5</a>
-      <p class="site-tagline">{{ site.Params.description }}</p>
-      <hr class="header-rule">
-      <p class="header-date">{{ now | time.Format "Monday, January 2, 2006" }}</p>
-    </div>
-  </header>
-  <main class="site-main">
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer class="site-footer">
-    <hr>
-    <p>&copy; {{ now.Year }} nytime5.com</p>
-  </footer>
+    <header class="site-header">
+        <div class="site-header-inner">
+            <a href="/" class="site-logo">The New York Time5</a>
+            <p class="site-tagline">{{ site.Params.description }}</p>
+            <hr class="header-rule">
+            <p class="header-date">{{ now | time.Format "Monday, January 2, 2006" }}</p>
+        </div>
+    </header>
+    <main class="site-main">
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+        <hr>
+        <p>&copy; {{ now.Year }} nytime5.com</p>
+    </footer>
 </body>
+
 </html>
