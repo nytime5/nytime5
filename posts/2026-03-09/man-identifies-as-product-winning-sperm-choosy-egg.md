@@ -2,8 +2,11 @@
 title: "Area Man Proudly Self-Identifies as the Product of a Winning Sperm and a Choosy Egg"
 date: 2026-03-09
 tags: [identity, biology, self-improvement, ohio]
+image: /posts/2026-03-09/man-identifies-as-product-winning-sperm-choosy-egg.jpg
 excerpt: "He has cited the achievement in three job interviews and at least one first date."
 ---
+
+![Greg Turnbull displaying his custom "1 in 300 Million" lapel pin at a Dayton Area Professional Networking Association mixer on Thursday evening. Credit: Rachel Kimura/The Dayton Daily News](man-identifies-as-product-winning-sperm-choosy-egg.jpg)
 
 DAYTON, Ohio — Local project manager Greg Turnbull, 41, has begun introducing himself at social gatherings and professional networking events as "the product of a winning sperm and a highly selective egg," a designation he says more accurately reflects his biological origins than any credential on his résumé.
 
