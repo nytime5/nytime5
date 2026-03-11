@@ -1,7 +1,4 @@
 {{ define "main" }}
-<div class="homepage-hero">
-  <img src="/masthead.svg" alt="The New York Time5">
-</div>
 <div class="post-list">
   {{ $pages := where site.RegularPages "Kind" "page" }}
   {{ range $pages.ByDate.Reverse }}
