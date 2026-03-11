@@ -1,7 +1,7 @@
 ---
 title: "Trump Boasts He Is the Greatest Narcissist of All Time, Possibly Ever"
 date: 2026-03-11
-draft: false
+draft: true
 tags: [trump, mental-health, records, history]
 image: /posts/2026-03-11/trump-boasts-greatest-narcissist-of-all-time.jpg
 excerpt: "Experts say formally certifying the claim would require a degree of self-reflection the record itself would seem to preclude."
