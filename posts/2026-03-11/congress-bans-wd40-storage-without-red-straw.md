@@ -1,7 +1,7 @@
 ---
 title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With Them"
 date: 2026-03-11
-draft: true
+draft: false
 tags: [congress, consumer-safety, hardware, legislation]
 image: /posts/2026-03-11/congress-bans-wd40-storage-without-red-straw.jpg
 excerpt: "Lawmakers cited mounting evidence that the straws, once separated from the can, are gone forever."
