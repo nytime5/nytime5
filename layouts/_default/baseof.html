@@ -11,13 +11,14 @@
     <meta property="og:title" content="{{ .Title | default site.Title }}">
     <meta property="og:description" content="{{ $description }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Params.image -}}
-    <meta property="og:image" content="{{ . | absURL }}">
+    {{ $ogImage := "/masthead.svg" }}{{ with .Params.image }}{{ $ogImage = . }}{{ end }}
+    <meta property="og:image" content="{{ $ogImage | absURL }}">
+    {{ if .Params.image -}}
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary_large_image">
     {{- else -}}
     <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     {{- end }}
     <meta name="twitter:title" content="{{ .Title | default site.Title }}">
     <meta name="twitter:description" content="{{ $description }}">

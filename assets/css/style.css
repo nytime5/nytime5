@@ -113,6 +113,21 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--color-fg-light);
 }
 
+/* ── Homepage Hero ── */
+.homepage-hero {
+  width: 100%;
+  background: #111;
+  margin-bottom: 1.5rem;
+}
+
+.homepage-hero img {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 /* ── Post List (homepage) ── */
 .post-list {
   display: flex;

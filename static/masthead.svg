@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#111111"/>
+  <line x1="120" y1="232" x2="1080" y2="232" stroke="white" stroke-width="1.5"/>
+  <text
+    x="600"
+    y="348"
+    font-family="'Old English Text MT', 'UnifrakturMaguntia', 'Georgia', 'Times New Roman', serif"
+    font-size="112"
+    fill="white"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    letter-spacing="-2"
+  >The New York Time5</text>
+  <line x1="120" y1="412" x2="1080" y2="412" stroke="white" stroke-width="1.5"/>
+  <text
+    x="600"
+    y="452"
+    font-family="'Arial Narrow', 'Franklin Gothic Medium', Arial, sans-serif"
+    font-size="22"
+    fill="#aaaaaa"
+    text-anchor="middle"
+    letter-spacing="6"
+    text-transform="uppercase"
+  >ALL THE NEWS THAT&#x2019;S FIT TO FABRICATE</text>
+</svg>
