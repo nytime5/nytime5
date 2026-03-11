@@ -7,6 +7,7 @@
     <title>{{ if not .IsHome }}{{ .Title }} — {{ end }}{{ site.Title }}</title>
     {{ $description := site.Params.description }}{{ with .Params.excerpt }}{{ $description = . }}{{ end }}
     <meta name="description" content="{{ $description }}">
+    <meta property="fb:app_id" content="1118703267048174">
     <meta property="og:site_name" content="{{ site.Title }}">
     <meta property="og:title" content="{{ .Title | default site.Title }}">
     <meta property="og:description" content="{{ $description }}">
