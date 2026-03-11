@@ -9,5 +9,8 @@
   <div class="post-content">
     {{ .Content }}
   </div>
+  <div class="post-share">
+    <a class="share-btn share-btn--facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlize }}" target="_blank" rel="noopener noreferrer">Share on Facebook</a>
+  </div>
 </article>
 {{ end }}
