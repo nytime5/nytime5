@@ -109,6 +109,7 @@ Every post must include this front matter. Do not add Jekyll-specific fields lik
 ---
 title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With It"
 date: YYYY-MM-DD
+draft: true
 tags: [congress, hardware, consumer-safety]
 image: /posts/YYYY-MM-DD/slugified-headline.jpg
 excerpt: "Lawmakers cited mounting evidence that the straws, once separated, are gone forever."
@@ -118,6 +119,7 @@ excerpt: "Lawmakers cited mounting evidence that the straws, once separated, are
 ### Field Rules
 - **title** — Full headline. Formal NYT style. Capitalize major words. Can be long.
 - **date** — ISO format. Use today's date unless I specify otherwise.
+- **draft** — Always set to `true` by default. I will explicitly set to `false` when ready to publish.
 - **tags** — 2 to 5 tags. Lowercase, hyphenated. Draw from existing tags where possible before creating new ones.
 - **image** — Path to the article image relative to the site root. Uses the article slug: `/posts/YYYY-MM-DD/slugified-headline.jpg`.
 - **excerpt** — One sentence. Deadpan. This appears in article previews and should function as a secondary joke.
