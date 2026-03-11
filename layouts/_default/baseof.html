@@ -11,7 +11,7 @@
     <meta property="og:title" content="{{ .Title | default site.Title }}">
     <meta property="og:description" content="{{ $description }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    {{ $ogImage := "/masthead.svg" }}{{ with .Params.image }}{{ $ogImage = . }}{{ end }}
+    {{ $ogImage := "/masthead.png" }}{{ with .Params.image }}{{ $ogImage = . }}{{ end }}
     <meta property="og:image" content="{{ $ogImage | absURL }}">
     {{ if .Params.image -}}
     <meta property="og:type" content="article">
