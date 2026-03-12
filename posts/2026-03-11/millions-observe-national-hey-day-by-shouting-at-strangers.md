@@ -9,9 +9,9 @@ excerpt: "Participants reported feeling a profound sense of connection after bel
 
 ![Residents of Dayton, Ohio, gathering along East Third Street for the city's annual Hey Day observance, which drew an estimated fourteen thousand participants despite a wind advisory. Credit: Marcus Pellegrino/The Dayton Register](millions-observe-national-hey-day-by-shouting-at-strangers.jpg)
 
-DAYTON, Ohio — Across the nation on Tuesday, Americans stepped outside their homes, turned toward the nearest available person, and shouted "Hey" at full volume, continuing a tradition that organizers say has grown every year since its informal founding in 2019 and now constitutes the country's most widely observed unofficial holiday.
+DAYTON, Ohio — Across the nation on Friday, Americans stepped outside their homes, turned toward the nearest available person, and shouted "Hey" at full volume, continuing a tradition that organizers say has grown every year since its informal founding in 2019 and now constitutes the country's most widely observed unofficial holiday.
 
-National Hey Day, which falls on the second Tuesday of March, asks only that participants greet at least one stranger with a loud, sustained "Hey" before sundown. No other words are required, encouraged, or, according to the National Hey Day Foundation's guidelines, permitted.
+National Hey Day, which falls on May 30, asks only that participants greet at least one stranger with a loud, sustained "Hey" before sundown. No other words are required, encouraged, or, according to the National Hey Day Foundation's guidelines, permitted.
 
 "The purity of the tradition is what makes it work," said Dr. Eleanor Voss, a cultural anthropologist at the University of Michigan who has studied Hey Day since its inception. "You are not saying hello. You are not saying excuse me. You are saying 'Hey,' which communicates everything and nothing simultaneously. That is its power."
 
