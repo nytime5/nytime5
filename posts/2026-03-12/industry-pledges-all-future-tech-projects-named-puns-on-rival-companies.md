@@ -1,7 +1,7 @@
 ---
 title: "Following 'Macrohard,' Tech Industry Announces All Future Product Names Will Be Wordplay on Rival Corporations"
 date: 2026-03-12
-draft: true
+draft: false
 tags: [technology, silicon-valley, elon-musk, naming-conventions, startups]
 image: /posts/2026-03-12/industry-pledges-all-future-tech-projects-named-puns-on-rival-companies.jpg
 excerpt: "Industry analysts called the shift 'a tectonic realignment of how brands signal ambition through linguistic inversion.'"
