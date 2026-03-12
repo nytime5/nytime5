@@ -1,7 +1,7 @@
 ---
 title: "Man's T-Shirt Reading 'Make America Gay Again' Manages to Offend Essentially Everyone Present"
 date: 2026-03-12
-draft: true
+draft: false
 tags: [culture, politics, fashion, oklahoma, social-conflict]
 image: /posts/2026-03-12/make-america-gay-again-shirt-angers-everyone.jpg
 excerpt: "Witnesses described the garment as 'the most universally alienating piece of clothing' many had encountered in a retail setting."
