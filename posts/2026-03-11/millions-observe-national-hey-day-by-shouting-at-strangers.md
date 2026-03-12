@@ -1,7 +1,7 @@
 ---
 title: "Millions Observe National Hey Day by Shouting Single Word at Complete Strangers"
 date: 2026-03-11
-draft: true
+draft: false
 tags: [culture, holidays, community, tradition]
 image: /posts/2026-03-11/millions-observe-national-hey-day-by-shouting-at-strangers.jpg
 excerpt: "Participants reported feeling a profound sense of connection after bellowing a monosyllable at people they had never met and would never see again."
