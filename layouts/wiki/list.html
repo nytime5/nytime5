@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="wiki">
+  <header class="wiki-header">
+    <h1 class="wiki-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="wiki-description">{{ . }}</div>{{ end }}
+  </header>
+
+  {{/* Top-level wiki landing: show subsections */}}
+  {{ if .Sections }}
+  <nav class="wiki-sections">
+    {{ range .Sections }}
+    <a href="{{ .RelPermalink }}" class="wiki-section-card">
+      <h2 class="wiki-section-name">{{ .Title }}</h2>
+      <p class="wiki-section-count">{{ len .RegularPages }} {{ if eq (len .RegularPages) 1 }}entry{{ else }}entries{{ end }}</p>
+    </a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  {{/* Subsection page: list entries */}}
+  {{ if .RegularPages }}
+  <div class="wiki-entry-list">
+    {{ range .RegularPages.ByTitle }}
+    <a href="{{ .RelPermalink }}" class="wiki-entry-item">
+      {{ with .Params.image }}
+      <img class="wiki-entry-thumb" src="{{ . }}" alt="">
+      {{ end }}
+      <div class="wiki-entry-info">
+        <h2 class="wiki-entry-name">{{ .Title }}</h2>
+        {{ with .Params.subtype }}
+        <p class="wiki-entry-role">{{ replace . "-" " " | title }}</p>
+        {{ end }}
+        {{ with .Params.beat }}
+        <p class="wiki-entry-beat">{{ replace . "-" " " | title }}</p>
+        {{ end }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

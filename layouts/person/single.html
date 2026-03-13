@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="wiki-page">
+  <header class="wiki-page-header">
+    {{ with .Params.image }}
+    <img class="wiki-page-portrait" src="{{ . }}" alt="{{ $.Title }}">
+    {{ end }}
+    <h1 class="wiki-page-title">{{ .Title }}</h1>
+    {{ with .Params.subtype }}
+    <p class="wiki-page-meta">{{ replace . "-" " " | title }}</p>
+    {{ end }}
+    {{ with .Params.beat }}
+    <p class="wiki-page-meta">Beat: {{ replace . "-" " " | title }}</p>
+    {{ end }}
+    {{ with .Params.column }}
+    <p class="wiki-page-meta">Column: {{ . }}</p>
+    {{ end }}
+  </header>
+  <div class="wiki-page-content">
+    {{/* Strip Private Profile section from public output */}}
+    {{ $content := .Content }}
+    {{ $parts := split $content "<h2 id=\"private-profile\">" }}
+    {{ index $parts 0 | safeHTML }}
+  </div>
+  <nav class="wiki-page-nav">
+    <a href="{{ .Parent.RelPermalink }}">← Back to {{ .Parent.Title }}</a>
+  </nav>
+</article>
+{{ end }}

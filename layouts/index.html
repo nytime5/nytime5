@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="post-list">
-  {{ $pages := where site.RegularPages "Kind" "page" }}
+  {{ $pages := where (where site.RegularPages "Kind" "page") "Section" "!=" "wiki" }}
   {{ range $pages.ByDate.Reverse }}
   {{ $permalink := .RelPermalink }}
   <article class="post-preview">

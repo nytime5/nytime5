@@ -29,6 +29,16 @@ languageCode = "en-us"
   includeFiles = "**/*.jpg"
 
 [[module.mounts]]
+  source = "wiki"
+  target = "content/wiki"
+  excludeFiles = "**/CLAUDE.md"
+
+[[module.mounts]]
+  source = "wiki"
+  target = "static/wiki"
+  includeFiles = "**/*.jpg"
+
+[[module.mounts]]
   source = "assets"
   target = "assets"
 
