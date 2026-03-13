@@ -1,7 +1,7 @@
 ---
 title: "The Man Who Had Everything and Set It on Fire: On the Complete and Irreversible Degradation of Elon Musk"
 date: 2026-03-13
-draft: true
+draft: false
 writer: "Kristoffer Kitchens"
 column: "The Contrarian"
 tags: [elon-musk, technology, politics, twitter, doge]
