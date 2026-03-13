@@ -100,9 +100,9 @@ The user may override writer assignment by specifying a writer or beat.
 
 ### Current Roster
 
-**Beat reporters:** Margaret Liu-Chen (metro), David R. Ashworth (politics), Caroline Banks (science/tech), Ross Featherington (features/lifestyle), Martin Kessler (obituaries), Dina Harwell (food)
+**Beat reporters:** Margaret Liu-Chen (metro), David R. Ashworth (politics), Caroline Banks (science/tech), Ross Featherington (features/lifestyle), Martin Kessler (obituaries), Dina Harwell (food), Amara Okafor-Williams (business/economics), Priya Chandrasekaran (education), Tariq El-Amin (international)
 
-**Opinion columnists:** Gerald K. Vanderbeek (libertarian), Judith Ann Crossley (nostalgist), Frank J. DiOrio (law-and-order), Kevin Shao (techno-optimist), Nancy Ostrander (localist), Dr. Elena Voss (environmentalist), Graham T. Weatherstone (centrist)
+**Opinion columnists:** Gerald K. Vanderbeek (libertarian), Judith Ann Crossley (nostalgist), Frank J. DiOrio (law-and-order), Kevin Shao (techno-optimist), Nancy Ostrander (localist), Dr. Elena Voss (environmentalist), Graham T. Weatherstone (centrist), Raúl Alejandro Guzmán (historical-determinist)
 
 ---
 
