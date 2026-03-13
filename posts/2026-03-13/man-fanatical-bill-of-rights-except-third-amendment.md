@@ -1,7 +1,7 @@
 ---
 title: "Area Man Prepared to Die for Every Amendment in the Bill of Rights Except the Third"
 date: 2026-03-13
-draft: true
+draft: false
 writer: "Ross Featherington"
 tags: [constitution, civil-liberties, profiles, patriots]
 image: /posts/2026-03-13/man-fanatical-bill-of-rights-except-third-amendment.jpg
