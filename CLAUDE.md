@@ -46,6 +46,21 @@ Key principles:
 - **Articles are bylined.** Each article is written by a staff writer whose voice shapes the piece. See `posts/CLAUDE.md` for writer assignment.
 - **Continuity matters.** Consult the wiki before writing. Update it after.
 
+### Wiki Cross-Linking
+
+The first mention of any person, organization, place, or event that has a wiki entry should be hyperlinked — in both articles and wiki entries. Use standard Markdown links with paths relative to the site root:
+
+```markdown
+Dr. Patricia Holloway, a senior fellow at the [Institute for Consumer Hardware Safety](/wiki/organizations/institute-for-consumer-hardware-safety/), said...
+```
+
+Rules:
+- **First mention only.** Link the first appearance in the body (articles) or each section (wiki entries). Subsequent mentions are plain text.
+- **Do not link in headlines, excerpts, or front matter.** Only in body copy.
+- **Link naturally.** Wrap the name as it appears in prose — do not restructure sentences to accommodate links.
+- **Check before linking.** Only link to wiki entries that exist. Do not create dead links.
+- **Articles to wiki, wiki to wiki, wiki to articles.** All three directions apply.
+
 ---
 
 ## Hugo Setup
