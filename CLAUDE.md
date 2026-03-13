@@ -248,6 +248,7 @@ These instructions are living documents. Improve them when you have evidence, no
 - **After a correction.** If the user corrects your output and the fix reflects a general principle (not a one-off preference), encode it in the relevant CLAUDE.md.
 - **After a pattern emerges.** If you notice yourself making the same decision repeatedly without guidance, document the decision so future sessions don't have to re-derive it.
 - **After a wiki gap causes a problem.** If you invented a character you could have reused, or contradicted an established fact, note the process failure and tighten the relevant instruction.
+- **After establishing a new workflow or capability.** When we iterate on and finalize a new repeatable process (e.g., image generation prompts, build steps, deployment procedures), document it in the appropriate CLAUDE.md file. Workflows must be in source control so they are reproducible on any machine — do not rely on memory or local state alone.
 
 ### When NOT to Update
 - Do not update instructions based on a single data point. Wait for a pattern.
