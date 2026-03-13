@@ -1,7 +1,7 @@
 ---
 title: "Reincarnated American Who Was Born and Raised in France Speaks Only English, Confounding Linguists and Family Alike"
 date: 2026-03-12
-draft: true
+draft: false
 tags: [france, identity, language, reincarnation, family]
 image: /posts/2026-03-12/reincarnated-american-born-raised-france-speaks-only-english.jpg
 excerpt: "Researchers say it is the first documented case of a past life actively suppressing fluency in the subject's native tongue."
