@@ -36,7 +36,19 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 
 ---
 
-## Jekyll Setup
+## The Fictional Universe
+
+The site is set in a version of our world with the dial turned up. Real people, places, and institutions coexist with fictional ones. The wiki (`wiki/`) is the canonical reference for this universe. See `wiki/CLAUDE.md` for full details.
+
+Key principles:
+- **Real public figures** have amplified public personas. Never fabricate private behavior.
+- **Fictional characters recur.** Prefer reusing wiki entries over inventing disposable names.
+- **Articles are bylined.** Each article is written by a staff writer whose voice shapes the piece. See `posts/CLAUDE.md` for writer assignment.
+- **Continuity matters.** Consult the wiki before writing. Update it after.
+
+---
+
+## Hugo Setup
 
 ### Framework
 - **Hugo** hosted on **GitHub**, deployed via **Cloudflare Pages**
@@ -46,12 +58,15 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 ### Directory Structure
 ```
 /posts/          ← all article Markdown files (never move this)
+/wiki/           ← fictional universe reference (people, orgs, places, events)
 /assets/
   /css/          ← all stylesheets (never move this)
   /js/           ← all JavaScript (never move this)
 /layouts/        ← Hugo templates
 hugo.toml        ← Hugo configuration
-CLAUDE.md        ← this file
+CLAUDE.md        ← this file (site-wide conventions)
+posts/CLAUDE.md  ← article-specific instructions
+wiki/CLAUDE.md   ← wiki-specific instructions
 ```
 
 ### Hugo Configuration
@@ -110,16 +125,25 @@ Every post must include this front matter. Do not add Jekyll-specific fields lik
 title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With It"
 date: YYYY-MM-DD
 draft: true
+writer: "David R. Ashworth"
 tags: [congress, hardware, consumer-safety]
 image: /posts/YYYY-MM-DD/slugified-headline.jpg
 excerpt: "Lawmakers cited mounting evidence that the straws, once separated, are gone forever."
 ---
 ```
 
+For opinion columns, also include:
+```yaml
+writer: "Gerald K. Vanderbeek"
+column: "The Free Exchange"
+```
+
 ### Field Rules
 - **title** — Full headline. Formal NYT style. Capitalize major words. Can be long.
 - **date** — ISO format. Use today's date unless I specify otherwise.
 - **draft** — Always set to `true` by default. I will explicitly set to `false` when ready to publish.
+- **writer** — Full name of the assigned staff writer. Must match a wiki entry in `wiki/people/`.
+- **column** — Column name, for opinion pieces only.
 - **tags** — 2 to 5 tags. Lowercase, hyphenated. Draw from existing tags where possible before creating new ones.
 - **image** — Path to the article image relative to the site root. Uses the article slug: `/posts/YYYY-MM-DD/slugified-headline.jpg`.
 - **excerpt** — One sentence. Deadpan. This appears in article previews and should function as a secondary joke.
@@ -152,7 +176,10 @@ CSS and JS are written against these class names. All templates must produce thi
 
 A post is ready to commit when:
 - [ ] Markdown file exists in `/posts/YYYY-MM-DD/` with correct filename format
-- [ ] Front matter is complete and valid
+- [ ] Front matter is complete and valid (including `writer` field)
+- [ ] Writer assigned and byline present in article body
+- [ ] Article voice consistent with assigned writer's Private Profile
+- [ ] Wiki consulted for reusable characters and organizations
 - [ ] Dateline is present in the article body
 - [ ] At least two fake attributed quotes included
 - [ ] Generated image exists as `slugified-headline.jpg` in the post directory
@@ -198,4 +225,30 @@ Always run shell commands as individual statements, not compound commands. Do no
 
 ---
 
-*This is the first file committed to the repo. All subsequent work follows these conventions.*
+## Self-Improvement Protocol
+
+These instructions are living documents. Improve them when you have evidence, not speculatively.
+
+### When to Update CLAUDE.md Files
+- **After a correction.** If the user corrects your output and the fix reflects a general principle (not a one-off preference), encode it in the relevant CLAUDE.md.
+- **After a pattern emerges.** If you notice yourself making the same decision repeatedly without guidance, document the decision so future sessions don't have to re-derive it.
+- **After a wiki gap causes a problem.** If you invented a character you could have reused, or contradicted an established fact, note the process failure and tighten the relevant instruction.
+
+### When NOT to Update
+- Do not update instructions based on a single data point. Wait for a pattern.
+- Do not add instructions that restate what the code or wiki already makes obvious.
+- Do not bloat these files with edge cases. Keep instructions general and principled.
+
+### How to Update
+- Propose the change to the user before making it. Say what you want to add or modify and why.
+- Keep the CLAUDE.md files concise. If a section grows beyond its usefulness, refactor or split it.
+- The root CLAUDE.md covers site-wide conventions. `posts/CLAUDE.md` covers article creation. `wiki/CLAUDE.md` covers the fictional universe. Put instructions in the right place.
+
+### Wiki Self-Improvement
+- After writing articles, note characters, institutions, or places that should be added to or updated in the wiki. Flag these to the user.
+- Periodically review writer profiles against recent articles to check for voice drift. Update profiles to match evolved voices.
+- Watch for worldbuilding opportunities: when two unrelated articles share a geography, institution, or theme, consider connecting them in the wiki.
+
+---
+
+*All subsequent work follows these conventions.*
