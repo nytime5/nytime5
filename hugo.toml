@@ -16,7 +16,7 @@ languageCode = "en-us"
   pagerSize = 20
 
 [params]
-  description = "All the News That's Fit to Invent"
+  description = "All the News That's Fit to Mint"
 
 # Mount posts/ as both content and static so images are served
 [[module.mounts]]
