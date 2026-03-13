@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: science-technology
 status: active
+image: /wiki/people/caroline-banks.jpg
 ---
 
 ## Public Biography

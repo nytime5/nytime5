@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "The Free Exchange"
 political-lean: libertarian
 status: active
+image: /wiki/people/gerald-k-vanderbeek.jpg
 ---
 
 ## Public Biography

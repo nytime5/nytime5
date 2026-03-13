@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: food
 status: active
+image: /wiki/people/dina-harwell.jpg
 ---
 
 ## Public Biography

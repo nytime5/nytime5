@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "Carrying Capacity"
 political-lean: radical-environmentalist
 status: active
+image: /wiki/people/dr-elena-voss.jpg
 ---
 
 ## Public Biography

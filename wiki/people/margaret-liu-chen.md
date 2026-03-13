@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: metro
 status: active
+image: /wiki/people/margaret-liu-chen.jpg
 ---
 
 ## Public Biography

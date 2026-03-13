@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "The Way We Were"
 political-lean: nostalgist-conservative
 status: active
+image: /wiki/people/judith-ann-crossley.jpg
 ---
 
 ## Public Biography

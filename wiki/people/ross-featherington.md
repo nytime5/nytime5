@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: culture-lifestyle
 status: active
+image: /wiki/people/ross-featherington.jpg
 ---
 
 ## Public Biography

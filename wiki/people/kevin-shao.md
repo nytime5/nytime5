@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "Ship It"
 political-lean: techno-optimist
 status: active
+image: /wiki/people/kevin-shao.jpg
 ---
 
 ## Public Biography

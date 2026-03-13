@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "Order of Operations"
 political-lean: law-and-order-authoritarian
 status: active
+image: /wiki/people/frank-j-diorio.jpg
 ---
 
 ## Public Biography

@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: obituaries
 status: active
+image: /wiki/people/martin-kessler.jpg
 ---
 
 ## Public Biography

@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "From Here"
 political-lean: localist-communitarian
 status: active
+image: /wiki/people/nancy-ostrander.jpg
 ---
 
 ## Public Biography

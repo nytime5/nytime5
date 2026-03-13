@@ -5,6 +5,7 @@ subtype: opinion-columnist
 column: "On Balance"
 political-lean: radical-centrist
 status: active
+image: /wiki/people/graham-t-weatherstone.jpg
 ---
 
 ## Public Biography

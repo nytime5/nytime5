@@ -4,6 +4,7 @@ type: person
 subtype: beat-reporter
 beat: politics
 status: active
+image: /wiki/people/david-r-ashworth.jpg
 ---
 
 ## Public Biography
