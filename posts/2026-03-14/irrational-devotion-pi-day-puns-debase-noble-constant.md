@@ -1,7 +1,7 @@
 ---
 title: "An Irrational Devotion: How Pi Day Puns Have Debased the Noblest Constant in Mathematics"
 date: 2026-03-14
-draft: true
+draft: false
 writer: "Kristoffer Kitchens"
 column: "The Contrarian"
 tags: [mathematics, pi-day, culture, opinion]
