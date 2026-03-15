@@ -78,6 +78,17 @@ real-person: true
 amplification: "known trait pushed to absurd logical extreme"
 ```
 
+**Multiverse counterparts** (see [`wiki/universe.md`](/wiki/universe/) for full details):
+```yaml
+multiverse-counterpart: "Real Person Name"   # replaces the real person entirely
+```
+
+**Evil multiverse twins** (see [`wiki/universe.md`](/wiki/universe/) for full details):
+```yaml
+evil-twin-of: "Real Person Name"             # coexists with the real person
+origin: "transporter accident, 2019"         # how the twin arrived
+```
+
 **Organizations:**
 ```yaml
 subtype: institute           # institute, agency, corporation, club, association

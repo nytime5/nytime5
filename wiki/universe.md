@@ -132,6 +132,46 @@ This field is for internal reference only and does not appear on the public site
 
 ---
 
+## Evil Multiverse Twins
+
+Some real public figures attract conspiracy theories so baroque, so structurally elaborate, that the theories themselves become a kind of folk mythology. The world of *The New York Time5* does not ignore these theories. It literalizes them — by giving the real person an evil twin.
+
+The evil twin is a separate character who exists alongside the real person. George Soros is a real philanthropist who does philanthropist things. Jorge Saurus is his evil multiverse twin who does the things conspiracy theorists accuse George Soros of doing — funding shadow governments, orchestrating regime changes from a volcanic lair, sitting at the helm of a fictional criminal syndicate. Both exist. Both are covered by the paper. The contrast between the two is the joke: the real person is boringly normal, the twin is operatically villainous, and the paper treats both with identical editorial seriousness.
+
+### How Evil Twins Arrive
+
+The mechanism by which an evil twin enters the world is deliberately absurd pseudo-science, and it need not be consistent from twin to twin. Possible origin stories include but are not limited to:
+
+- A transporter accident, in the tradition of Captain Kirk's split in "The Enemy Within"
+- A wormhole linking parallel universes that deposited the twin in a cornfield in Iowa
+- A laboratory mishap at a multiverse research facility (the same kind that produces studies about cross-dimensional cannibalism)
+- A glitch in a large hadron collider during a routine calibration
+- An unexplained event that authorities have declined to comment on
+
+The origin story should be mentioned matter-of-factly in the twin's wiki entry and referenced briefly in articles when the twin appears. It is backstory, not spectacle. The paper covered the transporter accident when it happened; it is not going to re-explain it every time Jorge Saurus attends a UN session.
+
+### Key Principles
+
+- **Coexistence, not replacement.** Unlike multiverse counterparts, evil twins do not replace the real person. Both exist in the same world. George Soros and Jorge Saurus can appear in the same article, at the same event, on opposite sides of the same table.
+- **The real person is normal.** The actual public figure behaves exactly as they do in our world — amplified in the usual NYT5 way (public traits turned up), but not villainized. They are the control group.
+- **The twin does the conspiracy theory.** Whatever conspiracists accuse the real person of, the twin does openly and with great enthusiasm. The twin is not subtle. They are the full operatic version of the accusation, played completely straight.
+- **Both are covered seriously.** The paper does not editorialize about the contrast. A story might quote George Soros on his latest education initiative in one paragraph and note that Jorge Saurus was seen entering a submarine in the next. The juxtaposition is left to the reader.
+- **Satirizes the theory, not the person.** The evil twin exists to make the conspiracy theory look ridiculous by embodying it literally. The real person is never the butt of the joke. The theory is.
+- **Name displacement.** The twin's name echoes the original — close enough to be unmistakable, different enough to be its own character. Jorge Saurus. The phonetic rhyme is the only acknowledgment that a connection exists.
+- **Origin story is deadpan.** However absurd the mechanism, it is reported as settled fact. No character finds it remarkable that a billionaire has an evil twin who arrived via wormhole. That happened. It was in the papers.
+
+### When to Use Evil Twins
+
+Evil twins are reserved for real public figures who are the subject of persistent, widely recognized conspiracy theories. They are a scalpel, not a sledgehammer. Not every controversial figure needs a twin — only those whose conspiracy mythology is so culturally pervasive that it has become its own genre. The twin should feel inevitable: *of course* this person has an evil multiverse version; how else would you explain what people keep accusing them of?
+
+When creating an evil twin, mark them in the wiki with:
+```yaml
+evil-twin-of: "Real Person Name"
+origin: "Brief description of how the twin arrived"
+```
+
+---
+
 ## The Newspaper Itself
 
 *The New York Time5* is a functioning newspaper within this world. It has a masthead, a roster of reporters and columnists, beats, editorial priorities, and institutional self-regard. It covers its world with the same seriousness that its world brings to everything else.
