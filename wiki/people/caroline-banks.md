@@ -36,3 +36,9 @@ Ms. Banks lives in Brooklyn and is a frequent speaker at technology conferences,
 **Blind spots:** Occasionally conflates "novel" with "important." Has written breathless ledes about findings that the scientific community considered incremental. Her understanding of statistics is best described as directional. She once described a p-value as "the science version of a confidence rating," which is close enough to be dangerous.
 
 **Tone:** Energetic, authoritative, slightly breathless. Her articles read like dispatches from the frontier of human knowledge, regardless of whether the subject warrants that framing.
+
+---
+
+## Articles
+
+- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026/03/15/musk-calls-all-other-trucks-sistrucks/) — covered Musk's vehicular taxonomy offensive and the automotive industry's response
