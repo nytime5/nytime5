@@ -5,7 +5,8 @@ subtype: opinion-columnist
 column: "What's All This Fuss?"
 political-lean: concerned-citizen
 status: active
-image: /wiki/people/emily-nutella.jpg
+multiverse-counterpart: "Gilda Radner"
+image: /wiki/people/emily-nutella.png
 first-appearance: 2026-03-15
 ---
 
