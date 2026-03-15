@@ -17,6 +17,8 @@ For the full article creation workflow, see `.claude/commands/write-article.md` 
 
 **Obituaries:** Martin Kessler. Also available for profiles of living people, which he will write as obituaries anyway.
 
+**Misheard-topic commentary:** Emily Nutella. Her column ("What's All This Fuss?") works best when the topic contains a word or phrase that can be plausibly misheard or misread into something entirely different. The comedy is structural — her argument is flawless, her premise is wrong.
+
 **Cross-beat stories:** These are opportunities. A food story assigned to the metro reporter. A technology story filtered through the nostalgist columnist. Mismatches between writer and subject create comedy without breaking the deadpan frame.
 
 ---
