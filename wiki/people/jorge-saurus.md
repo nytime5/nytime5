@@ -4,6 +4,7 @@ type: person
 subtype: evil-twin
 status: active
 first-appearance: 2026-03-10
+image: /wiki/people/jorge-saurus.jpg
 evil-twin-of: "George Soros"
 origin: "Dimensional breach at CERN during routine calibration, August 2017"
 ---

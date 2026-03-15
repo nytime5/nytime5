@@ -89,6 +89,8 @@ evil-twin-of: "Real Person Name"             # coexists with the real person
 origin: "transporter accident, 2019"         # how the twin arrived
 ```
 
+**Headshots for counterparts and evil twins:** Characters with `multiverse-counterpart` or `evil-twin-of` fields must have headshots that visually resemble their real-world counterpart — a doppelganger effect. For evil twins, add sinister visual cues: slightly dramatic lighting with shadow on one side of the face, unsettling stare, asymmetric smirk, high-collar clothing casting shadows. The resemblance reinforces the satirical connection between the fictional and real figures.
+
 **Organizations:**
 ```yaml
 subtype: institute           # institute, agency, corporation, club, association
