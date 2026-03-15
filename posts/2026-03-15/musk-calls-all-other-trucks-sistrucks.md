@@ -8,7 +8,7 @@ image: /posts/2026-03-15/musk-calls-all-other-trucks-sistrucks.jpg
 excerpt: "The designation, which Mr. Musk introduced without further explanation, has already entered internal Tesla documentation."
 ---
 
-![Elon Musk gesturing toward a row of conventional pickup trucks at a Tesla facility in Austin, Texas, on Friday, during what the company described as a "vehicular taxonomy briefing." Credit: Marcus Yelverton/Reuters](musk-calls-all-other-trucks-sistrucks.jpg)
+![Elon Musk presenting the Cybertruck alongside a row of conventional pickups at Tesla's Gigafactory in Austin, Texas, on Friday. Mr. Musk referred to the other vehicles only as "sistrucks" throughout the event. Credit: Marcus Yelverton/Reuters](musk-calls-all-other-trucks-sistrucks.jpg)
 
 **By Caroline Banks**
 
