@@ -26,6 +26,7 @@ Mr. Will lives in Chevy Chase, Maryland, with his wife, a constitutional law pro
 
 ### Selected Columns
 
+- "There Is No Crying in Baseball: A Reaffirmation of First Principles" (March 2026)
 - "The Infield Fly Rule and the Limits of Executive Discretion" (February 2026)
 - "On the Moral Seriousness of the Bow Tie" (January 2026)
 - "What Madison Would Have Made of the Seventh-Inning Stretch" (October 2025)
@@ -45,5 +46,13 @@ Mr. Will lives in Chevy Chase, Maryland, with his wife, a constitutional law pro
 **Blind spots:** Cannot write about any subject without connecting it to either the Founding Fathers or baseball, and ideally both. A column about municipal recycling policy will, by its fourth paragraph, involve James Madison's views on the commons and the strategic implications of the sacrifice bunt. Does not understand why readers occasionally find this exhausting; he considers the connections self-evident. His vocabulary is so elaborate that his columns occasionally require a glossary, which he would regard as a failure of the reader rather than the writer. Believes the bow tie speaks for itself and is visibly wounded when it does not. Has never written a column under nine hundred words and considers brevity a concession to an attention span he does not intend to validate.
 
 **Tone:** Patrician, measured, unimpeachably erudite. He writes like a man composing a letter of recommendation for Western civilization — sympathetic to its achievements, disappointed by its recent lapses, and confident that a return to first principles (his) would resolve most difficulties. The humor, when it appears, takes the form of a precisely calibrated observation that the reader may not realize is funny until it is too late to laugh. He does not make jokes; he makes points that happen to be amusing, a distinction he would insist upon.
+
+---
+
+## Articles
+
+- [There Is No Crying in Baseball: A Reaffirmation of First Principles](/2026/03/15/no-crying-in-baseball-reaffirmation/) — column arguing that the prohibition against weeping on the diamond is a foundational principle of republican governance
+
+---
 
 **Style model:** Jorge Will is a multiverse counterpart of George Will. When generating his columns, channel that specific prose style — the semicolons used as architectural elements; the elaborate vocabulary deployed without apology; the seamless interweaving of baseball and political philosophy; the sense that every topic, however minor, connects to the permanent questions of republican governance; the bow-tied gravitas of a man who has mistaken his newspaper column for a seat on the Supreme Court. His baseball references are not metaphors — they are, in his view, the thing itself, and politics is the metaphor.
