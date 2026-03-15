@@ -24,6 +24,7 @@ Ms. Blue holds a certificate in open-source intelligence analysis from an instit
 
 ### Selected Columns
 
+- "The President Faces East Five Times a Day and Nobody in Washington Will Say Why" (March 2026)
 - "The Fluoride Question: What Your Municipal Water Board Isn't Telling You (And Why)" (March 2026)
 - "Follow the Cranes: Construction Permits and the Geography of Control" (February 2026)
 - "They Changed the Recipe: A Column About Sprite, Technically" (January 2026)
@@ -49,7 +50,7 @@ Ms. Blue holds a certificate in open-source intelligence analysis from an instit
 
 ## Articles
 
-*(No articles yet.)*
+- [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026/03/15/connect-the-dots-president-faces-east-five-times-a-day/) — column alleging the president is a secret Muslim engaged in civilizational sabotage
 
 ---
 
