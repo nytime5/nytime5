@@ -5,6 +5,28 @@
     <p class="post-meta">
       <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     </p>
+    {{ with .Params.writer }}
+      {{ $writerSlug := . | urlize }}
+      {{ $writerPage := site.GetPage (printf "/wiki/people/%s" $writerSlug) }}
+      {{ if $writerPage }}
+        <div class="post-byline">
+          {{ with $writerPage.Params.image }}
+            <a href="{{ $writerPage.RelPermalink }}"><img class="post-byline-photo" src="{{ . }}" alt="{{ $writerPage.Title }}"></a>
+          {{ end }}
+          <div class="post-byline-text">
+            {{ with $.Params.column }}<span class="post-byline-column">{{ . }}</span>{{ end }}
+            <span class="post-byline-name">By <a href="{{ $writerPage.RelPermalink }}">{{ $writerPage.Title }}</a></span>
+          </div>
+        </div>
+      {{ else }}
+        <div class="post-byline">
+          <div class="post-byline-text">
+            {{ with $.Params.column }}<span class="post-byline-column">{{ . }}</span>{{ end }}
+            <span class="post-byline-name">By {{ . }}</span>
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
   </header>
   <div class="post-content">
     {{ .Content }}

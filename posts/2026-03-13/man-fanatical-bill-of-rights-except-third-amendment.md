@@ -10,8 +10,6 @@ excerpt: "Mr. Caldwell has memorized the full text of the first ten amendments, 
 
 ![Glenn Caldwell standing in front of his living room wall, which displays framed copies of nine of the ten amendments in the Bill of Rights, arranged in sequence with a conspicuous gap between the second and the fourth. Credit: Nora Pressman/The New York Time5](man-fanatical-bill-of-rights-except-third-amendment.jpg)
 
-**By Ross Featherington**
-
 KETTERING, Ohio — The pocket Constitution that Glenn Caldwell carries at all times — in a custom leather sleeve monogrammed with his initials — has a small piece of electrical tape over one section. It covers, precisely, the Third Amendment, which prohibits the quartering of soldiers in private homes without the owner's consent. Mr. Caldwell, 54, a retired HVAC technician who describes himself as "a constitutionalist in the fullest sense, with one exception," does not like to talk about it.
 
 He will, however, talk about everything else.

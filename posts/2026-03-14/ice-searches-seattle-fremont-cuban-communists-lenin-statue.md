@@ -10,8 +10,6 @@ excerpt: "Senior White House adviser Stephen Miller reportedly identified the si
 
 ![ICE agents in tactical vests conferring near the sixteen-foot bronze statue of Vladimir Lenin in Seattle's Fremont neighborhood on Thursday morning, as a woman with a reusable grocery bag looked on from across the street. Credit: Marcus Yuen/Pacific Northwest Wire](ice-searches-seattle-fremont-cuban-communists-lenin-statue.jpg)
 
-**By Robin Wrong**
-
 SEATTLE — The Trump administration has directed Immigration and Customs Enforcement to deploy agents to the [Fremont](/wiki/places/fremont-seattle/) neighborhood of Seattle to search for undocumented Cuban immigrants believed to be congregating near the neighborhood's sixteen-foot bronze [statue of Vladimir Lenin](/wiki/places/fremont-lenin-statue/), according to three officials briefed on the operation who spoke on condition of anonymity because they were not authorized to describe what one of them called "the most ideologically targeted enforcement action in the agency's history."
 
 The directive, which originated from senior White House adviser Stephen Miller, was based on what administration officials described as "credible intelligence" that illegal immigrants from Cuba — a communist nation — would be "naturally drawn" to the statue, a Cold War-era monument originally cast in Bratislava, Czechoslovakia, and installed on a Fremont street corner in 1995. Mr. Miller reportedly told ICE leadership in a briefing last week that the statue functioned as "a magnet for ideological elements" and that any undocumented persons found within a two-block radius should be considered "presumptively communist until demonstrated otherwise."

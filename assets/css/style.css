@@ -90,6 +90,44 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--color-fg-light);
 }
 
+.post-byline {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.post-byline-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.post-byline-text {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.post-byline-column {
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.post-byline-name a {
+  color: var(--color-fg);
+  text-decoration: none;
+}
+
+.post-byline-name a:hover {
+  text-decoration: underline;
+}
+
 .post-share {
   margin-top: 2rem;
   padding-top: 1rem;

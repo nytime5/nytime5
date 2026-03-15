@@ -10,8 +10,6 @@ excerpt: "The designation, which Mr. Musk introduced without further explanation
 
 ![Elon Musk presenting the Cybertruck alongside a row of conventional pickups at Tesla's Gigafactory in Austin, Texas, on Friday. Mr. Musk referred to the other vehicles only as "sistrucks" throughout the event. Credit: Marcus Yelverton/Reuters](musk-calls-all-other-trucks-sistrucks.jpg)
 
-**By Caroline Banks**
-
 AUSTIN, Tex. — Elon Musk, responding to what he characterized as years of "coordinated definitional aggression" from the automotive establishment, announced Friday that all pickup trucks not manufactured by Tesla would henceforth be referred to as "sistrucks," a term he said more accurately captured their relationship to the Cybertruck and their position within what researchers are now calling the emerging hierarchy of vehicular legitimacy.
 
 "The Cybertruck is the truck," Mr. Musk wrote in a post on X, the social media platform he owns. "Everything else is a sistruck. This is not complicated." He followed the statement with a second post reading simply "sistruck," and then a third consisting of a photograph of a Ford F-150 with the word "sistruck" superimposed in large red letters. Within an hour, the post had been viewed forty-seven million times and the term had entered Tesla's official glossary of approved product terminology.

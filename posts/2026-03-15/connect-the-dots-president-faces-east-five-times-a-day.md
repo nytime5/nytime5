@@ -11,8 +11,6 @@ excerpt: "The evidence has been accumulating in plain sight for years, and the c
 
 ![The columnist's personal research board, photographed at her farmhouse outside Dalton, Georgia, on Friday evening. Ms. Blue says she has been "building the case quietly" for over two years. Credit: Karen Mull/The New York Time5](connect-the-dots-president-faces-east-five-times-a-day.jpg)
 
-**Connect the Dots | By [Marjorie Taylor Blue](/wiki/people/marjorie-taylor-blue/)**
-
 Mecca.
 
 Let me tell you what nobody is talking about.

@@ -10,8 +10,6 @@ excerpt: "Analysts said the merger raised significant questions about antitrust 
 
 ![Jorge Saurus addressing the joint SPECTRE-CHAOS leadership council at an undisclosed location believed to be beneath the Adriatic Sea on Wednesday. Credit: Mikhail Dressner/Reuters](saurus-consolidates-spectre-chaos.jpg)
 
-**By David S. Anger**
-
 WASHINGTON — [Jorge Saurus](/wiki/people/jorge-saurus/), the Hungarian-American billionaire and self-described "architect of instability," has formally assumed the chairmanship of both [SPECTRE](/wiki/organizations/spectre/) and [CHAOS](/wiki/organizations/chaos/), completing a years-long consolidation that intelligence officials said represents the most significant restructuring of global shadow operations since the Cold War.
 
 The dual appointment, announced in filings submitted to the Liechtenstein corporate registry on Tuesday and first reported by *Jane's Shadow Intelligence Review*, gives Mr. Saurus operational control over the world's two largest clandestine organizations — entities that have, until now, maintained what analysts describe as a "competitive equilibrium" in the global destabilization market.

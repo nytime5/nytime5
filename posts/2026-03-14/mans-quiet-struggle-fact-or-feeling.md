@@ -10,8 +10,6 @@ excerpt: "Friends and family say they have learned to wait for Mr. Alderman to f
 
 ![Neil Alderman pausing midsentence during a conversation with his wife in their Montclair, N.J., kitchen on Tuesday evening. He had been describing the weather. Credit: Margaret Huang/The New York Time5](mans-quiet-struggle-fact-or-feeling.jpg)
 
-**By Ross Featherington**
-
 MONTCLAIR, N.J. — The kitchen is warm and smells faintly of cumin. Neil Alderman, 43, is standing near the counter with a mug of tea he has not yet touched, looking at a point on the wall that does not appear to contain anything of interest. His wife, Sandra, is seated at the table, scrolling through her phone. The house is quiet except for the hum of a refrigerator that Mr. Alderman has described, at various times, as "loud," "kind of loud," and "not actually that loud, I think I'm just sensitive to it." He is not sure which of these descriptions is the accurate one. He is no longer sure it matters.
 
 "I'll be talking to someone," Mr. Alderman said, turning the mug in his hands, "and I'll say something like, 'That meeting was tense.' And then I'll stop, because I don't know if the meeting was tense, or if I was tense. And those are — those are very different things. But I've already said it. And now the other person thinks the meeting was tense."

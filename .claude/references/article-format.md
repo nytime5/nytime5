@@ -53,17 +53,7 @@ column: "The Free Exchange"
 
 ## Byline Format
 
-Every article includes a byline after the image and before the dateline:
-
-```markdown
-**By Margaret Liu-Chen**
-```
-
-For opinion columns, use the column name as a prefix:
-
-```markdown
-**The Free Exchange | By Gerald K. Vanderbeek**
-```
+Bylines are generated automatically by the Hugo template from the `writer` and `column` front matter fields. The template looks up the writer's wiki page to display their profile photo and link to their profile. **Do not add a byline line in the article body.**
 
 ---
 
@@ -99,7 +89,7 @@ Include the image at the top of the article body (after front matter, before the
 A post is ready to commit when:
 - [ ] Markdown file exists in `/posts/YYYY-MM-DD/` with correct filename format
 - [ ] Front matter is complete and valid (including `writer` field)
-- [ ] Writer assigned and byline present in article body
+- [ ] Writer assigned (byline is auto-generated from front matter)
 - [ ] Article voice consistent with assigned writer's Private Profile
 - [ ] Wiki consulted for reusable characters and organizations
 - [ ] Dateline is present in the article body

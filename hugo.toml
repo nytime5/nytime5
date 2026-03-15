@@ -36,7 +36,7 @@ languageCode = "en-us"
 [[module.mounts]]
   source = "wiki"
   target = "static/wiki"
-  includeFiles = "**/*.jpg"
+  includeFiles = ["**/*.jpg", "**/*.png"]
 
 [[module.mounts]]
   source = "assets"
