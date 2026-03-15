@@ -2,7 +2,7 @@
 title: "Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations"
 date: 2026-03-14
 draft: false
-writer: "David Anger"
+writer: "David S. Anger"
 tags: [national-security, intelligence, jorge-saurus, spectre, chaos, shadow-sector]
 image: /posts/2026-03-14/saurus-consolidates-spectre-chaos.jpg
 excerpt: "Analysts said the merger raised significant questions about antitrust enforcement in the shadow sector."
@@ -10,7 +10,7 @@ excerpt: "Analysts said the merger raised significant questions about antitrust 
 
 ![Jorge Saurus addressing the joint SPECTRE-CHAOS leadership council at an undisclosed location believed to be beneath the Adriatic Sea on Wednesday. Credit: Mikhail Dressner/Reuters](saurus-consolidates-spectre-chaos.jpg)
 
-**By David Anger**
+**By David S. Anger**
 
 WASHINGTON — [Jorge Saurus](/wiki/people/jorge-saurus/), the Hungarian-American billionaire and self-described "architect of instability," has formally assumed the chairmanship of both [SPECTRE](/wiki/organizations/spectre/) and [CHAOS](/wiki/organizations/chaos/), completing a years-long consolidation that intelligence officials said represents the most significant restructuring of global shadow operations since the Cold War.
 

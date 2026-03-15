@@ -23,7 +23,7 @@ For much of its history, SPECTRE operated under the leadership of a succession o
 
 - The 1964 theft of a NATO encryption device, which SPECTRE returned three weeks later with a note describing the encryption as "inadequate" and offering consulting services
 - A 1978 attempt to corner the global silver market, which failed but was described by the *Financial Times* as "logistically impressive"
-- The 2003 infiltration of six international financial institutions, revealed by [David Anger](/wiki/people/david-anger/) of *The New York Time5* in a six-part investigation
+- The 2003 infiltration of six international financial institutions, revealed by [David S. Anger](/wiki/people/david-anger/) of *The New York Time5* in a six-part investigation
 - A 2019 cyberattack on the World Meteorological Organization, the purpose of which has never been explained and which SPECTRE has described only as "atmospheric"
 
 ---
