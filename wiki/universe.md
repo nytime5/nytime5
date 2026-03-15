@@ -6,7 +6,7 @@ status: active
 
 ## Overview
 
-The world of *The New York Time5* is not an alternate reality. It is this reality, observed by a newspaper that has never once considered the possibility that anything might not warrant full institutional scrutiny. The laws of physics are unchanged. The geography is accurate. The history is real. What differs is the density of expertise, the seriousness of response, and the absolute refusal — by every person, institution, and governing body — to acknowledge that anything is disproportionate.
+The world of *The New York Time5* is an alternative universe — one that shares most of its geography, history, and physical laws with our own but diverges in ways both subtle and operatic. The overlap is substantial enough that real people, real institutions, and real cities are immediately recognizable. What differs is the density of expertise, the seriousness of response, and the absolute refusal — by every person, institution, and governing body — to acknowledge that anything is disproportionate. Transporter accidents produce evil twins. Federal bureaus fund multiverse research. A newspaper covers all of it with identical editorial commitment, because in this world, all of it is news.
 
 This is not parody. The world is not winking. A man who removes his shoes to tie them is not a comic figure; he is a subject of reportorial inquiry whose podiatric limitations have implications for workplace accessibility policy, and somewhere there is a institute that has been tracking this.
 
