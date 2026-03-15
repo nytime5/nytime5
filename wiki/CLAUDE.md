@@ -122,9 +122,35 @@ The user may override writer assignment by specifying a writer or beat.
 ## Continuity Rules
 
 - **Check before creating.** Before inventing a new expert, institution, or place, search the wiki for an existing one that fits. Reuse builds the world; proliferation dilutes it.
-- **Update after writing.** If an article quotes a wiki character, update their entry with the new appearance. If it introduces someone new who could recur, create an entry.
+- **Create entries for new introductions.** If an article introduces a new fictional person, organization, or institution, create a wiki entry immediately — do not defer. This is mandatory, not optional.
 - **No contradictions.** If Dr. Holloway was skeptical of federal hardware policy in March, she should not be enthusiastic about it in April without an explanation.
 - **Accumulate, don't reset.** Characters should develop over time. Positions harden. Obsessions deepen. The columnists should slowly become more themselves.
+
+---
+
+## Cross-Linking Requirements
+
+Wiki entries must be richly cross-linked in three directions:
+
+### Wiki → Articles (back-links)
+Every wiki entry should include an **Articles** section listing the posts where the person, organization, or place appears. Use markdown links to the actual post paths:
+
+```markdown
+## Articles
+
+- [Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw](/posts/2026-03-11/congress-bans-wd40-storage-without-red-straw/) — quoted as lead expert on straw retention policy
+```
+
+Update this section each time the entity appears in a new article.
+
+### Wiki → Wiki (inter-linking)
+Link between wiki entries when entities are related. A person's entry should link to the organization they lead. An organization entry should link to its director. An event entry should link to the people and places involved.
+
+- **First mention per section**, same as articles. Link the name naturally in prose.
+- Example: In Dr. Holloway's entry, the first mention of the Institute for Consumer Hardware Safety links to `/wiki/organizations/institute-for-consumer-hardware-safety/`.
+
+### Articles → Wiki
+Covered in root `CLAUDE.md` § "Wiki Cross-Linking." First mention of any entity with a wiki entry gets a link.
 
 ---
 

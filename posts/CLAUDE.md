@@ -8,12 +8,12 @@ Instructions specific to writing articles. Read the root `CLAUDE.md` for site-wi
 
 When the user gives a topic prompt:
 
-1. **Consult the wiki.** Check `wiki/people/` for writers and recurring characters relevant to the topic. Check `wiki/organizations/` and `wiki/places/` for existing entities that fit.
+1. **Consult the wiki.** Check `wiki/people/` for recurring characters relevant to the topic. Check `wiki/organizations/` and `wiki/places/` for existing entities that fit. Reuse over invention — a smaller cast that recurs is better than an endless parade of disposable names.
 2. **Assign a writer.** Match the topic to the best-fit writer from the roster. The writer's Private Profile shapes the article's voice, structure, and obsessions. State the byline in the article.
-3. **Reuse wiki characters.** Prefer existing experts, officials, and institutions over inventing new ones. A smaller cast that recurs is better than an endless parade of disposable names.
-4. **Write the article.** Follow the voice and tone rules in root `CLAUDE.md`, filtered through the assigned writer's sensibility.
-5. **Generate the image.** Per root `CLAUDE.md` image requirements.
-6. **Update the wiki.** After writing, note any new characters or organizations worth adding to the wiki. Flag this to the user rather than creating entries silently.
+3. **Write the article.** Follow the voice and tone rules in root `CLAUDE.md`, filtered through the assigned writer's sensibility. **Cross-link** the first mention of every person, organization, place, or event that has a wiki entry.
+4. **Generate the image.** Per root `CLAUDE.md` image requirements.
+5. **Create wiki entries.** For every new fictional person, organization, or institution introduced in the article, create a wiki entry immediately. Link to it from the article. See root `CLAUDE.md` § "Wiki Entry Creation" for what qualifies.
+6. **Update existing wiki entries.** If the article quotes or references an existing wiki character, add the article to their "Articles" section with a link back to the post.
 
 ---
 
@@ -106,7 +106,9 @@ In addition to the root `CLAUDE.md` checklist, verify:
 - [ ] Byline appears in the article body
 - [ ] Article voice is consistent with the assigned writer's Private Profile
 - [ ] Wiki characters are used where appropriate (check before inventing)
-- [ ] Any new recurring characters flagged for potential wiki entry
+- [ ] First mention of every wiki-entry person/org/place is hyperlinked in the article body
+- [ ] Wiki entries created for all new fictional people, organizations, and institutions
+- [ ] Existing wiki entries updated with back-links to this article
 
 ---
 
