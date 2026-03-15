@@ -1,7 +1,7 @@
 ---
 title: "Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue"
 date: 2026-03-14
-draft: true
+draft: false
 writer: "Robin Wrong"
 tags: [immigration, seattle, white-house, ice, communism]
 image: /posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue.jpg
