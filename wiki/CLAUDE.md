@@ -15,7 +15,9 @@ The wiki serves two audiences:
 
 ## The Fictional Universe
 
-The world of *The New York Time5* is a hybrid of reality and fiction. It is our world with the dial turned up:
+The world of *The New York Time5* is a hybrid of reality and fiction. It is our world with the dial turned up. The full elaboration of how this world works — its expertise economy, institutional gravity, data fetish, legislative seriousness, and core mechanic of mundane escalation — is documented in [`wiki/universe.md`](/wiki/universe/). Consult that entry before writing to internalize the world's operating principles.
+
+Summary of the boundary rules:
 
 - **Real public figures** appear with amplified versions of their *public* personas. Never fabricate private behavior. A senator known for long speeches becomes a senator whose filibusters cause structural damage.
 - **Fictional notable people** — experts, officials, institute directors — populate the world as recurring characters with consistent histories.

@@ -38,7 +38,7 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 
 ## The Fictional Universe
 
-The site is set in a version of our world with the dial turned up. Real people, places, and institutions coexist with fictional ones. The wiki (`wiki/`) is the canonical reference for this universe. See `wiki/CLAUDE.md` for full details.
+The site is set in a version of our world with the dial turned up. Real people, places, and institutions coexist with fictional ones. The wiki (`wiki/`) is the canonical reference for this universe. See `wiki/CLAUDE.md` for full details and [`wiki/universe.md`](/wiki/universe/) for the elaborated operating principles of the world — the expertise economy, institutional gravity, mundane escalation, and other mechanics that make every article consistent.
 
 Key principles:
 - **Real public figures** have amplified public personas. Never fabricate private behavior.
