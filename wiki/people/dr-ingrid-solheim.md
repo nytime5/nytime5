@@ -32,4 +32,4 @@ Dr. Solheim has testified before the Washington State Legislature on three occas
 
 ## Articles
 
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted as expert on immigration settlement patterns near public monuments
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted as expert on immigration settlement patterns near public monuments

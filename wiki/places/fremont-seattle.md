@@ -32,4 +32,4 @@ The neighborhood's relationship with the rest of Seattle is one of cheerful sece
 
 ## Articles
 
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — setting of ICE enforcement operation targeting the Lenin statue
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — setting of ICE enforcement operation targeting the Lenin statue

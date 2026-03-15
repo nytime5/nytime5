@@ -30,4 +30,4 @@ Before entering politics, Ms. Harada worked as a public interest attorney specia
 
 ## Articles
 
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted responding to ICE agents' instruction to "secure" the Fremont Troll
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted responding to ICE agents' instruction to "secure" the Fremont Troll

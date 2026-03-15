@@ -27,4 +27,4 @@ The statue stands at the point of a small triangular lot where three streets con
 
 ## Articles
 
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — the statue identified by the White House as a "beacon" for ideological elements; ICE agents deployed to its vicinity
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — the statue identified by the White House as a "beacon" for ideological elements; ICE agents deployed to its vicinity

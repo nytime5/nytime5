@@ -56,4 +56,4 @@ She is a five-time recipient of the George Polk Award, though the committee has 
 
 ## Articles
 
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — bylined reporter, covering the ICE deployment to Fremont as though it were a military incursion into a contested theater
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — bylined reporter, covering the ICE deployment to Fremont as though it were a military incursion into a contested theater

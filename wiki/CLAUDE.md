@@ -157,7 +157,7 @@ Every wiki entry should include an **Articles** section listing the posts where 
 ```markdown
 ## Articles
 
-- [Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw](/posts/2026-03-11/congress-bans-wd40-storage-without-red-straw/) — quoted as lead expert on straw retention policy
+- [Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw](/2026/03/11/congress-bans-wd40-storage-without-red-straw/) — quoted as lead expert on straw retention policy
 ```
 
 Update this section each time the entity appears in a new article.
