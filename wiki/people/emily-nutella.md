@@ -27,6 +27,7 @@ She lives in Yonkers with her cat, Mr. Buttons, and describes herself as "a conc
 - "What's All This Fuss About Endangered Feces?" (March 2025) — *a passionate defense of the nation's sewage infrastructure, which she believed was under federal attack; the article had been about endangered species*
 - "The Supreme Court Has No Business Ruling on Sax Education" (October 2025) — *a stirring argument for the importance of music programs; the case had been about sex education*
 - "Why Is the Government Spending Millions on Nuclear Warheads When Children Need Hats?" (January 2026) — *the article had been about nuclear wareheads, a proposed warehouse modernization program*
+- ["Not All Heroes Wear Crepes"](/2026/03/15/not-all-heroes-wear-crepes/) (March 2026) — *a defense of crepe-makers as unsung American heroes; the phrase had been "not all heroes wear capes," a popular expression about everyday heroism*
 
 *Editor's note: Ms. Nutella's columns are published with a standing correction policy. Updates appear at the conclusion of each piece.*
 
