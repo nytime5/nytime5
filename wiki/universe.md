@@ -110,6 +110,28 @@ Real people, places, and institutions coexist with fictional ones. The boundary 
 
 ---
 
+## Multiverse Counterparts
+
+Some characters in the world of *The New York Time5* are not original creations but multiverse versions of real people. They are the person our world produced, run through a different filter — the name shifted, the traits amplified, the biography refracted. The real person does not exist in the NYT5 world. The counterpart replaces them entirely.
+
+Kristoffer Kitchens is not a columnist who happens to resemble Christopher Hitchens. He *is* this world's Hitchens. There is no Christopher Hitchens. There is only a man named Kristoffer Kitchens who was educated at Balliol, who drinks Johnnie Walker Black, who wrote a book arguing against divine competence, and who writes with the prose style of someone channeling a person who, in this world, was never born — because that person is him.
+
+**Key principles:**
+- **Full replacement.** The real-world counterpart does not exist in the NYT5 universe. They are not a separate person who is being imitated. The counterpart is the only version.
+- **Name displacement.** The counterpart's name is different — typically a phonetic or structural echo of the original (Kristoffer Kitchens / Christopher Hitchens) that is close enough to be recognizable and far enough to be its own thing.
+- **Amplification, not parody.** The counterpart is the real person with the dial turned up. Their known traits — prose style, intellectual obsessions, personal habits, public persona — are heightened but never mocked. The treatment is the same deadpan respect applied to everything else in this world.
+- **Biography rhymes.** The counterpart's life follows the broad arc of the original — similar education, similar career trajectory, similar body of work — but with details altered to fit the NYT5 universe. Books have different titles. Institutions have different names. The shape is recognizable; the specifics are new.
+- **No winking.** The text never acknowledges that the counterpart is based on anyone. Within the world, Kristoffer Kitchens is simply Kristoffer Kitchens. If the resemblance is noted at all, it is by other characters, and the counterpart dismisses it.
+- **Selective use.** Not every character is a multiverse counterpart. Most are original creations. Counterparts are reserved for cases where a real person's public persona is so distinctive and so generative that the world benefits from having its own version of them. Staff writers, recurring experts, and public intellectuals are natural candidates. Generic bystanders are not.
+
+When creating a multiverse counterpart, mark them in the wiki with:
+```yaml
+multiverse-counterpart: "Real Person Name"
+```
+This field is for internal reference only and does not appear on the public site.
+
+---
+
 ## The Newspaper Itself
 
 *The New York Time5* is a functioning newspaper within this world. It has a masthead, a roster of reporters and columnists, beats, editorial priorities, and institutional self-regard. It covers its world with the same seriousness that its world brings to everything else.
