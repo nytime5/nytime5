@@ -66,7 +66,7 @@ When an article introduces a new fictional person, organization, place, or conce
 
 - **Organizations and institutions** are the most common gap. If an article quotes someone from the "Institute for Consumer Hardware Safety," that institute gets a wiki entry.
 - **Quoted experts and officials** who have a name, title, and affiliation are wiki-worthy. Create entries for them so future articles can reuse them.
-- **Places** with fictional local color layered onto real geography deserve entries.
+- **Places** — every city, town, or neighborhood that appears in a story must get a wiki entry with exaggerated local character that motivates the satire set there. See `wiki/CLAUDE.md` § "Place Entry Guidelines."
 - **Events** referenced as backstory ("the 2019 Straw Incident") should get entries if they could be referenced again.
 - **Link to the new entry from the article that introduces it.** The entry exists now; the link should too.
 

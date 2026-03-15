@@ -23,7 +23,7 @@ Summary of the boundary rules:
 - **Fictional notable people** — experts, officials, institute directors — populate the world as recurring characters with consistent histories.
 - **Fictional everyday people** — bystanders, neighbors, local business owners — provide quotes and grounding.
 - **Organizations** are a mix of real (amplified) and fictional. Fictional institutions should sound plausible enough to momentarily fool a reader.
-- **Places** are real geography with fictional local color layered on top.
+- **Places** are real geography with exaggerated local character. Every city, town, or neighborhood that appears in a story gets a wiki entry describing the place in a way that motivates the satire set there.
 
 The amplification must always be of public, observable traits — never invented scandal or private behavior attributed to real people.
 
@@ -94,6 +94,23 @@ origin: "transporter accident, 2019"         # how the twin arrived
 subtype: institute           # institute, agency, corporation, club, association
 headquarters: "Washington, D.C."
 ```
+
+**Places:**
+```yaml
+subtype: city                # city, town, neighborhood, landmark, building
+state: "Idaho"               # U.S. state or country
+population: "~230,000"       # approximate, for flavor
+```
+
+### Place Entry Guidelines
+
+Every city, town, or neighborhood that appears in a story must have a wiki entry. The entry should describe the place with exaggerated local character that makes it a natural setting for satire.
+
+- **Start from reality, then turn the dial up.** A place known for its tech industry becomes pathologically optimized. A quiet suburb becomes aggressively, almost threateningly quiet. A college town becomes insufferably credentialed.
+- **Give places reputations, fixations, and sore spots.** These are what make a place generative for future stories. A town obsessed with its one claim to fame. A city that takes its zoning laws personally. A neighborhood locked in a decades-long feud with the neighborhood across the highway.
+- **Include concrete specifics.** Local institutions, recurring civic disputes, notable infrastructure, signature complaints. These details give future articles material to draw from.
+- **The exaggeration should motivate the satire.** When a story is set in a particular place, the reader should feel that *of course* this would happen *there*. The place entry provides that inevitability.
+- **Layer fiction onto real geography.** Use real locations, real climate, real regional culture — then push the local identity to a comic extreme. Do not invent fictional cities when a real one will do.
 
 ---
 
