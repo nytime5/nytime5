@@ -6,7 +6,7 @@ column: "First Principles"
 political-lean: conservative-intellectual
 status: active
 first-appearance: 2026-03-15
-image: /wiki/people/jorge-will.jpg
+image: /wiki/people/jorge-will.png
 multiverse-counterpart: "George Will"
 ---
 
