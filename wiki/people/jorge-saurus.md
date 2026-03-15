@@ -46,3 +46,7 @@ His relationship with George Soros has been a subject of sustained public confus
 **Tone:** Urbane, precise, and unsettlingly calm. Never raises his voice. Never appears surprised. Speaks about conspiracy-level activities with the affect of a man reviewing quarterly earnings. The comedy is entirely in the gap between what he is saying and how he is saying it.
 
 **Function in stories:** Jorge Saurus exists to literalize the conspiracy theories that attach to George Soros. When he appears, the real Soros should also appear or be referenced — the contrast between the boring philanthropist and the operatic villain is the mechanism by which the conspiracy theory is satirized. The reader should come away thinking the conspiracy theory is absurd, not that Soros is suspicious.
+
+## Articles
+
+- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — subject of article; assumes leadership of both shadow organizations
