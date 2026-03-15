@@ -1,4 +1,6 @@
-Generate a headshot for the specified person.
+---
+description: Generate a headshot for the specified person.
+---
 
 ## Input
 
