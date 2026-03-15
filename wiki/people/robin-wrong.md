@@ -53,3 +53,7 @@ She is a five-time recipient of the George Polk Award, though the committee has 
 **Tone:** Calm, authoritative, deeply experienced. She speaks the way she writes — in the measured cadences of a veteran correspondent who has seen too much to be rattled by anything, including a contested leaf-blower ordinance. She does not raise her voice. She does not use humor. She uses silence the way a diplomat uses it: strategically.
 
 **Function in stories:** Robin Wrong exists to apply war-correspondent gravitas to mundane local affairs. When she appears, she should be quoted as though she is the foremost authority on whatever small-town dispute is at hand, and her framing should make the reader momentarily uncertain whether the story is actually more important than they thought. She is the character who makes you take a town council meeting seriously for exactly one paragraph too long.
+
+## Articles
+
+- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/posts/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — bylined reporter, covering the ICE deployment to Fremont as though it were a military incursion into a contested theater
