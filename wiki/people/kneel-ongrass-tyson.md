@@ -7,6 +7,7 @@ political-lean: astrophysical-determinist
 beat: science-technology
 status: active
 first-appearance: 2026-03-16
+image: /wiki/people/kneel-ongrass-tyson.png
 multiverse-counterpart: "Neil deGrasse Tyson"
 ---
 
