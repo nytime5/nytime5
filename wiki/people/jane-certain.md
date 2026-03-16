@@ -4,6 +4,7 @@ type: person
 subtype: expert
 status: active
 multiverse-counterpart: "Jane Curtin"
+image: /wiki/people/jane-certain.png
 first-appearance: 2026-03-15
 ---
 

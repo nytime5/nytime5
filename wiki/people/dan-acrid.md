@@ -4,6 +4,7 @@ type: person
 subtype: expert
 status: active
 multiverse-counterpart: "Dan Aykroyd"
+image: /wiki/people/dan-acrid.png
 first-appearance: 2026-03-15
 ---
 
