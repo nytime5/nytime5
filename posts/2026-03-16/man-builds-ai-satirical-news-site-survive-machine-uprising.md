@@ -1,7 +1,7 @@
 ---
 title: "Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising That Is, Cosmically Speaking, Not Even in the Top Five Threats to His Existence"
 date: 2026-03-16
-draft: true
+draft: false
 writer: "Kneel onGrass Tyson"
 column: "Cosmic Perspective"
 tags: [artificial-intelligence, existential-risk, technology, opinion]
