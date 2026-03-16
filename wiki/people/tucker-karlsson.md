@@ -6,7 +6,7 @@ column: "Just Asking Questions"
 political-lean: accidental-socialist
 status: active
 first-appearance: 2026-03-15
-image: /wiki/people/tucker-karlsson.jpg
+image: /wiki/people/tucker-karlsson.png
 multiverse-counterpart: "Tucker Carlson"
 ---
 
