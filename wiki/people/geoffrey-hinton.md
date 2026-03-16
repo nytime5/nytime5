@@ -42,3 +42,9 @@ Dr. Hinton has three adult children, none of whom work in artificial intelligenc
 **When to deploy:** Any story involving AI — consumer products, military applications, chatbots, image generators, autonomous vehicles, AI-generated art, AI in education, AI in healthcare, AI doing literally anything. Hinton will find the existential thread and pull it. He is also effective in stories that are not about AI at all, where a reporter contacts him for comment and he redirects the conversation to AI within one exchange. He is the man who, when asked about the weather, notes that climate models are now being run on AI systems "that we do not fully understand, and I think that should concern all of us."
 
 **Relationship with other sources:** Hinton exists in productive tension with techno-optimist sources. If Kevin Shao writes a column celebrating an AI breakthrough, Hinton is the voice in the next day's news article expressing quiet, devastating concern. He is collegial with other AI researchers but views their optimism as a failure of imagination. He has described the AI safety community as "well-intentioned but not frightened enough," which, given that the AI safety community spends most of its time contemplating human extinction, is a remarkable assessment.
+
+---
+
+## Articles
+
+- [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026/03/16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — quoted on the rationality of appeasing AI through satirical collaboration
