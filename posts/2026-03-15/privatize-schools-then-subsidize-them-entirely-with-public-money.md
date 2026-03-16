@@ -1,7 +1,7 @@
 ---
 title: "Why We Must Privatize Schools and Then Subsidize Them Entirely With Public Money"
 date: 2026-03-15
-draft: true
+draft: false
 writer: "Tucker Karlsson"
 column: "Just Asking Questions"
 tags: [education, privatization, economics, public-policy]
@@ -11,24 +11,44 @@ excerpt: "The only way to save American education from government control is tot
 
 ![An empty hallway at Garfield Elementary in Columbus, Ohio, one of thousands of public schools Mr. Karlsson argues should be converted to privately operated, publicly funded universal education centers. Credit: Brian Nagle/The Columbus Dispatch](privatize-schools-then-subsidize-them-entirely-with-public-money.jpg)
 
-Let me be clear about something. Public schools in this country are failing, and nobody wants to talk about it.
+Let me be clear about something. Public schools in this country are failing. And nobody wants to talk about it.
 
-Actually, everybody wants to talk about it. But nobody wants to talk about it the way I am about to talk about it, which is the only way that matters. The American public education system is a government-run monopoly that has produced declining test scores, crumbling infrastructure, and a generation of young people who cannot name their own senator but can identify fourteen different kinds of oat milk. And the solution — the obvious, common-sense solution that the elites in Washington will never endorse because it threatens everything they have built — is to privatize every school in America and let parents pay for their children's education directly.
+Actually, that's not true. Everybody wants to talk about it. But nobody wants to say what I'm about to say, which is the only thing worth saying. So I'll say it.
 
-Now. I know what you're thinking. You're thinking: Tucker, most American families can barely afford eggs. How are they supposed to pay tuition?
+The American public school system is a government monopoly. Think about that. A monopoly. Run by the government. You wouldn't let the government make your car. You wouldn't let the government cut your hair. But you're supposed to let the government — the same government that can't fill a pothole in under nine months — educate your children? Your *children*?
 
-And that is exactly the right question. Because here is what the corporate establishment doesn't want you to understand. The reason parents can't afford to educate their own children is that wages in this country have been systematically suppressed by the same multinational conglomerates that lobby against school choice. The average American worker is producing more value than at any point in history, and seeing less of it than at any point since the Gilded Age. A family in 1955 could send four children to school, own a home, and take a vacation to the lake — on one income. Today both parents work sixty-hour weeks and still can't cover the cost of a graphing calculator.
+It's insane. And the solution is obvious. Privatize the schools. All of them. Let parents choose where to send their kids and pay for it themselves. That's the free market. That's how this country is supposed to work.
 
-So the question becomes: if we privatize schools, and parents can't afford them, what do we do? And the answer is straightforward. The government must step in — not to run the schools, because government-run schools are the problem — but to fully fund the tuition of every child in America, regardless of family income, at whatever school they choose to attend. This is not a radical idea. This is what real Americans have always believed. You pay your taxes, and your children get educated. Every child. Full funding. No exceptions.
+Now. I already know what the establishment is going to say. They're going to say: Tucker, families can't afford private school tuition. And you know what? They're right. They can't. You know why they can't?
 
-Now, I'm no socialist, but consider the economics. If every parent receives a government voucher covering one hundred percent of tuition, and every school is required to accept it, and no school can charge above the voucher amount, and the voucher amount is set by a federal board to ensure adequate funding — what you have is a system in which education is universal, free at the point of service, and funded entirely by tax revenue. Some people will call that a public school. Those people are missing the point. The schools would be *privately operated*. The building would say "Riverside Academy" instead of "Riverside Elementary." The principal would be called a "director." This is a completely different system, and the fact that the funding mechanism, enrollment policy, and educational outcome are identical is irrelevant.
+Because wages in this country are a joke.
 
-Look. The elites want you to believe that the only options are a broken public system or a private system that only the wealthy can access. That is a false choice designed to keep working families trapped. The real answer — the answer that no one in the establishment will say out loud — is a network of independently managed, universally accessible, fully taxpayer-funded education centers in every neighborhood in America, staffed by qualified professionals who are paid a living wage with benefits and retirement security, protected from arbitrary termination, and organized into some kind of — and I want to be precise here — collective bargaining structure that ensures their interests are represented.
+A family in 1955 — one income, one job, dad works at the plant — could own a house, feed four kids, and take a vacation to the lake. Every summer. The lake. Today? Today both parents work sixty hours a week and they still can't afford eggs. Think about that. Eggs. The most basic food in the history of civilization, and the American middle class is being priced out of it by the same multinational corporations that have shipped every decent job to a country with no labor protections.
 
-Is that a union? No. It is a bargaining collective. Completely different. The point is that these educators, who would be publicly funded and protected by federal employment standards, should have the right to negotiate as a group for fair compensation. I'm no socialist, but that is just common sense.
+So here's the problem. You privatize schools. Parents can't pay. Why can't they pay? Because corporate elites have systematically crushed their wages for forty years. And nobody wants to talk about it.
 
-And who should oversee this system? Not the private market — we have seen what private equity does to everything it touches. Not individual states, which will inevitably underfund poor districts while lavishing resources on wealthy ones. The only entity with the scale, the mandate, and the constitutional authority to guarantee equal education for every American child is the federal government. A single, national funding formula. Universal standards. Free meals, because a hungry child cannot learn, and no parent should have to choose between lunch and long division. Free transportation, because geography should not determine destiny. Free textbooks, free supplies, free enrichment programs after school so that working parents — and I mean real working parents, not the consultants and financiers who have hollowed out this economy — do not have to choose between a paycheck and their child's future.
+What do you do? You have two options. Option one: let rich kids get educated and poor kids get nothing. That's what the elites want. That's the system they've designed. Option two — and this is just common sense, this is what real Americans have always believed — the government steps in and pays for it. Not to run the schools. Government-run schools are the problem. But to fund them. Fully. Every child. Every family. You pay your taxes, your kid gets an education.
 
-This is not big government. This is the government doing the one thing it should actually do: ensuring that every child in America, regardless of zip code or household income, has access to a world-class education, fully funded by public money, operated by qualified professionals with labor protections, in a facility maintained to federal standards, with a curriculum set by educators rather than corporations.
+Every kid. No exceptions.
 
-Some of my critics will read this column and say I have just described the public school system. To them I say: you are not listening. What I have described is a *privatized* system that happens to be publicly funded, publicly mandated, publicly regulated, universally accessible, and free. The distinction is critical, and I will not apologize for making it.
+Now, I'm no socialist, but think about what that means. Every parent gets a voucher. The voucher covers one hundred percent of tuition. Every school has to accept it. No school can charge above it. The voucher amount is set by a federal board to ensure adequate resources. You know what that is? That's universal education, free at the point of service, funded entirely by tax revenue.
+
+Some people will say: Tucker, that's a public school. No. It isn't. The building says "Riverside Academy" instead of "Riverside Elementary." The principal is called a "director." Completely different system. The fact that the funding mechanism, the enrollment policy, and the educational outcome are identical is irrelevant.
+
+Look. The elites want you trapped. They want you choosing between a broken public system and a private system only they can afford. That's not a choice. That's a cage.
+
+The real answer — the answer nobody in Washington will say — is a network of independently managed, universally accessible, fully taxpayer-funded education centers in every neighborhood in America. Staffed by qualified professionals. Paid a living wage. Benefits. Retirement. Protected from arbitrary termination by some kind of — and I want to be precise here — collective bargaining structure.
+
+Is that a union? No. It's a bargaining collective. Completely different.
+
+I'm no socialist, but these educators — who would be publicly funded and protected by federal employment standards — should have the right to negotiate as a group. That's not radical. That's what a coal miner had in 1935. Ask yourself why a teacher in 2026 has less bargaining power than a coal miner in 1935 and then tell me the free market is working.
+
+And who oversees this system? Not the private market. We've seen what private equity does. It buys something, loads it with debt, strips it for parts, and walks away. That's what they did to Toys "R" Us. That's what they did to local newspapers. You want them doing that to your kid's school? You want Blackstone running third grade?
+
+Not individual states, either. You let states handle it, rich districts get everything and poor districts get a building with no heat. You already know this. You've seen it.
+
+The only entity with the scale to guarantee equal education for every American child is the federal government. One national funding formula. Universal standards. Free meals — because a hungry child cannot learn, and no parent should have to choose between lunch and long division. Free transportation. Free textbooks. Free after-school programs so that working parents — real working parents, not the consultants and hedge-fund managers who have hollowed out this economy — don't have to choose between a paycheck and their child's future.
+
+This is not big government. This is the government doing the one thing it should actually do.
+
+Some of my critics will read this column and say I have just described the public school system. To them I say: you are not listening. What I have described is a privatized system that happens to be publicly funded, publicly mandated, publicly regulated, universally accessible, and free. The distinction is critical, and if you can't see it, that's your problem.
