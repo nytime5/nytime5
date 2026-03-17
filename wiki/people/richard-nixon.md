@@ -52,4 +52,4 @@ He was awarded the Presidential Medal of Freedom in 1974 by Gerald Ford, an hono
 
 ## Articles
 
-*(None yet. Update as Nixon appears in articles.)*
+- [What Eisenhower Understood About the Southern Border, and Why the Current Administration Appears Not To](/2026/03/17/what-eisenhower-understood-about-the-southern-border/) — author; argues the current administration's immigration enforcement is aspirational rather than architectural
