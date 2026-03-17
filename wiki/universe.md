@@ -186,6 +186,22 @@ The paper does not know it is satirical. It does not know its world is absurd. I
 
 ---
 
+## Historical Contemporaries
+
+The world of *The New York Time5* does not observe the ordinary sequencing of intellectual and political history. The great figures of human civilization — philosophers, scientists, statesmen, artists — were not born in the centuries that produced them in our world. They were born at such a time that they are, in the present day, at the height of their powers. Plato is writing. Aristotle is teaching. Galileo is in an ongoing dispute with a federal regulatory agency. Newton and Einstein share a campus. Nixon is a columnist.
+
+This is not treated as remarkable. The paper covers a Socratic dialogue at a Senate subcommittee hearing with the same procedural rigor it applies to budget reconciliation. The fact that the author of the *Principia* holds an endowed chair at M.I.T. is noted in his bio line and nowhere else.
+
+**Key principles:**
+- **Peak contemporaneity.** Every historical figure exists at the moment of their greatest power — intellectually, politically, creatively. A philosopher is sharpest when their central ideas are fully formed but not yet calcified into monument. A scientist is most generative when the great work is behind them but the debates it provoked are still live. A statesman is most himself when the wounds are fresh.
+- **The work is the same; the timing is not.** Aristotle's *Nicomachean Ethics* exists. It was published recently enough that its author is still available for comment and still revising his position on several points in light of subsequent events. Newton's *Principia* is in print, peer-reviewed, and its author is alive to dispute its interpretation in correspondence with Einstein, who disputes back. The discoveries are canonical; when they were made is simply different.
+- **No explanation is offered.** The paper does not account for how Galileo is alive in 2026. It reports what he said to the House Science Committee. Characters in the world do not find the coexistence of Plato and a sitting U.S. senator remarkable. It is simply the world they live in.
+- **Historical feuds are live.** If Aristotle disagreed with Plato, he disagrees with him now — at conferences, in journal responses, in sharply worded letters to the editor of this publication. The intellectual history of our world is the intellectual present of theirs, still in progress, still contested, still personal.
+- **They engage with contemporary life.** Historical figures are not preserved in amber. They write columns, testify before Congress, issue statements, maintain positions that have evolved since their major works. Socrates has opinions about social media that he will share at length. Newton has filed a patent dispute. This engagement is entirely natural and completely unremarkable within the world.
+- **Historical figures may be regular or guest contributors.** Some hold beats or columns. Others appear as sources, subjects, or participants in news stories. The paper treats a column by Montaigne with the same editorial weight as a column by anyone else.
+
+---
+
 ## What This Document Is For
 
 This entry exists to ensure that every article, wiki entry, and piece of content produced for *The New York Time5* operates within a consistent world. The principles above are not rules to be applied mechanically but descriptions of how the world works. A writer who understands the world will produce content consistent with it without needing to consult a checklist.
