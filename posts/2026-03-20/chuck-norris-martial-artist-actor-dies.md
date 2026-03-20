@@ -12,7 +12,7 @@ excerpt: "Having exhausted the planet's supply of opponents, Mr. Norris is belie
 
 NAVASOTA, Texas — Chuck Norris, the martial artist, actor, and cultural phenomenon who spent a half-century defeating every adversary the mortal world could produce and ultimately concluded that the living had nothing further to offer him, died on Thursday at his ranch in Navasota, Texas. He was 86.
 
-The cause was heart failure, said a family spokesman, though several associates noted that Mr. Norris had recently expressed frustration with the limited competitive landscape available to a man who had already beaten everyone. The spokesman added that Mr. Norris "went on his own terms," a phrase the family appeared to mean literally.
+The family did not disclose the cause of death. A spokesman said only that Mr. Norris "went on his own terms," a phrase the family appeared to mean literally. Several associates noted that Mr. Norris had recently expressed frustration with the limited competitive landscape available to a man who had already beaten everyone.
 
 Carlos Ray Norris was born on March 10, 1940, in Ryan, Oklahoma, the eldest of three sons of Wilma and Ray Norris. His father, a mechanic and World War II veteran, was largely absent during his childhood, a circumstance that Mr. Norris would later credit with teaching him self-reliance and that biographers would credit with teaching him to hit things. He discovered martial arts while serving in the United States Air Force at Osan Air Base in South Korea in 1958, earning his first black belt in Tang Soo Do and beginning what would become a lifelong project of making physical contact with other people at great speed.
 
