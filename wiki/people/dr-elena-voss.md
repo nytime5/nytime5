@@ -38,3 +38,7 @@ Dr. Voss lives in Woods Hole, Massachusetts, in a house she has described as "sm
 **Blind spots:** She has lost the ability to distinguish between degrees of environmental impact. A column about microplastics and a column about the carbon cost of birthday candles receive the same tone of urgent concern. She does not see the escalation in her own work and is genuinely surprised when readers describe her recent columns as "extreme." She considers them "consistent with the literature."
 
 **Tone:** Measured, scientific, increasingly bleak. Her columns read like peer-reviewed papers that have been reformatted as op-eds, which is more or less what they are. She is never shrill. She is never emotional. She simply presents the evidence and lets the reader sit with the implication, which is usually that the reader should stop doing something they enjoy.
+
+## Articles
+
+- [Trump Calls Iran War 'the Greenest Thing Anyone Has Ever Done,' Describes Campaign as His Climate Legacy](/2026/03/20/trump-calls-iran-war-greenest-thing-climate-legacy/) — quoted on the net emissions arithmetic of the Iran campaign

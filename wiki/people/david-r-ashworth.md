@@ -36,3 +36,7 @@ Mr. Ashworth lives in Arlington, Virginia, with his wife and two children. He ha
 **Blind spots:** Assumes the reader cares about process as much as he does. Can write an entire article about a bill without ever clearly explaining what the bill would do for ordinary people. His ledes sometimes don't arrive at the news until the third paragraph.
 
 **Tone:** Authoritative and exhaustive. He writes with the confidence of someone who has read every page of the Congressional Record for the past decade, which he has.
+
+## Articles
+
+- [Trump Calls Iran War 'the Greenest Thing Anyone Has Ever Done,' Describes Campaign as His Climate Legacy](/2026/03/20/trump-calls-iran-war-greenest-thing-climate-legacy/) — bylined reporter, covering the president's framing of the Iran campaign as environmental policy
