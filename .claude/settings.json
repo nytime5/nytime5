@@ -17,7 +17,8 @@
         ],
         "additionalDirectories": [
             "/home/paul/git/nytime5/nytime5/posts/**",
-            "/home/paul/git/nytime5/nytime5/posts"
+            "/home/paul/git/nytime5/nytime5/posts",
+            "/home/paul/git/nytime5/nytime5/**"
         ]
     }
 }

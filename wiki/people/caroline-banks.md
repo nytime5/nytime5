@@ -42,3 +42,4 @@ Ms. Banks lives in Brooklyn and is a frequent speaker at technology conferences,
 ## Articles
 
 - [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026/03/15/musk-calls-all-other-trucks-sistrucks/) — covered Musk's vehicular taxonomy offensive and the automotive industry's response
+- [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026/03/17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — reported on the ReasonCheck launch and its benchmark performance
