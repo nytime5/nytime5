@@ -39,7 +39,7 @@ The amplification must always be of public, observable traits — never invented
 
 **Opinion columnists:** Gerald K. Vanderbeek (libertarian), Judith Ann Crossley (nostalgist), Frank J. DiOrio (law-and-order), Kevin Shao (techno-optimist), Nancy Ostrander (localist), Dr. Elena Voss (environmentalist), Graham T. Weatherstone (centrist), Raúl Alejandro Guzmán (historical-determinist), Kristoffer Kitchens (contrarian-polemicist), Jorge Will (conservative-intellectual), Marjorie Taylor Blue (populist-conspiratorial), Emily Nutella (concerned-citizen), Tucker Karlsson (accidental-socialist)
 
-**Contributing columnists:** Kneel onGrass Tyson (astrophysical-determinist, science)
+**Contributing columnists:** Kneel onGrass Tyson (astrophysical-determinist, science), D.C. Makinson (philosopher, epistemology)
 
 ---
 
