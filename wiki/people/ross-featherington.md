@@ -42,3 +42,4 @@ Mr. Featherington lives in Park Slope, Brooklyn, and describes himself as "a gen
 ## Articles
 
 - [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026/03/20/man-vibe-coding-session-hallucination-own-instructions/) — feature profile of a freelance developer whose extended vibe coding session produced an existential crisis
+- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026/03/21/man-believes-everything-he-believes-is-true/) — feature profile of a Madison database administrator trapped in the preface paradox

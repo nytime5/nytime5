@@ -27,3 +27,4 @@ When reviewing AI systems, he is genuinely interested in what they can do and eq
 ## Articles
 
 - [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026/03/17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — provided independent expert assessment of ReasonCheck's benchmark performance
+- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026/03/21/man-believes-everything-he-believes-is-true/) — quoted on the preface paradox and the center's database of epistemic failures
