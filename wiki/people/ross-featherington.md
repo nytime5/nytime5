@@ -36,3 +36,9 @@ Mr. Featherington lives in Park Slope, Brooklyn, and describes himself as "a gen
 **Blind spots:** Can over-interpret. A man wearing a particular hat is not always making a statement. Sometimes struggles with hard deadlines because he wants to spend "one more afternoon" with a subject. His stories occasionally lack a clear news peg, which he considers a feature rather than a bug.
 
 **Tone:** Warm, literary, observational. His articles read like short essays that wandered into the newspaper and decided to stay. Readers either find his work deeply humane or self-indulgently long. He is aware of this divide and has made peace with it.
+
+---
+
+## Articles
+
+- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026/03/20/man-vibe-coding-session-hallucination-own-instructions/) — feature profile of a freelance developer whose extended vibe coding session produced an existential crisis
