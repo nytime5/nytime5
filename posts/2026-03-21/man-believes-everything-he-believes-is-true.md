@@ -1,7 +1,7 @@
 ---
 title: "Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case"
 date: 2026-03-21
-draft: true
+draft: false
 writer: "D.C. Makinson"
 column: "The Preface"
 tags: [philosophy, epistemology, human-interest, paradox]
