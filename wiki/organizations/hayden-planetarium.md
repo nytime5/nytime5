@@ -29,4 +29,4 @@ The Planétarium's staff has developed a system of gentle redirection for when D
 
 ## Articles
 
-*No articles yet.*
+- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026/03/22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — Dr. onGrass Tyson quoted as director on Americans' inability to explain why they are sitting down

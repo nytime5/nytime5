@@ -59,6 +59,7 @@ He resides in lower Manhattan with his wife, a mathematical physicist, and their
 ## Articles
 
 - [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026/03/16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — column on a Naperville man's AI apocalypse survival strategy, reframed through astrophysics
+- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026/03/22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — quoted as Hayden Planétarium director on the poll results, pivoted immediately to stellar nucleosynthesis
 
 ---
 
