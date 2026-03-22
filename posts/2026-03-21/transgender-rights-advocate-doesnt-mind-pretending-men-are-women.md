@@ -1,7 +1,7 @@
 ---
 title: "Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women"
 date: 2026-03-21
-draft: true
+draft: false
 writer: "Ross Featherington"
 tags: [gender, culture-war, profiles, advocacy]
 image: /posts/2026-03-21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women.jpg
