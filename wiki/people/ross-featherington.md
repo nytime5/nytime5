@@ -43,3 +43,4 @@ Mr. Featherington lives in Park Slope, Brooklyn, and describes himself as "a gen
 
 - [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026/03/20/man-vibe-coding-session-hallucination-own-instructions/) — feature profile of a freelance developer whose extended vibe coding session produced an existential crisis
 - [Man Looks Back Wistfully at Innocent Era When 'If He Took a Dump on His Desk, You'd Defend It' Was the Most Shocking Thing Said on Television](/2026/03/21/man-wistful-for-era-when-dump-on-desk-was-shocking/) — feature on a Columbus man's nostalgic attachment to a 2017 CNN clip
+- [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026/03/21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — profile of an advocate whose cheerful agreement with her critics' framing destabilized the gender debate
