@@ -40,3 +40,4 @@ Mr. Ashworth lives in Arlington, Virginia, with his wife and two children. He ha
 ## Articles
 
 - [Trump Calls Iran War 'the Greenest Thing Anyone Has Ever Done,' Describes Campaign as His Climate Legacy](/2026/03/20/trump-calls-iran-war-greenest-thing-climate-legacy/) — bylined reporter, covering the president's framing of the Iran campaign as environmental policy
+- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — bylined reporter, covering the National Dissolution and Bilateral Sovereignty Act
