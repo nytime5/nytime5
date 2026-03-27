@@ -23,3 +23,10 @@ The borough's public schools are consistently ranked among the top in Bergen Cou
 **Useful for:** Stories involving suburban consumer product disasters, code enforcement, retail, or the tension between residential tranquility and commercial intensity. Paramus is a place where things are supposed to work — where permits are pulled, inspections are passed, and codes are followed — which makes it the ideal setting for stories where something goes catastrophically wrong despite everyone having done everything right.
 
 **Personality:** Paramus is a borough that believes in systems. When a system fails, Paramus does not accept it quietly. The borough council will convene. The code will be reviewed. An ordinance will be proposed. The residents of Paramus do not experience misfortune — they experience regulatory gaps.
+
+---
+
+## Articles
+
+- [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — a Paramus man hospitalized after a residential bidet perforated his abdomen
+- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026/03/27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — the same Paramus man's ongoing bidet situation generates marital friction
