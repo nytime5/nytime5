@@ -33,3 +33,4 @@ The neighborhood's relationship with the rest of Seattle is one of cheerful sece
 ## Articles
 
 - [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026/03/14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — setting of ICE enforcement operation targeting the Lenin statue
+- [Seattle Man Who Pronounces the S in 'Des Moines' Told He Is 'Actively Undermining the Relationship'](/2026/03/31/seattle-man-pronounces-s-in-des-moines/) — hometown of Garrett Langford, whose pronunciation of Midwestern place names has strained his relationship
