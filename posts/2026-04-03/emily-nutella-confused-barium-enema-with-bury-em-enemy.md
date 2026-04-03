@@ -1,7 +1,7 @@
 ---
 title: "Emily Nutella, Told That Millions of Americans Undergo Barium Enemas Each Year, Demands to Know Why We Are Burying So Many Enemies"
 date: 2026-04-03
-draft: true
+draft: false
 writer: "Emily Nutella"
 column: "What's All This Fuss?"
 tags: [emily-nutella, healthcare, conflict-resolution, whats-all-this-fuss]
