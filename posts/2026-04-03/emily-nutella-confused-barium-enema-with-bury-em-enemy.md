@@ -1,5 +1,5 @@
 ---
-title: "Emily Nutella, Demands to Know Why We Are Burying So Many Enemies"
+title: "Emily Nutella: Why Are Hospitals Burying So Many Enemies?"
 date: 2026-04-03
 draft: false
 writer: "Emily Nutella"
