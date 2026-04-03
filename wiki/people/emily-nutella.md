@@ -28,6 +28,7 @@ She lives in Yonkers with her cat, Mr. Buttons, and describes herself as "a conc
 - "The Supreme Court Has No Business Ruling on Sax Education" (October 2025) — *a stirring argument for the importance of music programs; the case had been about sex education*
 - "Why Is the Government Spending Millions on Nuclear Warheads When Children Need Hats?" (January 2026) — *the article had been about nuclear wareheads, a proposed warehouse modernization program*
 - ["Not All Heroes Wear Crepes"](/2026/03/15/not-all-heroes-wear-crepes/) (March 2026) — *a defense of crepe-makers as unsung American heroes; the phrase had been "not all heroes wear capes," a popular expression about everyday heroism*
+- ["Emily Nutella, Told That Millions of Americans Undergo Barium Enemas Each Year, Demands to Know Why We Are Burying So Many Enemies"](/2026/04/03/emily-nutella-confused-barium-enema-with-bury-em-enemy/) (April 2026) — *a passionate call for conflict resolution and civility, prompted by an article about a routine diagnostic imaging procedure she misread as "bury 'em enemy"*
 
 *Editor's note: Ms. Nutella's columns are published with a standing correction policy. Updates appear at the conclusion of each piece.*
 
