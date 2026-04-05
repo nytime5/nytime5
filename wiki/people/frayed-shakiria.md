@@ -4,6 +4,7 @@ type: person
 subtype: expert
 status: active
 first-appearance: 2026-04-05
+image: /wiki/people/frayed-shakiria.png
 multiverse-counterpart: "Fareed Zakaria"
 ---
 
