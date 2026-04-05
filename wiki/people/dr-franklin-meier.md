@@ -29,3 +29,4 @@ He has been cited as an expert source by a number of opinion columnists and inde
 ## Articles
 
 - [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026/03/15/connect-the-dots-president-faces-east-five-times-a-day/) — quoted as expert on "conversion indicators" in public figures
+- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026/04/05/trump-and-iran-declare-complete-victory-in-war/) — quoted on the "analytically remarkable" rhetorical convergence between U.S. and Iranian victory declarations

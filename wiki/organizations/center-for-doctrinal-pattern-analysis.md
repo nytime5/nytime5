@@ -20,3 +20,4 @@ The Center operates out of a two-story office suite in a professional park off R
 ## Articles
 
 - [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026/03/15/connect-the-dots-president-faces-east-five-times-a-day/) — cited as expert research organization on "conversion indicators"
+- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026/04/05/trump-and-iran-declare-complete-victory-in-war/) — cited for comparative textual analysis of both nations' victory declarations

@@ -31,3 +31,4 @@ She has described the column "Executive Privilege," by [Richard Nixon](/wiki/peo
 ## Articles
 
 - [What Eisenhower Understood About the Southern Border, and Why the Current Administration Appears Not To](/2026/03/17/what-eisenhower-understood-about-the-southern-border/) — quoted on the distinction between enforcement as theater and enforcement as architecture
+- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026/04/05/trump-and-iran-declare-complete-victory-in-war/) — quoted on "the sovereignty of narrative in post-evidentiary conflict"
