@@ -1,7 +1,7 @@
 ---
 title: "Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence"
 date: 2026-04-05
-draft: true
+draft: false
 writer: "Tariq El-Amin"
 tags: [iran, white-house, diplomacy, defense, middle-east]
 image: /posts/2026-04-05/trump-and-iran-declare-complete-victory-in-war.jpg
