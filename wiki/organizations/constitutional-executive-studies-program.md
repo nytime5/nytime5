@@ -21,3 +21,4 @@ The program's work is read carefully in Washington. Several senior officials fro
 
 - [What Eisenhower Understood About the Southern Border, and Why the Current Administration Appears Not To](/2026/03/17/what-eisenhower-understood-about-the-southern-border/) — cited as institutional home of Professor Diane Hollenbeck; program's scholarship referenced on enforcement as theater vs. architecture
 - [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026/04/05/trump-and-iran-declare-complete-victory-in-war/) — Hollenbeck quoted on "the sovereignty of narrative in post-evidentiary conflict"
+- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026/04/06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — Hollenbeck quoted on selective enforcement and "ambient speech"

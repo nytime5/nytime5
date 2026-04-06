@@ -27,3 +27,4 @@ She has described bipartisan agreement as "the most reliable indicator that some
 ## Articles
 
 - [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — co-sponsor of the partition bill
+- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026/04/06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — referred the contempt case to the House Judiciary Committee
