@@ -51,4 +51,4 @@ Ms. Shakiria resides in New York City with her wife, an international human righ
 
 ## Articles
 
-*(No appearances yet.)*
+- [Frayed Shakiria Diagnoses Civilizational Collapse With Composure That Several Viewers Described as 'Medically Concerning'](/2026/04/08/shakiria-diagnoses-civilizational-collapse-composure-medically-concerning/) — subject of article; delivered six-minute commentary on unbounded state power as the real threat to Western civilization
