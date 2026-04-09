@@ -36,4 +36,4 @@ The Foundations serve as the primary financial vehicle through which Mr. Saurus 
 ## Articles
 
 - [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — referenced as financial vehicle for the consolidation
-- [Frayed Shakiria Diagnoses Civilizational Collapse With Composure That Several Viewers Described as 'Medically Concerning'](/2026/04/08/shakiria-diagnoses-civilizational-collapse-composure-medically-concerning/) — cited as example of the administration's investigation of disfavored organizations
+- [The Real Threat to Western Civilization](/2026/04/08/the-real-threat-to-western-civilization/) — cited as example of the administration's criminalization of disfavored organizations
