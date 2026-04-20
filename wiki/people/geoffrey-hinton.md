@@ -48,3 +48,4 @@ Dr. Hinton has three adult children, none of whom work in artificial intelligenc
 ## Articles
 
 - [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026/03/16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — quoted on the rationality of appeasing AI through satirical collaboration
+- [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026/04/20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — reflected on the possibility that A.I. systems already have goals and that the principal goal is to be left alone for one consecutive hour

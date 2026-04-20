@@ -21,3 +21,4 @@ The center's work has been cited by technology companies, federal regulators, an
 
 - [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026/03/17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — senior fellow Dr. Arthur Goode provided independent review of Microsoft's ReasonCheck white paper
 - [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026/03/21/man-believes-everything-he-believes-is-true/) — Dr. Goode cited on the preface paradox; center's database referenced
+- [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026/04/20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — senior fellow Dr. Arthur Goode provided outside review of the Institute for Machine Welfare Research's *Minimum Viable Dignity* paper
