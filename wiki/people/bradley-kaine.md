@@ -33,3 +33,4 @@ He lives in McLean, Virginia, and describes his policy focus as "defending the o
 ## Articles
 
 - [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026/03/21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — quoted on the "strategic vacuum" created by Ms. Kirkwood's admission
+- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026/04/23/man-self-identifies-as-woman-to-avoid-mansplaining/) — quoted on the growing file of scenarios his institution did not predict

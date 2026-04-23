@@ -37,3 +37,4 @@ She lives in the Dupont Circle neighborhood of Washington, D.C. Her office conta
 ## Articles
 
 - [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026/03/21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — profiled as the subject of the article
+- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026/04/23/man-self-identifies-as-woman-to-avoid-mansplaining/) — quoted on the "arithmetic of politeness" and the impossibility of abusing it

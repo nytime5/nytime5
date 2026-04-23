@@ -35,3 +35,4 @@ She lives in Evanston, Illinois, and describes her field as "the study of why pe
 ## Articles
 
 - [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026/03/21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — quoted on the structural collapse of adversarial debate when one side agrees
+- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026/04/23/man-self-identifies-as-woman-to-avoid-mansplaining/) — quoted on tactical self-identification as a "mechanically airtight" discourse exploit

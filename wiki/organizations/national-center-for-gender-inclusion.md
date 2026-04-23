@@ -22,3 +22,4 @@ The organization gained unexpected national attention in March 2026 when its exe
 ## Articles
 
 - [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026/03/21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — organizational setting for the article; executive director profiled
+- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026/04/23/man-self-identifies-as-woman-to-avoid-mansplaining/) — executive director quoted on the impossibility of abusing politeness
