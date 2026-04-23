@@ -1,7 +1,7 @@
 ---
 title: "Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize"
 date: 2026-04-23
-draft: true
+draft: false
 writer: "Ross Featherington"
 tags: [profiles, language, fandom, midwest, rhetoric]
 image: /posts/2026-04-23/ypsilanti-man-jaunty-look-petard.jpg
