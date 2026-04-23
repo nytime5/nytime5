@@ -25,3 +25,4 @@ He lives in Ann Arbor, Michigan.
 ## Articles
 
 - [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026/04/01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — quoted as opposing expert on linguistic descriptivism
+- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026/04/23/ypsilanti-man-jaunty-look-petard/) — quoted on the structural elegance of Walter P. Stanfield's Shakespeare/Star Trek mondegreen, which he described as "nearly perfect"
