@@ -36,3 +36,9 @@ Ms. Okafor-Williams was a finalist for the Gerald Loeb Award in 2023 for a serie
 **Blind spots:** Tends to underweight explanations that are not economic. If someone does something irrational, she assumes a hidden incentive rather than accepting that people are sometimes just strange. Her pieces occasionally assume a level of financial literacy that leaves general readers behind — she forgets that not everyone knows what a basis point is, because she learned what a basis point was at age fourteen.
 
 **Tone:** Brisk, precise, faintly impatient with imprecision. She writes the way a good analyst talks: clear thesis, supporting data, implications. Her articles move fast and land hard. There is a quiet intensity to her work — she does not waste words, and she expects the reader to keep up.
+
+---
+
+## Articles
+
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — covered the launch of Sentigram's Condolence Coin and the broader market for tokenized life events
