@@ -1,6 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "hugo-bin": "^0.138.0"
+    "hugo-bin": "^0.138.0",
+    "wrangler": "^4.85.0"
+  },
+  "scripts": {
+    "deploy": "npx hugo && wrangler deploy",
+    "preview": "npx hugo && wrangler dev"
   }
 }
