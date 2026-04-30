@@ -14,7 +14,7 @@ Mr. Hennessey, 68, operates the *Eleanor Mae*, an 84-foot steel-hulled scallop d
 
 He is a member of the Fishermen's Pension Trust, the Fairhaven-New Bedford Fishermen's Memorial Society, and the parish council at St. Anthony of Padua, where he has served as treasurer for nineteen years.
 
-Mr. Hennessey's adult son, Cole Hennessey, died on April 21, 2026, of what the Bristol County medical examiner classified as a rapid-onset cranial pressure event sustained while reading the Wikipedia entry on the Jones Act.
+Mr. Hennessey's adult son, Cole Hennessey, died on April 21, 2026, of what the Bristol County medical examiner classified as a [rapid-onset cranial pressure event](/wiki/phenomena/rapid-onset-cranial-pressure-event/) sustained while reading the Wikipedia entry on the Jones Act.
 
 ---
 

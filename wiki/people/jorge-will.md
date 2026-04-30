@@ -52,6 +52,7 @@ Mr. Will lives in Chevy Chase, Maryland, with his wife, a constitutional law pro
 ## Articles
 
 - [There Is No Crying in Baseball: A Reaffirmation of First Principles](/2026/03/15/no-crying-in-baseball-reaffirmation/) — column arguing that the prohibition against weeping on the diamond is a foundational principle of republican governance
+- [The Elephant in the Elephant's Room](/2026/04/29/the-elephant-in-the-elephants-room/) — referenced by Kristoffer Kitchens as exemplar of the conservative intellectual class's disciplined silence on Donald Trump; cited for his prior censorious treatment of the Clinton dress affair
 
 ---
 
