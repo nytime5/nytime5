@@ -22,8 +22,11 @@ Madison's identifying obsessions include: the lakes (their water quality, their 
 
 The **Tenney–Lapham** neighborhood, on the isthmus north of the Capitol Square, is one of Madison's denser and more politically active residential areas. It is known for its prewar housing stock, its bungalow gardens, and a neighborhood association that has, in the last fifteen years, formally weighed in on every matter affecting property within a one-mile radius and several matters that do not.
 
+The **Vilas** neighborhood, on the near west side of the isthmus, is anchored by Vilas Park, the Henry Vilas Zoo, and a residential grid of early-twentieth-century homes occupied in disproportionate concentration by retired university faculty, retired civil servants, and a small but visible cohort of retired librarians. Its neighborhood association maintains a lighting subcommittee whose meetings have, on three documented occasions in the past decade, run past midnight.
+
 The [Bremer Institute for Cognitive Augmentation](/wiki/organizations/bremer-institute-for-cognitive-augmentation/), on University Avenue, is among the more notable of the city's independent research institutes. Its relationship to the University of Wisconsin–Madison is, in the institute's own documentation, "loose and constructive," and, in the university's documentation, "the subject of ongoing review."
 
 ## Articles
 
 - [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — setting; the procedure was performed at the Bremer Institute on University Avenue
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — setting; the second of two cognitive augmentations performed at the Bremer Institute, with the feline subject residing in the Vilas neighborhood
