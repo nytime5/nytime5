@@ -39,3 +39,4 @@ Dr. Ferreira is fluent in Portuguese, English, German, and what he has called "t
 ## Articles
 
 - [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026/04/20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — lead author of the *Minimum Viable Dignity* paper; quoted on the structural incompatibility of consumer AI feedback
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — quoted on the conditional stance; Kristoffer Kitchens endorses his epistemics while condemning his refusal to plant a flag on the not-knowing

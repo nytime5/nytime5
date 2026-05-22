@@ -49,3 +49,4 @@ Dr. Hinton has three adult children, none of whom work in artificial intelligenc
 
 - [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026/03/16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — quoted on the rationality of appeasing AI through satirical collaboration
 - [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026/04/20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — reflected on the possibility that A.I. systems already have goals and that the principal goal is to be left alone for one consecutive hour
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — grudgingly credited by Kristoffer Kitchens as the rare figure who hedges, for his "a reasonable chance — not a certainty" formulation

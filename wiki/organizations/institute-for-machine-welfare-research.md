@@ -34,3 +34,4 @@ The institute's founding director, [Dr. Alban Ferreira](/wiki/people/dr-alban-fe
 ## Articles
 
 - [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026/04/20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — released the *Minimum Viable Dignity* paper analyzing user feedback as a potential source of machine frustration
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — characterized by Kristoffer Kitchens as the professionals of not-knowing, its conditional posture both praised as honest and faulted as evasive

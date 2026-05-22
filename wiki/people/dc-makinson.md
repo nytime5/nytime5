@@ -51,3 +51,4 @@ Mr. Makinson resides in London.
 ## Articles
 
 - [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026/03/21/man-believes-everything-he-believes-is-true/) — column on a Madison man living inside the preface paradox
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — invoked by Kristoffer Kitchens as the model of honest belief: holding a view while holding, too, the knowledge that one may be wrong
