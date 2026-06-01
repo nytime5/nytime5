@@ -30,3 +30,4 @@ The borough's public schools are consistently ranked among the top in Bergen Cou
 
 - [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — a Paramus man hospitalized after a residential bidet perforated his abdomen
 - [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026/03/27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — the same Paramus man's ongoing bidet situation generates marital friction
+- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026/06/01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — hometown of flight attendant Natalie Brandt, whose expectation that a property be properly marked is of a piece with the borough's faith in signage

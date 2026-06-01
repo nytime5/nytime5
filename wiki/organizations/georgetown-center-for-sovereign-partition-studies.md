@@ -30,3 +30,4 @@ The Center has been consulted by the United Nations, the African Union, and, as 
 ## Articles
 
 - [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — Dr. Thorngaard testified on behalf of the Center regarding the Latin directional naming convention
+- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026/06/01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — senior research fellow Dr. Thorngaard commented on the absence of any convention for signaling the availability of a sovereign territory

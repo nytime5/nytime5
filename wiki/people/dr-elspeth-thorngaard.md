@@ -31,3 +31,4 @@ She lives in Bethesda, Maryland, and describes her field as "the study of what h
 ## Articles
 
 - [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — testified before the Senate committee on the Latin directional prefixes underlying the proposed partition nomenclature
+- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026/06/01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — confirmed that there is no cartographic or diplomatic convention for denoting the availability of a sovereign territory by physical signage, conceding the flight attendant had identified a genuine gap
