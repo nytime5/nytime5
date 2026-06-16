@@ -9,7 +9,7 @@ first-appearance: 2026-06-15
 
 ## Public Profile
 
-The **Congressional Federation Caucus** is a bipartisan caucus of the United States House of Representatives, comprising thirty-one members as of June 2026, organized around what its founding statement describes as "the long-term alignment of American institutions with their aspirational character." It is co-chaired by [Curtis Vandermolen](/wiki/people/curtis-vandermolen/), Democrat of Michigan, and a Republican of Texas.
+The **Congressional Federation Caucus** is a bipartisan caucus of the United States House of Representatives, comprising thirty-one members as of June 2026, organized around what its founding statement describes as "the long-term alignment of American institutions with their aspirational character." It is co-chaired by [Curtis Vandermolen](/wiki/people/curtis-vandermolen/), Democrat of Michigan, and [Sloane Merrick](/wiki/people/sloane-merrick/), Republican of Texas.
 
 The caucus was registered with the Committee on House Administration in 2025. Its stated purpose, as filed, is "to study and, where appropriate, advance measures of national designation, nomenclature, and symbolic governance," language that drew little attention at the time of filing and somewhat more in June 2026, when the caucus introduced H.R. 4127, the United Federation of Planets Designation Act, which would rename the United States of America the United Federation of Planets.
 
