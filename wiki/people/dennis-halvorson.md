@@ -31,3 +31,4 @@ He is known within the society for his strict but fair adherence to its parliame
 ## Articles
 
 - [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026/04/23/ypsilanti-man-jaunty-look-petard/) — quoted on the Greater Washtenaw Star Trek Society's collective decision not to correct Walter P. Stanfield's use of the phrase
+- [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026/06/15/bill-would-rename-united-states-united-federation-of-planets/) — explained, as treasurer, that the society could not endorse the renaming on canon grounds and had referred the matter to its bylaws subcommittee
