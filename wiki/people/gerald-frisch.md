@@ -27,3 +27,4 @@ He has described himself as "one of the last people in this building who still b
 ## Articles
 
 - [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — issued statement opposing the partition bill on constitutional grounds
+- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026/07/01/senate-bill-dissolve-canadian-border-national-improvement/) — called the border-dissolution bill "constitutionally unserious"
