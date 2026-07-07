@@ -1,7 +1,7 @@
 ---
 title: "New Paper Argues the Earth Is a Flat Dachshund, a Conclusion Its Authors Call Coherent, Empirically Adequate and Useless"
 date: 2026-07-06
-draft: true
+draft: false
 writer: "Caroline Banks"
 tags: [geodesy, topology, flat-earth, philosophy-of-science, dachshund]
 image: /posts/2026-07-06/paper-argues-earth-is-a-flat-dachshund.jpg
