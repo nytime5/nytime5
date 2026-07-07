@@ -2,11 +2,12 @@
 title: "Dachshund Earth"
 date: 2026-07-06
 draft: true
-authors: []
-affiliation: ""
-journal: ""
-abstract: ""
-tags: []
+authors: ["P. Reinholdtsen", "Claude"]
+affiliation: "Bitsy Services LLC, Woodinville, WA; Anthropic, San Francisco, CA"
+journal: "Submitted to the Journal of Recreational Geodesy (rejected); under review at a venue with lower standards"
+abstract: "We demonstrate that the hypothesis that the Earth is shaped like a dachshund is empirically indistinguishable from the standard oblate-spheroid model, given a suitable choice of universal forces in the sense of Reichenbach (1958). We further observe that a dachshund equipped with a patent alimentary canal is a surface of genus 1, and therefore admits a globally flat Riemannian metric (Gauss–Bonnet). It follows that the Earth, modeled as a dachshund, can be flat, rescuing a version of flat earth theory that is mathematically coherent, empirically adequate, and merely useless."
+tags: [geodesy, topology, flat-earth, philosophy-of-science, conventionalism, dachshund]
+excerpt: "A dachshund with a patent alimentary canal is a surface of genus 1, and therefore — unlike the sphere — can be flat. The flat earth is hereby returned to the philosophers."
 ---
 
 # On the Admissibility of Canine Geodesy: The Earth as a Dachshund, with a Defense of the Defensible Flat Earth
