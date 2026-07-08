@@ -1,7 +1,7 @@
 ---
 title: "Dachshund Earth"
 date: 2026-07-06
-draft: true
+draft: false
 authors: ["P. Reinholdtsen", "Claude"]
 affiliation: "Bitsy Services LLC, Woodinville, WA; Anthropic, San Francisco, CA"
 journal: "Submitted to the Journal of Recreational Geodesy (rejected); under review at a venue with lower standards"
