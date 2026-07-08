@@ -3,6 +3,10 @@
   "devDependencies": {
     "hugo-bin": "^0.138.0"
   },
+  "scripts": {
+    "deploy": "npx hugo && npx wrangler deploy",
+    "preview": "npx hugo && npx wrangler dev"
+  },
   "hugo-bin": {
     "version": "0.150.0"
   }

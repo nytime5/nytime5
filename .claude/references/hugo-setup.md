@@ -1,9 +1,10 @@
 # Hugo Setup & Infrastructure
 
 ## Framework
-- **Hugo** hosted on **GitHub**, deployed via **Cloudflare Pages**
+- **Hugo** hosted on **GitHub**, deployed via **Cloudflare Workers** (static assets). Pages is obsolete — do not reintroduce it.
 - Cloudflare handles CDN, SSL, and DNS — do not add any configuration that conflicts with Cloudflare proxying
-- Cloudflare Pages build settings: framework preset Hugo, build command `hugo`, output directory `public`
+- Deploy config lives in committed [`wrangler.jsonc`](/wrangler.jsonc) (Worker `nytime5`, `assets.directory = public`). A committed config is required — without it, `wrangler deploy` re-runs auto-config and refuses to overwrite the existing Worker.
+- Workers Builds **deploy command** must build then deploy: `npm run deploy` (i.e. `npx hugo && npx wrangler deploy`). `wrangler deploy` alone does not run Hugo, and Workers Builds ignores wrangler custom `build` commands.
 
 ## Directory Structure
 ```
