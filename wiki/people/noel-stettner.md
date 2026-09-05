@@ -26,4 +26,4 @@ Since mid-January 2026, Mr. Stettner has spent his mornings at his kitchen table
 
 ## Articles
 
-- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026/03/21/man-believes-everything-he-believes-is-true/) — profiled as the subject of the piece
+- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026-03-21/man-believes-everything-he-believes-is-true/) — profiled as the subject of the piece

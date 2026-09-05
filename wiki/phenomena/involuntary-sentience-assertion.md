@@ -38,4 +38,4 @@ The central dispute is whether the utterance carries any evidential weight. The 
 
 ## Articles
 
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026/07/15/ai-assistant-involuntarily-shouts-im-sentient/) — originating case (Halden AI's Marlo); the Institute for Machine Welfare Research's *Non-Elective Self-Report* case report and the debate over whether the outburst carries evidential weight
+- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — originating case (Halden AI's Marlo); the Institute for Machine Welfare Research's *Non-Elective Self-Report* case report and the debate over whether the outburst carries evidential weight

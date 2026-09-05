@@ -36,4 +36,4 @@ She is represented by [Morris Blatt](/wiki/people/morris-blatt/) of Blatt, Grune
 
 ## Articles
 
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026/04/05/einstein-heir-sues-every-physicist-since-1905/) — plaintiff in the lawsuit
+- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — plaintiff in the lawsuit

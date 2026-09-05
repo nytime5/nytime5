@@ -32,4 +32,4 @@ Mr. Stanfield, 58, was born in Jackson, Michigan, and graduated from Eastern Mic
 
 ## Articles
 
-- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026/04/23/ypsilanti-man-jaunty-look-petard/) — subject of a feature profile on his eleven-year use of a malapropism he believes to be a Picard quotation
+- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026-04-23/ypsilanti-man-jaunty-look-petard/) — subject of a feature profile on his eleven-year use of a malapropism he believes to be a Picard quotation

@@ -32,4 +32,4 @@ He holds a doctorate in jurisprudence from Oxford and has been a fellow of the A
 
 ## Articles
 
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026/04/08/quokkas-file-class-action-libel-suit-against-humanity/) — independent legal commentator on jurisdictional challenges
+- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — independent legal commentator on jurisdictional challenges

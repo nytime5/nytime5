@@ -27,4 +27,4 @@ The airline is known among cabin crews for unusually low turnover on its overnig
 
 ## Articles
 
-- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026/06/01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — Flight 1142, the eastbound overnight run, served as the setting for the profile of purser Natalie Brandt
+- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026-06-01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — Flight 1142, the eastbound overnight run, served as the setting for the profile of purser Natalie Brandt

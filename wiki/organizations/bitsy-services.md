@@ -19,4 +19,4 @@ The firm's contribution to the field is best characterized as custodial. It furn
 
 ## Articles
 
-- [Paper Argues the Earth Is a Flat Dachshund](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — listed as the institutional affiliation of first author P. Reinholdtsen and identified as the sole institutional home of recreational geodesy and the Defensible Flat Earth
+- [Paper Argues the Earth Is a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — listed as the institutional affiliation of first author P. Reinholdtsen and identified as the sole institutional home of recreational geodesy and the Defensible Flat Earth

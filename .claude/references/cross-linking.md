@@ -25,12 +25,21 @@ Link between wiki entries when entities are related. A person's entry should lin
 
 ## Wiki → Articles (back-links)
 
-Every wiki entry should include an **Articles** section listing the posts where the person, organization, or place appears. Use markdown links to the actual post permalink paths:
+Every wiki entry should include an **Articles** section listing the posts where the person, organization, or place appears. Use markdown links to the actual post permalink paths.
+
+**A post's URL is `/YYYY-MM-DD/slug/`** — the date directory verbatim, then the filename without its extension. It is *not* `/YYYY/MM/DD/slug/`. Hugo derives this from the post's directory name (`posts/2026-03-11/` becomes the section `2026-03-11`); there is no permalink rewriting in `hugo.toml`, and none should be added, because every published URL and every inbound link depends on this shape.
+
+```
+posts/2026-03-11/congress-bans-wd40-storage-without-red-straw.md
+  →  /2026-03-11/congress-bans-wd40-storage-without-red-straw/
+```
+
+`npm run check` fails the build on any internal link that does not resolve, so a wrong path is caught before it ships rather than 404ing silently in production.
 
 ```markdown
 ## Articles
 
-- [Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw](/2026/03/11/congress-bans-wd40-storage-without-red-straw/) — quoted as lead expert on straw retention policy
+- [Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw](/2026-03-11/congress-bans-wd40-storage-without-red-straw/) — quoted as lead expert on straw retention policy
 ```
 
 Update this section each time the entity appears in a new article.

@@ -30,4 +30,4 @@ Mr. Whitford resides in Bethesda, Maryland, with his wife and two children. He i
 
 ## Articles
 
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026/04/06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — the subject of the withdrawn contempt citation
+- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — the subject of the withdrawn contempt citation

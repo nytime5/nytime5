@@ -33,4 +33,4 @@ The company's headquarters occupy a converted bank building on Folsom Street in 
 
 ## Articles
 
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — launched the Condolence Coin, completing the company's life-event slate
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — launched the Condolence Coin, completing the company's life-event slate

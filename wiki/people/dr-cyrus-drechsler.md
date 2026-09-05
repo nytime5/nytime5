@@ -34,4 +34,4 @@ He is the author of the 2018 paper "[Idiopathic Cranial Pressure Events](/wiki/p
 
 ## Articles
 
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026/04/25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted as the medical examiner of record
+- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted as the medical examiner of record

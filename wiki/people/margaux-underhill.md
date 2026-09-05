@@ -30,4 +30,4 @@ Margaux has, through her institute liaison, declined the institute's offer to co
 
 ## Articles
 
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — subject of the article; the first feline recipient of the institute's cognitive augmentation protocol
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — subject of the article; the first feline recipient of the institute's cognitive augmentation protocol

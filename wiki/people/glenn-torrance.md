@@ -30,4 +30,4 @@ Mr. Torrance maintains a detailed threat assessment spreadsheet ranking existent
 
 ## Articles
 
-- [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026/03/16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — profiled as the subject of the article
+- [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026-03-16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — profiled as the subject of the article

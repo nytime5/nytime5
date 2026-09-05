@@ -37,4 +37,4 @@ The Institute's relationship to its critics is one of patient condescension. It 
 
 ## Articles
 
-- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026/05/13/in-defense-of-explicit-bias/) — Mr. Kitchens, in a polemic against the implicit-bias industry, characterizes the Institute as a magnificent racket and its methodology as a structure of reasoning that the medieval inquisitor would have recognized at once
+- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026-05-13/in-defense-of-explicit-bias/) — Mr. Kitchens, in a polemic against the implicit-bias industry, characterizes the Institute as a magnificent racket and its methodology as a structure of reasoning that the medieval inquisitor would have recognized at once

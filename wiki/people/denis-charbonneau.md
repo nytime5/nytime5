@@ -26,4 +26,4 @@ He came to broader American attention in July 2026, when he was asked to respond
 
 ## Articles
 
-- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026/07/01/senate-bill-dissolve-canadian-border-national-improvement/) — responded on behalf of Global Affairs Canada that Canada had no plans to invade the United States
+- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026-07-01/senate-bill-dissolve-canadian-border-national-improvement/) — responded on behalf of Global Affairs Canada that Canada had no plans to invade the United States

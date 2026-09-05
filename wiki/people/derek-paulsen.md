@@ -28,4 +28,4 @@ Mr. Paulsen has since resumed writing code manually, though he concedes that the
 
 ## Articles
 
-- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026/03/20/man-vibe-coding-session-hallucination-own-instructions/) — profiled as the subject of the article
+- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026-03-20/man-vibe-coding-session-hallucination-own-instructions/) — profiled as the subject of the article

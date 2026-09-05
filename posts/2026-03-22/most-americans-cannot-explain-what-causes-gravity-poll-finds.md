@@ -16,7 +16,7 @@ The poll, conducted online between March 8 and March 14 in partnership with Surv
 
 "We expected some variation," said Kayla Dietrich, a BuzzFeed data editor who oversaw the survey. "We did not expect 'it's just how things work' to be the plurality answer. That is not a theory. That is a shrug."
 
-Dr. Harold Wendt, a professor of gravitational physics at the University of Chicago and a fellow of the [American Physical Society](/wiki/organizations/american-physical-society/), said he had been unable to finish his coffee after reading the results. "Thirty-one percent of the American public has settled on a philosophical position that was considered intellectually insufficient in the sixth century B.C.," Dr. Wendt said. "The pre-Socratics were already dissatisfied with 'it's just how things work.' We have regressed past Aristotle."
+Dr. Harold Wendt, a professor of gravitational physics at the University of Chicago and a fellow of the American Physical Society, said he had been unable to finish his coffee after reading the results. "Thirty-one percent of the American public has settled on a philosophical position that was considered intellectually insufficient in the sixth century B.C.," Dr. Wendt said. "The pre-Socratics were already dissatisfied with 'it's just how things work.' We have regressed past Aristotle."
 
 Dr. Wendt noted that the 19 percent who selected magnetism were "at least trying," though he cautioned that their answer "is wrong in a way that suggests they have confused two of the four fundamental forces, which is like confusing your mother with a stranger on the bus — they are both women, but the relationship is fundamentally different."
 

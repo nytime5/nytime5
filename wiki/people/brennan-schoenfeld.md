@@ -34,4 +34,4 @@ Mr. Schoenfeld lives in the Mission District of San Francisco. He is engaged to 
 
 ## Articles
 
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — quoted as Sentigram's chief executive on the launch of the Condolence Coin
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — quoted as Sentigram's chief executive on the launch of the Condolence Coin

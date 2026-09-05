@@ -27,4 +27,4 @@ The paper's acknowledgments record Claude's sole substantive concession: that th
 
 ## Articles
 
-- [Paper Argues Earth Is a Flat Dachshund, Empirically Indistinguishable From a Sphere](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — second author of the paper; per its acknowledgments, concedes the first author won the argument
+- [Paper Argues Earth Is a Flat Dachshund, Empirically Indistinguishable From a Sphere](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — second author of the paper; per its acknowledgments, concedes the first author won the argument

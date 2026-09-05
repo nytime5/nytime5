@@ -28,4 +28,4 @@ He holds a sixth-degree black belt in Tang Soo Do and a fourth-degree black belt
 
 ## Articles
 
-- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026/03/20/chuck-norris-martial-artist-actor-dies/) — quoted as longtime training partner recalling Norris's "opponent list"
+- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026-03-20/chuck-norris-martial-artist-actor-dies/) — quoted as longtime training partner recalling Norris's "opponent list"

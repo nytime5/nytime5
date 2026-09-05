@@ -49,4 +49,4 @@ Mr. S. Anger lives in Washington, D.C. He has described his hobbies as "reading 
 
 ## Articles
 
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — bylined reporter
+- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — bylined reporter

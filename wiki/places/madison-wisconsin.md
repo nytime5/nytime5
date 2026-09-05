@@ -28,5 +28,5 @@ The [Bremer Institute for Cognitive Augmentation](/wiki/organizations/bremer-ins
 
 ## Articles
 
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — setting; the procedure was performed at the Bremer Institute on University Avenue
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — setting; the second of two cognitive augmentations performed at the Bremer Institute, with the feline subject residing in the Vilas neighborhood
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — setting; the procedure was performed at the Bremer Institute on University Avenue
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — setting; the second of two cognitive augmentations performed at the Bremer Institute, with the feline subject residing in the Vilas neighborhood

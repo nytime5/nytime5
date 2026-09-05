@@ -28,4 +28,4 @@ She is a frequent and weary presence in news coverage of food scares, where she 
 
 ## Articles
 
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026/06/25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — explained the mechanically recovered poultry process and called the subject's conclusion correct by an unusual road
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — explained the mechanically recovered poultry process and called the subject's conclusion correct by an unusual road

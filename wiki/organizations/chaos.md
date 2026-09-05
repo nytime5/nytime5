@@ -38,4 +38,4 @@ The organization's activities have focused on what analysts describe as "soft de
 
 ## Articles
 
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage
+- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage

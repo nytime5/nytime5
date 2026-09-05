@@ -30,4 +30,4 @@ She lives in Syracuse, New York, and describes her relationship to cable news as
 
 ## Articles
 
-- [Man Looks Back Wistfully at Innocent Era When 'If He Took a Dump on His Desk, You'd Defend It' Was the Most Shocking Thing Said on Television](/2026/03/21/man-wistful-for-era-when-dump-on-desk-was-shocking/) — quoted on discourse nostalgia and the disappearance of scalar shock
+- [Man Looks Back Wistfully at Innocent Era When 'If He Took a Dump on His Desk, You'd Defend It' Was the Most Shocking Thing Said on Television](/2026-03-21/man-wistful-for-era-when-dump-on-desk-was-shocking/) — quoted on discourse nostalgia and the disappearance of scalar shock

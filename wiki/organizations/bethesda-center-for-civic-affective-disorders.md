@@ -35,4 +35,4 @@ The center's research staff numbers thirty-four, drawn principally from psychiat
 
 ## Articles
 
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026/05/05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — site of the federally funded inpatient program; coordinated the DSM-5-TR-2 working group that introduced P.D.S.
+- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — site of the federally funded inpatient program; coordinated the DSM-5-TR-2 working group that introduced P.D.S.

@@ -34,4 +34,4 @@ He has not told Dr. Ruhl about the spreadsheet, and Dr. Ruhl, who does not read 
 
 ## Articles
 
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026/07/12/physicist-derives-philosophy-from-first-principles/) — the postdoctoral researcher whose private spreadsheet first documented the Framework's rederivations
+- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — the postdoctoral researcher whose private spreadsheet first documented the Framework's rederivations

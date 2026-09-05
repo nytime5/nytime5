@@ -32,5 +32,5 @@ He is also known for asking his wife, during a moment of domestic tension, wheth
 
 ## Articles
 
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — the subject, hospitalized after a residential bidet perforated his abdomen
-- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026/03/27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — the subject, profiled after replacing his bidet and introducing philosophical non-sequiturs into marital discourse
+- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — the subject, hospitalized after a residential bidet perforated his abdomen
+- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026-03-27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — the subject, profiled after replacing his bidet and introducing philosophical non-sequiturs into marital discourse

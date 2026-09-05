@@ -34,4 +34,4 @@ The signature local complaint concerns the 210 freeway, which residents regard l
 
 ## Articles
 
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026/07/12/physicist-derives-philosophy-from-first-principles/) — setting; Dr. Anders Ruhl's Caltech office and the chalkboard on which he derived the categorical imperative
+- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — setting; Dr. Anders Ruhl's Caltech office and the chalkboard on which he derived the categorical imperative

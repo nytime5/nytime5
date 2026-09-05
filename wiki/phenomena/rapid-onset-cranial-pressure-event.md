@@ -102,4 +102,4 @@ Drechsler and his international correspondents have, since 2019, formally reques
 
 ## Articles
 
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026/04/25/adult-son-fisherman-dies-cranial-event-jones-act/) — establishing case; classified by Dr. Drechsler as a rapid-onset cranial pressure event consistent with prior cases
+- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — establishing case; classified by Dr. Drechsler as a rapid-onset cranial pressure event consistent with prior cases

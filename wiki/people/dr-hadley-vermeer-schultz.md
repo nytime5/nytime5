@@ -38,4 +38,4 @@ She is acutely conscious of the commercial dimensions of her field and prefers n
 
 ## Articles
 
-- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026/05/13/in-defense-of-explicit-bias/) — interviewed by Mr. Kitchens over an overdressed chicken at the Cosmos Club; defended the millisecond register as "in many cases, the more honest register"
+- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026-05-13/in-defense-of-explicit-bias/) — interviewed by Mr. Kitchens over an overdressed chicken at the Cosmos Club; defended the millisecond register as "in many cases, the more honest register"

@@ -32,4 +32,4 @@ He lives in Silver Spring, Maryland, and has described his work as "the sort of 
 
 ## Articles
 
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — quoted on the water pressure required to produce the described injuries and the implications for consumer fixture safety standards
+- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — quoted on the water pressure required to produce the described injuries and the implications for consumer fixture safety standards

@@ -50,7 +50,7 @@ Ms. Blue holds a certificate in open-source intelligence analysis from an instit
 
 ## Articles
 
-- [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026/03/15/connect-the-dots-president-faces-east-five-times-a-day/) — column alleging the president is a secret Muslim engaged in civilizational sabotage
+- [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026-03-15/connect-the-dots-president-faces-east-five-times-a-day/) — column alleging the president is a secret Muslim engaged in civilizational sabotage
 
 ---
 

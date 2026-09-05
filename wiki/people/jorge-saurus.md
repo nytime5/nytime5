@@ -49,5 +49,5 @@ His relationship with George Soros has been a subject of sustained public confus
 
 ## Articles
 
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — subject of article; assumes leadership of both shadow organizations
-- [The Real Threat to Western Civilization](/2026/04/08/the-real-threat-to-western-civilization/) — referenced; Justice Department investigation of his foundations cited as example of political persecution
+- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — subject of article; assumes leadership of both shadow organizations
+- [The Real Threat to Western Civilization](/2026-04-08/the-real-threat-to-western-civilization/) — referenced; Justice Department investigation of his foundations cited as example of political persecution

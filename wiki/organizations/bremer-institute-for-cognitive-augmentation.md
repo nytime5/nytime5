@@ -33,5 +33,5 @@ The institute's blind spot is the question of consent in subjects who, prior to 
 
 ## Articles
 
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — performed the first canine cognitive augmentation; subject requested reversal within the hour
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — performed the first feline cognitive augmentation; subject declined reversal and produced a twenty-two-page critique of the institute
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — performed the first canine cognitive augmentation; subject requested reversal within the hour
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — performed the first feline cognitive augmentation; subject declined reversal and produced a twenty-two-page critique of the institute

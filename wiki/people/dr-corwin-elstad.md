@@ -34,4 +34,4 @@ Elstad maintains that conventionalism, however valid as mathematics, belongs to 
 
 ## Articles
 
-- [Paper Argues Earth Is a Flat Dachshund](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — as editor-in-chief of the Journal of Recreational Geodesy, explained the rejection of the paper on the record: not for error, but for being correct and useless
+- [Paper Argues Earth Is a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — as editor-in-chief of the Journal of Recreational Geodesy, explained the rejection of the paper on the record: not for error, but for being correct and useless

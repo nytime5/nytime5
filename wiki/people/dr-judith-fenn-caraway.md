@@ -30,4 +30,4 @@ Dr. Fenn-Caraway lives in Glen Rock, New Jersey, with her husband, whom she has 
 
 ## Articles
 
-- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026/03/27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — quoted on non-sequitur deflection in long-term marriages
+- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026-03-27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — quoted on non-sequitur deflection in long-term marriages

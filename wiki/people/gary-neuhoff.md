@@ -38,4 +38,4 @@ Mr. Neuhoff is married, has two adult children, and votes in every election.
 
 ## Articles
 
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — case subject of the federal throughput study; carries the ninety-one-word card
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — case subject of the federal throughput study; carries the ninety-one-word card

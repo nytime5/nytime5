@@ -31,4 +31,4 @@ The Center maintains a public reading room containing a complete annotated text 
 
 ## Articles
 
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026/04/25/adult-son-fisherman-dies-cranial-event-jones-act/) — Dr. Krummel quoted on the cognitive externality of statutory engagement
+- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — Dr. Krummel quoted on the cognitive externality of statutory engagement

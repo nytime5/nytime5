@@ -34,5 +34,5 @@ Dr. Marquardt lives on the Upper West Side of Manhattan and serves on the adviso
 
 ## Articles
 
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026/04/05/einstein-heir-sues-every-physicist-since-1905/) — named Defendant No. 7,342; served during a graduate seminar
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026/07/12/physicist-derives-philosophy-from-first-principles/) — declined to find Dr. Anders Ruhl's Framework alarming, noting that physicists have been rederiving philosophy without attribution since roughly 1900 and that the practice is called physics
+- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — named Defendant No. 7,342; served during a graduate seminar
+- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — declined to find Dr. Anders Ruhl's Framework alarming, noting that physicists have been rederiving philosophy without attribution since roughly 1900 and that the practice is called physics

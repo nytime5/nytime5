@@ -51,4 +51,4 @@ Ms. Shakiria resides in New York City with her wife, an international human righ
 
 ## Articles
 
-- [The Real Threat to Western Civilization](/2026/04/08/the-real-threat-to-western-civilization/) — opinion column; argues the West's defining achievement is the limitation of state power and that the Trump administration is systematically dismantling it
+- [The Real Threat to Western Civilization](/2026-04-08/the-real-threat-to-western-civilization/) — opinion column; argues the West's defining achievement is the limitation of state power and that the Trump administration is systematically dismantling it

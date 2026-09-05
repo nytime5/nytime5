@@ -49,4 +49,4 @@ The center publishes *Throughput*, a semiannual journal, and hosts the Ann Arbor
 
 ## Articles
 
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — conducted the four-year federal study establishing the serialization limit on political speech
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — conducted the four-year federal study establishing the serialization limit on political speech

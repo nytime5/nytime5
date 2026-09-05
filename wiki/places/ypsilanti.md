@@ -29,5 +29,5 @@ Ypsilanti's economy, historically tied to automotive manufacturing, has in recen
 
 ## Articles
 
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026/06/25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — setting; a longtime resident holds an uncontested private conviction about food
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — setting; home of Gary Neuhoff, the study's principal case subject, who noted the laboratory is in Ann Arbor
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — setting; a longtime resident holds an uncontested private conviction about food
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — setting; home of Gary Neuhoff, the study's principal case subject, who noted the laboratory is in Ann Arbor

@@ -23,4 +23,4 @@ The comic engine of the Institute is direction of travel: where a reader expects
 
 ## Articles
 
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026/06/25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — its director described the mechanically recovered poultry process and defended its nutritional legitimacy
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — its director described the mechanically recovered poultry process and defended its nutritional legitimacy

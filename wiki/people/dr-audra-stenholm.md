@@ -30,4 +30,4 @@ Dr. Stenholm is frequently consulted by reporters whenever a public figure annou
 
 ## Articles
 
-- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026/06/19/trump-reflecting-pool-organic-food-source-for-hungry/) — assessed the forageable yield of the renovated reflecting pool and cautioned that its ducks are "not enrolled in a program"
+- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026-06-19/trump-reflecting-pool-organic-food-source-for-hungry/) — assessed the forageable yield of the renovated reflecting pool and cautioned that its ducks are "not enrolled in a program"

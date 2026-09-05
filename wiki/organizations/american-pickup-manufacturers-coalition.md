@@ -27,4 +27,4 @@ The coalition's annual report consistently refers to pickup trucks as "the backb
 
 ## Articles
 
-- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026/03/15/musk-calls-all-other-trucks-sistrucks/) — Gerald Pratt quoted denouncing the "sistruck" designation
+- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026-03-15/musk-calls-all-other-trucks-sistrucks/) — Gerald Pratt quoted denouncing the "sistruck" designation

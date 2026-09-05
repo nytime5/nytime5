@@ -26,4 +26,4 @@ She has been described by colleagues as "the leading pessimist on shared waterwa
 
 ## Articles
 
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026/03/21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — quoted on the historical precedents for joint river sovereignty
+- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — quoted on the historical precedents for joint river sovereignty

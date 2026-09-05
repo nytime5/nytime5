@@ -33,4 +33,4 @@ The center's funding model — it is supported in significant part by the compan
 
 ## Articles
 
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing on the bereavement vertical and the broader crypto greeting card sector
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing on the bereavement vertical and the broader crypto greeting card sector

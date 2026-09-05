@@ -38,4 +38,4 @@ Political disagreements in Schaumburg tend to concern procedure rather than subs
 
 ## Articles
 
-- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026/04/23/man-self-identifies-as-woman-to-avoid-mansplaining/) — setting of the feature profile
+- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026-04-23/man-self-identifies-as-woman-to-avoid-mansplaining/) — setting of the feature profile

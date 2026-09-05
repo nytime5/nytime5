@@ -41,4 +41,4 @@ He lives in the District of Columbia with his wife, a Foreign Service officer, a
 
 ## Articles
 
-- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026/04/05/trump-and-iran-declare-complete-victory-in-war/) — bylined reporter, covering the simultaneous and mutually exclusive victory declarations by both belligerents
+- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026-04-05/trump-and-iran-declare-complete-victory-in-war/) — bylined reporter, covering the simultaneous and mutually exclusive victory declarations by both belligerents

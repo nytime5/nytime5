@@ -55,7 +55,7 @@ Mr. Karlsson lives in Boca Grande, Florida, with his wife, a former prep-school 
 
 ## Articles
 
-- [Why We Must Privatize Schools and Then Subsidize Them Entirely With Public Money](/2026/03/15/privatize-schools-then-subsidize-them-entirely-with-public-money/) — advocates for abolishing public schools and replacing them with publicly funded, publicly regulated, universally accessible education centers that are technically private
+- [Why We Must Privatize Schools and Then Subsidize Them Entirely With Public Money](/2026-03-15/privatize-schools-then-subsidize-them-entirely-with-public-money/) — advocates for abolishing public schools and replacing them with publicly funded, publicly regulated, universally accessible education centers that are technically private
 
 ---
 

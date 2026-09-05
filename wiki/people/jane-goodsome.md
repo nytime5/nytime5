@@ -44,6 +44,6 @@ She is known for filing stories weeks after deadline, a practice the paper has a
 
 ## Articles
 
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026/04/08/quokkas-file-class-action-libel-suit-against-humanity/) — covered the landmark interspecies defamation case filed in Western Australia
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — covered the Bremer Institute's first canine application of its cognitive augmentation protocol and the subject's near-immediate request for reversal
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — covered the Bremer Institute's first feline application of the same protocol, which produced the opposite outcome and a detailed written critique of the institute
+- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — covered the landmark interspecies defamation case filed in Western Australia
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — covered the Bremer Institute's first canine application of its cognitive augmentation protocol and the subject's near-immediate request for reversal
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — covered the Bremer Institute's first feline application of the same protocol, which produced the opposite outcome and a detailed written critique of the institute

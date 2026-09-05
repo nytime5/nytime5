@@ -34,4 +34,4 @@ Ms. Halper-Cole lives in Mountain View. She is married, with two children, and h
 
 ## Articles
 
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing and analyst commentary on Sentigram's Condolence Coin launch
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing and analyst commentary on Sentigram's Condolence Coin launch

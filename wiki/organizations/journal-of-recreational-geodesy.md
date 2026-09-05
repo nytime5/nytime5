@@ -25,4 +25,4 @@ The episode was, for the journal, an unusually public one, and its editors have 
 
 ## Articles
 
-- [Paper Argues the Earth Is Shaped Like a Flat Dachshund](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — rejected the Dachshund Earth paper; editor-in-chief Dr. Corwin Elstad quoted explaining the decision
+- [Paper Argues the Earth Is Shaped Like a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — rejected the Dachshund Earth paper; editor-in-chief Dr. Corwin Elstad quoted explaining the decision

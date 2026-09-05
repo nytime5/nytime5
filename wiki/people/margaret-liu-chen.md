@@ -41,4 +41,4 @@ Ms. Liu-Chen lives in Astoria, Queens, and has described her beat as "everything
 
 ## Articles
 
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — bylined reporter, covering a Paramus man hospitalized after a residential bidet perforated his abdomen
+- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — bylined reporter, covering a Paramus man hospitalized after a residential bidet perforated his abdomen

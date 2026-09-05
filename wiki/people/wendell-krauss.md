@@ -28,4 +28,4 @@ He is not known to have campaigned for his view, sought converts, or expressed d
 
 ## Articles
 
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026/06/25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — subject of the feature
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — subject of the feature

@@ -4,7 +4,8 @@
     "hugo-bin": "^0.138.0"
   },
   "scripts": {
-    "deploy": "npx hugo && npx wrangler deploy",
+    "check": "./scripts/check.sh",
+    "deploy": "./scripts/check.sh && npx hugo && npx wrangler deploy",
     "preview": "npx hugo && npx wrangler dev"
   },
   "hugo-bin": {

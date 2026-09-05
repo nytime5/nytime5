@@ -29,4 +29,4 @@ The Institute has seen a marked increase in public inquiries since the prolifera
 
 ## Articles
 
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026/03/24/powerful-bidet-blasts-hole-clean-through-man/) — Dr. Alan Pressler quoted on the pressure levels required to produce the reported injuries
+- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — Dr. Alan Pressler quoted on the pressure levels required to produce the reported injuries

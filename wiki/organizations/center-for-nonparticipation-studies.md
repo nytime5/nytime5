@@ -40,5 +40,5 @@ The Center has, in the course of its fieldwork, developed a taxonomy of nonparti
 
 ## Articles
 
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026/04/23/takoma-park-man-not-voting-patriarchy-activism/) — Dr. Cassandra Murch, Senior Fellow, quoted on retroactive principle formation
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — Civic Silence Initiative findings corroborated; Dr. Cassandra Murch reduced a 2,900-proposition position to ninety-one words
+- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — Dr. Cassandra Murch, Senior Fellow, quoted on retroactive principle formation
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — Civic Silence Initiative findings corroborated; Dr. Cassandra Murch reduced a 2,900-proposition position to ninety-one words

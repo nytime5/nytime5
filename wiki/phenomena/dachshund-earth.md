@@ -50,4 +50,4 @@ The model concedes the two objections most commonly raised against it. That it i
 
 ## Articles
 
-- [Paper Argues Earth Is a Flat Dachshund](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — the model's first public treatment, reporting the rejected Reinholdtsen–Claude paper and the case for the Defensible Flat Earth
+- [Paper Argues Earth Is a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — the model's first public treatment, reporting the rejected Reinholdtsen–Claude paper and the case for the Defensible Flat Earth

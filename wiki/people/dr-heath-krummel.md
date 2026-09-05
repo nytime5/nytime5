@@ -36,4 +36,4 @@ Dr. Krummel has read the Merchant Marine Act of 1920 in its entirety four times.
 
 ## Articles
 
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026/04/25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted on the deadweight loss attributable to the Jones Act and on the previously unmodeled externality of statutory cognitive load
+- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted on the deadweight loss attributable to the Jones Act and on the previously unmodeled externality of statutory cognitive load

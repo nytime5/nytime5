@@ -30,4 +30,4 @@ In April 2026, Mr. Penniman authored a nine-page internal memorandum advising th
 
 ## Articles
 
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026/04/06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — authored the memorandum advising the committee to withdraw its contempt citation
+- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — authored the memorandum advising the committee to withdraw its contempt citation

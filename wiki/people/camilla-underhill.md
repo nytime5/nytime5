@@ -26,4 +26,4 @@ Her decision to enroll Margaux in the trial followed a recommendation by Margaux
 
 ## Articles
 
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — Margaux's owner; enrolled her in the trial and was the source for several quotes
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — Margaux's owner; enrolled her in the trial and was the source for several quotes

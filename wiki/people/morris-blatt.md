@@ -36,4 +36,4 @@ He lives in Maplewood, New Jersey, with his wife, a school librarian, and their 
 
 ## Articles
 
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026/04/05/einstein-heir-sues-every-physicist-since-1905/) — representing the plaintiff
+- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — representing the plaintiff

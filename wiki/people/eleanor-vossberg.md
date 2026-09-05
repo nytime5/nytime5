@@ -26,4 +26,4 @@ Her decision to enroll Walter in the trial followed what she has, in subsequent 
 
 ## Articles
 
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — Walter's owner; enrolled him in the trial and was the source for several quotes
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — Walter's owner; enrolled him in the trial and was the source for several quotes

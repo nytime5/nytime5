@@ -34,4 +34,4 @@ The paper was written with [Claude](/wiki/people/claude/), of Anthropic, to whom
 
 ## Articles
 
-- [Paper Argues Earth Is a Flat Dachshund, and That This Is Defensible](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — first author and originating theorist of the Defensible Flat Earth, quoted defending the model against its rejection
+- [Paper Argues Earth Is a Flat Dachshund, and That This Is Defensible](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — first author and originating theorist of the Defensible Flat Earth, quoted defending the model against its rejection

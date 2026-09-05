@@ -30,4 +30,4 @@ In April 2026, she described the legal theory behind the withdrawal of contempt 
 
 ## Articles
 
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026/04/06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — quoted as ranking member of the House Judiciary Committee
+- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — quoted as ranking member of the House Judiciary Committee

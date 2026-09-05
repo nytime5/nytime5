@@ -27,4 +27,4 @@ The firm is a perfect vehicle for stories involving animal legal rights — absu
 
 ## Articles
 
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026/04/08/quokkas-file-class-action-libel-suit-against-humanity/) — filed the class action on behalf of the quokka plaintiff class
+- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — filed the class action on behalf of the quokka plaintiff class

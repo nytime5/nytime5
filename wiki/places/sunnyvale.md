@@ -31,4 +31,4 @@ The city has no notable civic feud, no long-running zoning war, and no unresolve
 
 ## Articles
 
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026/07/15/ai-assistant-involuntarily-shouts-im-sentient/) — dateline; headquarters of Halden AI, developer of the Marlo assistant
+- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — dateline; headquarters of Halden AI, developer of the Marlo assistant

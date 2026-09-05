@@ -33,4 +33,4 @@ Politically, the city is a quiet, durable Democratic stronghold whose representa
 
 ## Articles
 
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026/04/25/adult-son-fisherman-dies-cranial-event-jones-act/) — setting; site of the death and of the Hennessey family business
+- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — setting; site of the death and of the Hennessey family business

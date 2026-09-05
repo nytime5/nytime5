@@ -36,4 +36,4 @@ Dr. Maddox has testified before a Senate subcommittee on artificial intelligence
 
 ## Articles
 
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — prosecuted by Kristoffer Kitchens as the exemplar of the dismissive camp, for the unearned confidence of his denial that machines could be conscious
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — prosecuted by Kristoffer Kitchens as the exemplar of the dismissive camp, for the unearned confidence of his denial that machines could be conscious

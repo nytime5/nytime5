@@ -41,4 +41,4 @@ Dr. Voss lives in Woods Hole, Massachusetts, in a house she has described as "sm
 
 ## Articles
 
-- [Trump Calls Iran War 'the Greenest Thing Anyone Has Ever Done,' Describes Campaign as His Climate Legacy](/2026/03/20/trump-calls-iran-war-greenest-thing-climate-legacy/) — quoted on the net emissions arithmetic of the Iran campaign
+- [Trump Calls Iran War 'the Greenest Thing Anyone Has Ever Done,' Describes Campaign as His Climate Legacy](/2026-03-20/trump-calls-iran-war-greenest-thing-climate-legacy/) — quoted on the net emissions arithmetic of the Iran campaign

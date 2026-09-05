@@ -30,4 +30,4 @@ Dr. Fitch lives in Houston's Montrose neighborhood with two cats named Achilles 
 
 ## Articles
 
-- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026/03/20/chuck-norris-martial-artist-actor-dies/) — quoted on the mythological precedent for warriors fighting Death to gain entry to a warrior's afterlife
+- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026-03-20/chuck-norris-martial-artist-actor-dies/) — quoted on the mythological precedent for warriors fighting Death to gain entry to a warrior's afterlife

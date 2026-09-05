@@ -38,4 +38,4 @@ Dr. Halbritter lives in Bethesda with her husband, a retired epidemiologist, and
 
 ## Articles
 
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026/05/05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — quoted as founding director of the Bethesda Center for Civic Affective Disorders and lead author of the DSM-5-TR-2 working group paper introducing P.D.S.
+- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — quoted as founding director of the Bethesda Center for Civic Affective Disorders and lead author of the DSM-5-TR-2 working group paper introducing P.D.S.

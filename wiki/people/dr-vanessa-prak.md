@@ -26,4 +26,4 @@ When quoted in the press, she tends to volunteer details that technically suppor
 
 ## Articles
 
-- [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026/03/17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — quoted as lead Microsoft executive on the ReasonCheck launch
+- [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026-03-17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — quoted as lead Microsoft executive on the ReasonCheck launch

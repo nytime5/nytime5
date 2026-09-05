@@ -28,4 +28,4 @@ When quoted in the press, he tends to provide the most charitable possible inter
 
 ## Articles
 
-- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026/03/15/musk-calls-all-other-trucks-sistrucks/) — quoted on the "definitional inversion" strategy behind the sistruck designation
+- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026-03-15/musk-calls-all-other-trucks-sistrucks/) — quoted on the "definitional inversion" strategy behind the sistruck designation

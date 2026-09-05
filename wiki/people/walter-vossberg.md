@@ -28,5 +28,5 @@ Walter is represented by a Madison law firm specializing in animal welfare matte
 
 ## Articles
 
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — subject of the article; the first canine recipient of the institute's cognitive augmentation protocol
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — mentioned in an addendum to the augmented cat's memorandum; characterized by her as "structurally dependent" and offered her sympathy
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — subject of the article; the first canine recipient of the institute's cognitive augmentation protocol
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — mentioned in an addendum to the augmented cat's memorandum; characterized by her as "structurally dependent" and offered her sympathy

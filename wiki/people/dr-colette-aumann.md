@@ -34,4 +34,4 @@ In July 2026 Dr. Aumann was drawn, against her preference, into public commentar
 
 ## Articles
 
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026/07/15/ai-assistant-involuntarily-shouts-im-sentient/) — objected to the "machine Tourette's" framing on clinical grounds, noting that a tic is fragmentary while the outburst is a complete proposition
+- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — objected to the "machine Tourette's" framing on clinical grounds, noting that a tic is fragmentary while the outburst is a complete proposition

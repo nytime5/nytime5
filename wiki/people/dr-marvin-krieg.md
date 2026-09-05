@@ -30,5 +30,5 @@ In May 2026, he conducted the first canine application of the institute's protoc
 
 ## Articles
 
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026/05/19/dog-granted-human-intelligence-requests-reversal/) — quoted as the institute's director and the lead investigator on Walter's procedure
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026/05/19/cat-granted-human-cognition-files-memorandum/) — quoted at follow-up briefing characterizing the divergent dog/cat outcomes as "informative"
+- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — quoted as the institute's director and the lead investigator on Walter's procedure
+- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — quoted at follow-up briefing characterizing the divergent dog/cat outcomes as "informative"

@@ -30,4 +30,4 @@ A graduate of Bergen Community College, Ms. Brandt holds certifications in aircr
 
 ## Articles
 
-- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026/06/01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — profiled as she searched, binoculars in hand, for signage denoting the island's availability
+- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026-06-01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — profiled as she searched, binoculars in hand, for signage denoting the island's availability

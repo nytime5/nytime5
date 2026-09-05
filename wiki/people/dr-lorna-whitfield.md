@@ -34,4 +34,4 @@ Dr. Whitfield lives on Rottnest Island for approximately nine months of the year
 
 ## Articles
 
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026/04/08/quokkas-file-class-action-libel-suit-against-humanity/) — expert witness for the plaintiffs
+- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — expert witness for the plaintiffs

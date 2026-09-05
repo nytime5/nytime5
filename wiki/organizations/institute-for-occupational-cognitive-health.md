@@ -27,4 +27,4 @@ The institute publishes the *Journal of Occupational Cognitive Science*, a peer-
 
 ## Articles
 
-- [Solidity Developer, After 41-Hour Coding Session, Reports Firm Belief That Each Token Possesses a Soul](/2026/04/16/solidity-developer-believes-each-token-has-a-soul/) — 2024 study on developer anthropomorphic ideation cited
+- [Solidity Developer, After 41-Hour Coding Session, Reports Firm Belief That Each Token Possesses a Soul](/2026-04-16/solidity-developer-believes-each-token-has-a-soul/) — 2024 study on developer anthropomorphic ideation cited

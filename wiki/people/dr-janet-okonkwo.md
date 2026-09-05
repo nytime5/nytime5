@@ -24,4 +24,4 @@ She lives in Evanston, Illinois.
 
 ## Articles
 
-- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026/04/01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — quoted as colleague of Dr. Prask
+- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026-04-01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — quoted as colleague of Dr. Prask

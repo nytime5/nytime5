@@ -38,4 +38,4 @@ Dr. Kolbeck lives in Ann Arbor.
 
 ## Articles
 
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — principal investigator; quoted on the bolus, the ordering problem, and political silence as a bandwidth judgment
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — principal investigator; quoted on the bolus, the ordering problem, and political silence as a bandwidth judgment

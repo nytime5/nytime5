@@ -40,4 +40,4 @@ The city's relationship with Washington, D.C., immediately to its south, is cord
 
 ## Articles
 
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026/04/23/takoma-park-man-not-voting-patriarchy-activism/) — setting of the feature profile
+- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — setting of the feature profile

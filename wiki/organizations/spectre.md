@@ -38,4 +38,4 @@ For much of its history, SPECTRE operated under the leadership of a succession o
 
 ## Articles
 
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026/03/14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage
+- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage

@@ -41,4 +41,4 @@ Ms. Okafor-Williams was a finalist for the Gerald Loeb Award in 2023 for a serie
 
 ## Articles
 
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026/04/23/crypto-greeting-cards-condolence-coin-launch/) — covered the launch of Sentigram's Condolence Coin and the broader market for tokenized life events
+- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — covered the launch of Sentigram's Condolence Coin and the broader market for tokenized life events

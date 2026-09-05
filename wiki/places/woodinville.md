@@ -36,4 +36,4 @@ Woodinville's sore spots are specific and long-held. Residents are sensitive to 
 
 ## Articles
 
-- [Paper Argues the Earth Is a Flat Dachshund. It Was Rejected, and Its Author Says That Proves the Point.](/2026/07/06/paper-argues-earth-is-a-flat-dachshund/) — dateline and setting; home of the paper's first author and the field's institutional seat
+- [Paper Argues the Earth Is a Flat Dachshund. It Was Rejected, and Its Author Says That Proves the Point.](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — dateline and setting; home of the paper's first author and the field's institutional seat

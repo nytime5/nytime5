@@ -32,4 +32,4 @@ She lives in Madison, Wisconsin, and pronounces it "correctly," a qualifier she 
 
 ## Articles
 
-- [Seattle Man Who Pronounces the S in 'Des Moines' Told He Is 'Actively Undermining the Relationship'](/2026/03/31/seattle-man-pronounces-s-in-des-moines/) — quoted on pronunciation as a marker of regional belonging
+- [Seattle Man Who Pronounces the S in 'Des Moines' Told He Is 'Actively Undermining the Relationship'](/2026-03-31/seattle-man-pronounces-s-in-des-moines/) — quoted on pronunciation as a marker of regional belonging

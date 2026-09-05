@@ -26,4 +26,4 @@ She is frequently consulted by journalists covering the psychological dimensions
 
 ## Articles
 
-- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026/03/20/man-vibe-coding-session-hallucination-own-instructions/) — quoted on the phenomenon of prompt dissolution in extended AI coding sessions
+- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026-03-20/man-vibe-coding-session-hallucination-own-instructions/) — quoted on the phenomenon of prompt dissolution in extended AI coding sessions

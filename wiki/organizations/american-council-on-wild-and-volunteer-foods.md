@@ -25,4 +25,4 @@ The "present" category is the engine of its comedy. The Council can be relied up
 
 ## Articles
 
-- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026/06/19/trump-reflecting-pool-organic-food-source-for-hungry/) — its executive director assessed the forageable yield of the renovated reflecting pool
+- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026-06-19/trump-reflecting-pool-organic-food-source-for-hungry/) — its executive director assessed the forageable yield of the renovated reflecting pool

@@ -36,4 +36,4 @@ Dr. Prask has become publicly associated with a sustained objection to the collo
 
 ## Articles
 
-- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026/04/01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — profiled as subject of the article
+- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026-04-01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — profiled as subject of the article

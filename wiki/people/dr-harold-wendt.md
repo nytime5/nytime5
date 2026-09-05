@@ -36,4 +36,4 @@ He is a frequent and increasingly exasperated commentator on scientific literacy
 
 ## Articles
 
-- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026/03/22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — quoted as lead expert on the implications of the poll results
+- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026-03-22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — quoted as lead expert on the implications of the poll results

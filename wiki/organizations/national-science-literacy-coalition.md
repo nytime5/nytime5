@@ -21,4 +21,4 @@ The Coalition's advocacy efforts have focused on the integration of conceptual p
 
 ## Articles
 
-- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026/03/22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — executive director Sheila Grogan quoted on the implications of the poll for science education policy
+- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026-03-22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — executive director Sheila Grogan quoted on the implications of the poll for science education policy

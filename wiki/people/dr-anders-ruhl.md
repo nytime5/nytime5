@@ -47,4 +47,4 @@ He lives in [Pasadena](/wiki/places/pasadena/).
 
 ## Articles
 
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026/07/12/physicist-derives-philosophy-from-first-principles/) — first public account of the Framework and the Center for Computational Epistemology's audit of it
+- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — first public account of the Framework and the Center for Computational Epistemology's audit of it

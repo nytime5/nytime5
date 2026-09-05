@@ -30,4 +30,4 @@ Politically, Marathon County is a swing region in a swing state, and has accordi
 
 ## Articles
 
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026/05/05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — hometown of Robert Pavel, the retired postal carrier whose presentation at a local emergency department is described in the lede
+- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — hometown of Robert Pavel, the retired postal carrier whose presentation at a local emergency department is described in the lede

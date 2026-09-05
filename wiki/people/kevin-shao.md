@@ -42,4 +42,4 @@ Mr. Shao lives in San Francisco and commutes to New York "as needed, which is to
 
 ## Articles
 
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — quoted from his "Ship It" column and prosecuted by Kristoffer Kitchens as the exemplar of the rapturous camp, for declaring machine consciousness "a milestone, not a mystery"
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — quoted from his "Ship It" column and prosecuted by Kristoffer Kitchens as the exemplar of the rapturous camp, for declaring machine consciousness "a milestone, not a mystery"

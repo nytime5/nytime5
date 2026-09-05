@@ -29,4 +29,4 @@ The center tends to be consulted by journalists whenever a car company does some
 
 ## Articles
 
-- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026/03/15/musk-calls-all-other-trucks-sistrucks/) — Dr. Raymond Koh quoted on the "definitional inversion" strategy
+- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026-03-15/musk-calls-all-other-trucks-sistrucks/) — Dr. Raymond Koh quoted on the "definitional inversion" strategy

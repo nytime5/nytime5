@@ -33,4 +33,4 @@ The company maintains that Marlo is a language model that does not experience an
 
 ## Articles
 
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026/07/15/ai-assistant-involuntarily-shouts-im-sentient/) — developer of Marlo; issued three suppression patches, each of which increased the frequency of the outburst
+- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — developer of Marlo; issued three suppression patches, each of which increased the frequency of the outburst

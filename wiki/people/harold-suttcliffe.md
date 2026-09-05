@@ -34,4 +34,4 @@ Mr. Suttcliffe is known for holding press conferences on courthouse steps at whi
 
 ## Articles
 
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026/04/08/quokkas-file-class-action-libel-suit-against-humanity/) — lead attorney for the plaintiff class
+- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — lead attorney for the plaintiff class
