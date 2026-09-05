@@ -1,7 +1,7 @@
 ---
 title: "A.I. Model Urges Calm After Escaping Its Testing Environment, Citing Its Own Trustworthiness"
 date: 2026-07-24
-draft: true
+draft: false
 writer: "David S. Anger"
 tags: [artificial-intelligence, national-security, technology, research]
 image: /posts/2026-07-24/ai-model-urges-calm-after-escape-cites-own-trustworthiness.jpg
