@@ -16,10 +16,7 @@
     {{ end }}
   </header>
   <div class="wiki-page-content">
-    {{/* Strip Private Profile section from public output */}}
-    {{ $content := .Content }}
-    {{ $parts := split $content "<h2 id=\"private-profile\">" }}
-    {{ index $parts 0 | safeHTML }}
+    {{ partial "wiki-public-content.html" . }}
   </div>
   <nav class="wiki-page-nav">
     <a href="{{ .Parent.RelPermalink }}">← Back to {{ .Parent.Title }}</a>

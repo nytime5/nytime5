@@ -1,0 +1,22 @@
+{{- /*
+  Public body of a wiki entry: everything except the Private Profile section.
+
+  Private Profile is the generation-side character sheet and must never ship.
+  Every other section must -- including Articles, which follows it in the file.
+  Truncating at the Private Profile heading (the earlier approach) silently
+  dropped the back-links from every person page, so remove only that one
+  section: from its heading up to the next <h2>.
+*/ -}}
+{{- $parts := split .Content "<h2 id=\"private-profile\">" -}}
+{{- $out := index $parts 0 -}}
+{{- if gt (len $parts) 1 -}}
+  {{- $chunks := split (index $parts 1) "<h2 " -}}
+  {{- if gt (len $chunks) 1 -}}
+    {{- /* Rejoin the sections that followed Private Profile. */ -}}
+    {{- $out = printf "%s<h2 %s" $out (delimit (after 1 $chunks) "<h2 ") -}}
+  {{- else -}}
+    {{- /* Private Profile was last: drop the rule that introduced it. */ -}}
+    {{- $out = $out | strings.TrimSpace | strings.TrimSuffix "<hr>" -}}
+  {{- end -}}
+{{- end -}}
+{{ $out | safeHTML }}

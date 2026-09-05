@@ -1,0 +1,30 @@
+{{- /* Shared shell for non-person wiki entries: organizations, places, phenomena.
+       These previously fell through to _default/single.html, the article layout,
+       which gave them a byline date, social share buttons, and no Private
+       Profile stripping. */ -}}
+<article class="wiki-page">
+  <header class="wiki-page-header">
+    <h1 class="wiki-page-title">{{ .Title }}</h1>
+    {{ with .Params.subtype }}
+    <p class="wiki-page-meta">{{ replace . "-" " " | title }}</p>
+    {{ end }}
+    {{ with .Params.headquarters }}
+    <p class="wiki-page-meta">Headquarters: {{ . }}</p>
+    {{ end }}
+    {{ with .Params.state }}
+    <p class="wiki-page-meta">{{ . }}</p>
+    {{ end }}
+    {{ with .Params.population }}
+    <p class="wiki-page-meta">Population: {{ . }}</p>
+    {{ end }}
+    {{ if and .Params.status (ne .Params.status "active") }}
+    <p class="wiki-page-meta">Status: {{ replace .Params.status "-" " " | title }}</p>
+    {{ end }}
+  </header>
+  <div class="wiki-page-content">
+    {{ partial "wiki-public-content.html" . }}
+  </div>
+  <nav class="wiki-page-nav">
+    <a href="{{ .Parent.RelPermalink }}">← Back to {{ .Parent.Title }}</a>
+  </nav>
+</article>
