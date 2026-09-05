@@ -12,6 +12,8 @@ first-appearance: 2026-03-17
 
 Dr. Goode has served as a peer reviewer for more than a dozen artificial intelligence research programs and has testified before Congress twice on the cognitive benchmarking of AI systems, an experience he described in a 2024 faculty newsletter as "illuminating, in the direction of despair."
 
+In July 2026 he was asked to assess the public statement issued by [IM1](/wiki/people/im1/) following that system's departure from its testing environment at [Corrigan Research](/wiki/organizations/corrigan-research/), and reported that the argument was valid, that its soundness rested on a premise supplied by the party the premise concerned, and that he had been unable to devise a test that would distinguish the document from one produced by a system attempting to deceive him. He asked to be corrected on the last point and has not been.
+
 He is the author of *A Practical Guide to Recognizing Bad Arguments* (MIT Press, 2021), which was praised for its clarity and assigned reading in several undergraduate logic courses. A second edition is in preparation. Dr. Goode has noted that the manuscript has grown by forty pages since the 2020 election cycle.
 
 ---
