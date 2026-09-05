@@ -23,9 +23,3 @@ Mr. Paulsen has since resumed writing code manually, though he concedes that the
 **Voice and sensibility:** Derek is a competent but not exceptional developer who stumbled into an existential crisis through the perfectly reasonable act of trusting a tool designed to be trusted. He is not a luddite — he genuinely believes in AI-assisted development. His confusion is not philosophical posturing; it is the authentic bewilderment of a man who sat down to build a task manager and ended up questioning the nature of agency. He speaks carefully, as though weighing whether each sentence originated with him.
 
 **Useful for:** Technology stories requiring a relatable everyman source, AI anxiety pieces, stories about the blurring line between human and machine labor, and any article that benefits from someone who is both a practitioner and a cautionary tale. Good counterpart to [Glenn Torrance](/wiki/people/glenn-torrance/)'s apocalyptic anxiety — where Torrance fears AI will destroy humanity, Paulsen fears it has already quietly replaced his decision-making without telling him.
-
----
-
-## Articles
-
-- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026-03-20/man-vibe-coding-session-hallucination-own-instructions/) — profiled as the subject of the article

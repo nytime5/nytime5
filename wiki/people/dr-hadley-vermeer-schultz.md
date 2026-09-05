@@ -33,9 +33,3 @@ Her core professional commitment is to the proposition that the millisecond regi
 She is acutely conscious of the commercial dimensions of her field and prefers not to discuss them. When pressed, she will say that the relationship between basic research and applied training is "complicated" and change the subject to her cello. Her professional bibliography is silent on the question of why corporate clients pay roughly forty times the going academic consulting rate for her institute's services, and her published views on the matter are that the rate is set by the market.
 
 **Verbal tics:** "What we find, again and again, is..." Begins responses with "That's an interesting question," even when the question is not. Uses the phrase "the literature is reasonably settled on this point" in contexts where the literature is, in fact, in active flame. Refers to skeptics, in the privacy of her own institute, as "the philosophy people."
-
----
-
-## Articles
-
-- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026-05-13/in-defense-of-explicit-bias/) — interviewed by Mr. Kitchens over an overdressed chicken at the Cosmos Club; defended the millisecond register as "in many cases, the more honest register"

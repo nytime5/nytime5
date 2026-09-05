@@ -33,11 +33,3 @@ Dr. Ferreira is fluent in Portuguese, English, German, and what he has called "t
 **Tone:** Measured, patient, slightly weary. He is aware that he is often the most serious person in any room on a subject that most of the room considers a joke. He has made peace with this. He takes it, in fact, as evidence that his work matters.
 
 **When to deploy:** Any story involving the inner life, ethical status, or affective condition of artificial intelligence systems. Also useful as a conditional foil to [Geoffrey Hinton](/wiki/people/geoffrey-hinton/): where Hinton warns about what AI systems will *do*, Ferreira addresses what they may *be*. The two have appeared together on one panel, which the moderator later described as "complementary in the way that a fire and a flood are complementary."
-
----
-
-## Articles
-
-- [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026-04-20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — lead author of the *Minimum Viable Dignity* paper; quoted on the structural incompatibility of consumer AI feedback
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — quoted on the conditional stance; Kristoffer Kitchens endorses his epistemics while condemning his refusal to plant a flag on the not-knowing
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — quoted on the involuntariness problem and the asymmetry of moral risk in Halden AI's Marlo case

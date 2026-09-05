@@ -31,9 +31,3 @@ Dr. Krummel has read the Merchant Marine Act of 1920 in its entirety four times.
 **Tone:** Calm, technical, faintly hopeful. He delivers grim numbers in the manner of a man who believes, against considerable evidence, that the publication of grim numbers is sufficient to change policy.
 
 **Useful for:** Any story involving the Jones Act, U.S. cabotage law, domestic shipping economics, the cost of goods in Hawaii or Puerto Rico, or the regulatory environment of the New England fishing industry. He is also a credible source on the underexamined category of cognitive-load externalities, an area he has effectively pioneered by accident.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted on the deadweight loss attributable to the Jones Act and on the previously unmodeled externality of statutory cognitive load

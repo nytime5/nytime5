@@ -20,9 +20,3 @@ The journal reviews submissions double-blind, publishes roughly a dozen papers a
 In 2026 the journal received, reviewed, and rejected ["On the Admissibility of Canine Geodesy: The Earth as a Dachshund, with a Defense of the Defensible Flat Earth,"](/papers/dachshund-earth/) a manuscript by the independent researcher [P. Reinholdtsen](/wiki/people/p-reinholdtsen/) of [Bitsy Services LLC](/wiki/organizations/bitsy-services/) and the co-author [Claude](/wiki/people/claude/), advancing the [Dachshund Earth](/wiki/phenomena/dachshund-earth/) model — the proposition that an Earth shaped like a dachshund is empirically indistinguishable from the standard sphere and, being topologically a torus, may be exactly flat. Editor-in-chief [Dr. Corwin Elstad](/wiki/people/dr-corwin-elstad/) has stated that the paper was not rejected for error. "Nothing in it is wrong," he has said. "That was among our objections." The board's decision letter, later circulated by the authors, held that the manuscript was recreational in the frivolous sense the journal has spent fifty years disavowing, and that its central defect — a total absence of theoretical economy — placed it "outside the recreation we recognize." The paper is now under review at a venue with lower standards.
 
 The episode was, for the journal, an unusually public one, and its editors have declined to discuss it beyond the record.
-
----
-
-## Articles
-
-- [Paper Argues the Earth Is Shaped Like a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — rejected the Dachshund Earth paper; editor-in-chief Dr. Corwin Elstad quoted explaining the decision

@@ -22,9 +22,3 @@ The coalition is currently led by Executive Director Brenda Halverson, who joine
 The coalition operates with the siege mentality of an industry that believes itself perpetually under cultural and regulatory attack. Its leadership genuinely views the American pickup truck as one of the nation's great contributions to civilization and treats any criticism of the category — whether from regulators, environmentalists, or rival vehicle manufacturers — as an existential threat requiring immediate and forceful response. Gerald Pratt, in particular, brings a combative energy to press interactions that colleagues describe as "passionate" and opponents describe as "a lot."
 
 The coalition's annual report consistently refers to pickup trucks as "the backbone of the American economy," a phrase that has appeared in every edition since 2005 without supporting citation.
-
----
-
-## Articles
-
-- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026-03-15/musk-calls-all-other-trucks-sistrucks/) — Gerald Pratt quoted denouncing the "sistruck" designation

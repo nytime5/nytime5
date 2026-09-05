@@ -35,10 +35,3 @@ The Center publishes the quarterly *Journal of Civic Engagement Studies*, which 
 The Center's interview protocol is designed to elicit, without leading, the subject's own account of the reasons for their nonparticipation. Interviewers are trained, in the Center's field manual, to avoid any phrasing that would suggest the subject's position is either rare or well-established, on the grounds that both framings tend to produce revisions. The manual notes, in italics, that "the goal is the account as the subject would have given it had no one ever asked."
 
 The Center has, in the course of its fieldwork, developed a taxonomy of nonparticipatory rationalizations. This taxonomy, first published in *The Stack*, includes the categories "the system is rigged," "I'm not going to reward them with my vote," "it doesn't matter in this state," "I was going to but forgot," "I've never voted and I'm not going to start now," and the subtype that Dr. Murch has written about most extensively, "it's actually activism."
-
----
-
-## Articles
-
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — Dr. Cassandra Murch, Senior Fellow, quoted on retroactive principle formation
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — Civic Silence Initiative findings corroborated; Dr. Cassandra Murch reduced a 2,900-proposition position to ninety-one words

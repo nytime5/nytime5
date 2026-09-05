@@ -97,9 +97,3 @@ Drechsler and his international correspondents have, since 2019, formally reques
 - Assigning a non-administrative trigger document. The mechanism requires administratively constructed text.
 - Permitting the condition to be cured, treated, or prevented. There is no protocol. There is only the document.
 - Resolving the institutional refusal to recognize the condition. The WHO will not act; the academic societies will not act; the regional pathologists will continue to log the cases. That standoff is part of the world.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — establishing case; classified by Dr. Drechsler as a rapid-onset cranial pressure event consistent with prior cases

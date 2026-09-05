@@ -25,9 +25,3 @@ She lives in Syracuse, New York, and describes her relationship to cable news as
 **Voice and sensibility:** Dr. Falk speaks with the crisp authority of someone who has spent fifteen years studying the exact moment American media discourse went off a cliff and can identify it to the week. She does not moralize — she quantifies. Her quotes have the quality of data presented as poetry. She is aware that her field of study sounds absurd ("I am a professor of people yelling on television") and addresses this by being more rigorous than anyone expects.
 
 **Useful for:** Any story involving cable news, political language, media escalation, public outrage, or the cultural memory of broadcast moments. She is the go-to expert for stories about how what was once shocking is now quaint. Her concept of "scalar shock" and "discourse nostalgia" are reusable frameworks for future articles.
-
----
-
-## Articles
-
-- [Man Looks Back Wistfully at Innocent Era When 'If He Took a Dump on His Desk, You'd Defend It' Was the Most Shocking Thing Said on Television](/2026-03-21/man-wistful-for-era-when-dump-on-desk-was-shocking/) — quoted on discourse nostalgia and the disappearance of scalar shock

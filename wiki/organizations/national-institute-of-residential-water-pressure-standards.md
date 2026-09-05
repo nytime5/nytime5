@@ -24,9 +24,3 @@ The Institute has seen a marked increase in public inquiries since the prolifera
 **Voice and sensibility:** The Institute exists at the intersection of extreme bureaucratic specificity and genuine physical danger — an organization that produces meticulously formatted technical documents about the circumstances under which water will destroy the human body. Its staff are serious professionals who have chosen to devote their careers to a subject that most people have never considered, and they are quietly exasperated by this asymmetry.
 
 **Useful for:** Any story involving plumbing safety, water pressure incidents, consumer fixture regulation, or the broader theme of invisible safety standards that protect people from dangers they do not know exist. The Institute is generative because its mission is inherently absurd-sounding but completely real in function — the comedy comes from the gap between how mundane plumbing sounds and how dangerous it can actually be.
-
----
-
-## Articles
-
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — Dr. Alan Pressler quoted on the pressure levels required to produce the reported injuries

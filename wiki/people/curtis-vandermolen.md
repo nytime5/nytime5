@@ -29,10 +29,3 @@ He lives in Ann Arbor and in Washington, and is married with three children.
 **Tone:** Reasonable, patient, mild. He is the most placid person in any room in which the future name of the country is being debated.
 
 **Useful for:** Stories involving congressional caucuses, naming and designation legislation, earnest overreach, the procedural machinery of the House, and any scenario in which an enormous idea is advanced by a person who finds it unremarkable.
-
----
-
-## Articles
-
-- [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026-06-15/bill-would-rename-united-states-united-federation-of-planets/) — lead sponsor of the United Federation of Planets Designation Act
-- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026-09-05/half-a-child-apiece-bisection-of-the-american-question/) — told the columnist he had never compared reasoning with his own co-sponsor, explaining that "she handles her half and I handle mine"

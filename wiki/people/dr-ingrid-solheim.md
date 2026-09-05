@@ -29,7 +29,3 @@ Dr. Solheim has testified before the Washington State Legislature on three occas
 **Tone:** Measured, slightly weary, precisely worded. She does not raise her voice or use rhetorical flourish. Her humor, when it surfaces, is so dry it could be mistaken for data.
 
 **Function in stories:** Dr. Solheim exists to provide expert testimony that rigorously debunks whatever absurd theory has prompted a policy action, while simultaneously noting that her expertise would not be necessary if people would simply read her previous publications. She is the scientist who keeps being called to testify that water is wet, and who keeps showing up because the alternative is that someone will testify that it isn't.
-
-## Articles
-
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted as expert on immigration settlement patterns near public monuments

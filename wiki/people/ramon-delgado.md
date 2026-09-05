@@ -25,7 +25,3 @@ He holds a sixth-degree black belt in Tang Soo Do and a fourth-degree black belt
 **Obsessions:** The purity of one-on-one combat as a form of communication. The difference between training partners and opponents, a distinction he considers profound and others consider semantic.
 
 **Blind spots:** Does not fully grasp that not everyone organizes their social life around who they could defeat in a fight.
-
-## Articles
-
-- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026-03-20/chuck-norris-martial-artist-actor-dies/) — quoted as longtime training partner recalling Norris's "opponent list"

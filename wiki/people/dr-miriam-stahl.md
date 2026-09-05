@@ -31,9 +31,3 @@ Dr. Stahl has consulted on cases involving developers who believed their APIs ha
 **Tone:** Measured, authoritative, gently concerned. She speaks about her patients with the careful neutrality of a clinician and about the tech industry with the weary familiarity of someone who has seen what it does to people.
 
 **Function in stories:** Dr. Stahl is the go-to expert for any story involving developers, engineers, or technical workers whose extended engagement with abstract systems has produced unusual psychological effects. She provides clinical legitimacy to absurd situations.
-
----
-
-## Articles
-
-- [Solidity Developer, After 41-Hour Coding Session, Reports Firm Belief That Each Token Possesses a Soul](/2026-04-16/solidity-developer-believes-each-token-has-a-soul/) — quoted as expert on extended-session cognitive distortion among software engineers

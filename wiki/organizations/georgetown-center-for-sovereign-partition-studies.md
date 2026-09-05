@@ -24,13 +24,3 @@ The Center has been consulted by the United Nations, the African Union, and, as 
 **Role in the universe:** The Center exists to provide institutional gravitas to the absurd premise that the United States might partition itself, and to do so with the exhaustive, credential-heavy seriousness of a Georgetown policy shop. It is useful whenever a story requires an academic institution that has been studying something no one thought would actually happen and is now calmly noting that its models predicted this.
 
 **Useful for:** Partition stories, boundary disputes, naming convention debates, and any scenario in which the dissolution of a political entity requires expert testimony from people who have spent their careers preparing for exactly this.
-
----
-
-## Articles
-
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — Dr. Thorngaard testified on behalf of the Center regarding the Latin directional naming convention
-- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026-06-01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — senior research fellow Dr. Thorngaard commented on the absence of any convention for signaling the availability of a sovereign territory
-- [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026-06-15/bill-would-rename-united-states-united-federation-of-planets/) — senior research fellow Dr. Thorngaard provided expert support for the bill's "aspirational toponym" framing
-- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026-07-01/senate-bill-dissolve-canadian-border-national-improvement/) — consulted for the first time on the reverse of partition; Dr. Thorngaard noted the absence of a term for a nation that wishes to be overrun
-- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026-09-05/half-a-child-apiece-bisection-of-the-american-question/) — its 143-partition database was found to contain no entry for the division of an argument, a gap Dr. Thorngaard offered to open a file on

@@ -22,9 +22,3 @@ The airline is known among cabin crews for unusually low turnover on its overnig
 **Role in the universe:** Borealis Air is the house carrier for any story requiring a long, quiet, high-altitude crossing of remote geography — the polar route, the empty ocean, the sleeping cabin at three in the morning. Its specialty in over-the-top routes makes it the natural employer for stories about what people see, or fail to see, from the window of an aircraft.
 
 **Useful for:** Aviation and travel stories, anything set aboard a long-haul flight, scenarios involving northern geography, and as the workplace for recurring cabin-crew characters. The airline's earnest northern branding lends a deadpan institutional backdrop without competing for attention.
-
----
-
-## Articles
-
-- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026-06-01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — Flight 1142, the eastbound overnight run, served as the setting for the profile of purser Natalie Brandt

@@ -30,9 +30,3 @@ The center's research staff numbers thirty-four, drawn principally from psychiat
 **Useful tensions:** The center exists in a strained professional position. It is funded federally, which requires it to operate without political content; its work is, on its face, political. It has solved this problem by becoming so painstakingly clinical in its language that its critics have not been able to formulate a politically actionable objection without first translating the center's vocabulary, which by the time the translation is complete has typically lost the room. This is not, the center insists, strategy. It is, in the founding director's phrase, "the available register."
 
 **The pamphlet program:** The center maintains an in-house pamphlet design lab, an unusual feature for a federal research facility, on the rationale that the patient population is unusually unlikely to read materials produced by external contractors. Its pamphlets are accordingly characterized by short sentences, generous margins, and titles whose first words address the reader's exact reported feeling. *When the Country You Loved Feels Different: A Guide for You and Your Family*, the most widely distributed of the center's pamphlets, was, according to internal data, opened by approximately 18 percent of the patients to whom it was given.
-
----
-
-## Articles
-
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — site of the federally funded inpatient program; coordinated the DSM-5-TR-2 working group that introduced P.D.S.

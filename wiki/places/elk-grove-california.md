@@ -28,9 +28,3 @@ The city's economy is principally residential and retail. Its largest employers 
 **Useful for:** Stories in which an amateur institution has developed the procedural apparatus of a federal agency; disputes over rules that no external authority is obliged to recognize; suburban civic seriousness; and any narrative requiring a community that will convene a committee, take minutes, and produce a written finding on a matter of no consequence to anyone outside it.
 
 **The chess club:** The club is the city's most generative institution and the reason Elk Grove appears in this newspaper more often than a city of its size otherwise would. Its officers hold titles. Its bylaws are amended by recorded vote. Its seeding dispute has outlasted three club presidents and is understood, by everyone involved, to be about something other than seeding.
-
----
-
-## Articles
-
-The city and its chess club have been the subject of continuing coverage by [Jerome T. Halliday](/wiki/people/jerome-t-halliday/), [Amara Okafor-Williams](/wiki/people/amara-okafor-williams/), and [Robin Wrong](/wiki/people/robin-wrong/).

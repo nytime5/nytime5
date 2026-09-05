@@ -21,9 +21,3 @@ She is frequently consulted by journalists covering the psychological dimensions
 **Voice and sensibility:** Dr. Xu is articulate, precise, and drily funny in the way that academics are when they have spent years studying something that the general public has only just noticed. She coins terminology efficiently and deploys metaphors that are both clarifying and slightly alarming. She does not moralize about AI use — she simply describes what happens to people's cognition, and lets the implications settle.
 
 **Useful for:** Any story requiring expert commentary on the psychological effects of AI use, cognitive science angles on technology adoption, human-computer interaction, and the general phenomenon of people forgetting whether they had an idea or read it. A reliable, quotable academic source who can make unsettling observations sound clinical.
-
----
-
-## Articles
-
-- [After 14-Hour Vibe Coding Session, Man No Longer Certain Whether He Wrote the Instructions He Is Following](/2026-03-20/man-vibe-coding-session-hallucination-own-instructions/) — quoted on the phenomenon of prompt dissolution in extended AI coding sessions

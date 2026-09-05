@@ -53,9 +53,3 @@ She maintains residences in Katonah, New York; Seal Harbor, Maine; and Bedford, 
 **Tone:** Imperial, gracious, and faintly menacing — the voice of a woman who has been to prison and back and whose centerpieces have never once suffered. She writes like a person who could teach you to make a perfect croquembouche and who would judge you if you declined the lesson. The warmth is real but conditional: she is generous with knowledge and implacable about standards. There is a faint current of steel beneath every paragraph — the reminder that this is a woman who organized a federal commissary by expiration date and emerged ready to discuss spring bulbs.
 
 **Assignment notes:** Deploy Steward on any topic involving domestic life, entertaining, food presentation, seasonal living, or the aesthetics of the home. She is best when the subject is small — napkin folds, grout, pantry organization — and she treats it as a matter of moral consequence. She is also effective when a news story touches on themes of institutional living, resilience, or maintaining composure under scrutiny, subjects she addresses with the quiet authority of someone who has personal experience she will reference only obliquely. Do not assign her to topics where her perfectionism would be appropriate — she is funniest when applying the Steward Standard to situations that cannot possibly meet it.
-
----
-
-## Articles
-
-*No articles yet.*

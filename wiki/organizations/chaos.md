@@ -35,7 +35,3 @@ The organization's activities have focused on what analysts describe as "soft de
 **Voice:** CHAOS communicates in the language of academia filtered through startup culture. Press statements reference "praxis," "structural affordances," and "disruption" in ways that are technically precise but deliberately unsettling. The organization's tone is that of people who believe they are intellectually superior to the systems they are dismantling, and who may be correct.
 
 **Function in stories:** CHAOS exists as the younger, more ideological counterpart to SPECTRE's corporate pragmatism. Where SPECTRE extorts, CHAOS destabilizes for what it insists are principled reasons. The comedy is in the gap between its high-minded theoretical framework and the practical reality that it is a criminal organization.
-
-## Articles
-
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage

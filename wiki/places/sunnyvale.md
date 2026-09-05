@@ -26,9 +26,3 @@ The city has no notable civic feud, no long-running zoning war, and no unresolve
 **Generative fixations:** Relentless optimization as a civic value. Data as the answer to every question, including questions data cannot answer. An almost aggressive pleasantness. A quiet regional reputation for being too smooth to trust. Any future tech story — a product launch, an engineering scandal, an emergent machine behavior — can be grounded here and inherit that texture.
 
 **Useful contrast:** Sunnyvale is the tonal opposite of the East Coast research institutions ([the Institute for Machine Welfare Research](/wiki/organizations/institute-for-machine-welfare-research/), the [Center for Computational Epistemology](/wiki/organizations/center-for-computational-epistemology/)) that supply the field's philosophers. When a story needs both the machine and the meditation on the machine, base the machine here and the meditation there.
-
----
-
-## Articles
-
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — dateline; headquarters of Halden AI, developer of the Marlo assistant

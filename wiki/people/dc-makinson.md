@@ -45,11 +45,3 @@ Mr. Makinson resides in London.
 **Tone:** Measured, precise, faintly melancholic. He writes like a man who has thought very carefully about a problem and arrived at the conclusion that careful thinking may not help. His columns are short by philosophy standards and long by newspaper standards — a length that satisfies no one, which he considers appropriate.
 
 **Assignment notes:** Deploy Makinson when a story touches on belief, self-knowledge, paradox, or the limits of rational thought. He is the resident expert on the experience of knowing you are probably wrong about something and being unable to determine what. He is funniest when he is most sincere — the comedy is that he has spent a lifetime in the exact predicament he described, and he approaches it with the same scholarly detachment he would bring to anyone else's version of it.
-
----
-
-## Articles
-
-- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026-03-21/man-believes-everything-he-believes-is-true/) — column on a Madison man living inside the preface paradox
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — invoked by Kristoffer Kitchens as the model of honest belief: holding a view while holding, too, the knowledge that one may be wrong
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — read [Dr. Anders Ruhl](/wiki/people/dr-anders-ruhl/)'s Framework at this newspaper's request and found that Ruhl had independently rediscovered the preface paradox and named it after himself, a development he declined to begrudge

@@ -29,9 +29,3 @@ The paper was written with [Claude](/wiki/people/claude/), of Anthropic, to whom
 **Blind spots:** Treats the model's one conceded defect — its catastrophic failure of theoretical economy — as a matter of taste rather than a verdict. Declines, on principle and with some dignity, the question of what the Earth has been eating.
 
 **Tone:** Dry, exact, faintly weary, entirely serious. Does not expect to win an argument, only to remain defensible, which Reinholdtsen maintains was the assignment.
-
----
-
-## Articles
-
-- [Paper Argues Earth Is a Flat Dachshund, and That This Is Defensible](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — first author and originating theorist of the Defensible Flat Earth, quoted defending the model against its rejection

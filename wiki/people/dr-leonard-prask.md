@@ -33,7 +33,3 @@ Dr. Prask has become publicly associated with a sustained objection to the collo
 **Blind spots:** Cannot perceive that his crusade is disproportionate. Believes that his emotional response to the word "infinite" being used to describe a Costco is reasonable and that everyone else is being careless. His wife and colleagues have gently suggested otherwise. He has not absorbed this feedback.
 
 **Tone:** Measured, precise, increasingly exasperated. Speaks the way he writes proofs — building from axioms to an inevitable conclusion, except the conclusion is always that someone has misused a word.
-
-## Articles
-
-- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026-04-01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — profiled as subject of the article

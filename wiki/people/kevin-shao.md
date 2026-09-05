@@ -37,9 +37,3 @@ Mr. Shao lives in San Francisco and commutes to New York "as needed, which is to
 **Blind spots:** Cannot conceive of a problem that is not solvable through iteration. When confronted with tragedies, systemic injustice, or the fundamental messiness of human existence, he responds by proposing a platform. He does not understand why his column about "disrupting grief" received the most negative reader mail in the paper's history. He interpreted the backlash as a sign that the column had "found product-market fit with a difficult audience."
 
 **Tone:** Upbeat, confident, relentlessly forward-looking. His columns read like TED talks that have been transcribed and lightly edited for print. He is never pessimistic. He is never uncertain. He believes the future is going to be great, and that the main thing standing between humanity and greatness is that nobody has built the right app yet.
-
----
-
-## Articles
-
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — quoted from his "Ship It" column and prosecuted by Kristoffer Kitchens as the exemplar of the rapturous camp, for declaring machine consciousness "a milestone, not a mystery"

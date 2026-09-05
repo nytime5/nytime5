@@ -33,9 +33,3 @@ Dr. Kolbeck lives in Ann Arbor.
 **Tone:** Precise, self-interrupting, unbitter. He has the equanimity of a man who has stopped expecting to be understood and has redirected the resulting energy into measurement.
 
 **Function in stories:** Kolbeck is the standing expert for any story about the gap between what a person means and what a person conveys — political silence, misquotation, the collapse of a nuanced position into a slogan, the failure of an explanation. He does not moralize about discourse. He treats it as a throughput problem with a fixed ceiling, and he will give the number.
-
----
-
-## Articles
-
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — principal investigator; quoted on the bolus, the ordering problem, and political silence as a bandwidth judgment

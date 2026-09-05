@@ -29,10 +29,3 @@ Dr. Marquardt lives on the Upper West Side of Manhattan and serves on the adviso
 **Blind spots:** Genuinely cannot understand why non-physicists do not find gauge symmetry as moving as she does. Occasionally delivers what she intends as accessible explanations that leave listeners more confused than when they started.
 
 **Tone:** Calm, precise, faintly amused. She speaks like someone who has spent decades thinking about the fundamental structure of reality and finds most human disputes quaint by comparison.
-
----
-
-## Articles
-
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — named Defendant No. 7,342; served during a graduate seminar
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — declined to find Dr. Anders Ruhl's Framework alarming, noting that physicists have been rederiving philosophy without attribution since roughly 1900 and that the practice is called physics

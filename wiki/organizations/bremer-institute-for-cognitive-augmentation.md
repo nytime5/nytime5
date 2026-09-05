@@ -30,8 +30,3 @@ The institute's Institutional Review Board is composed of seven members, four of
 The institute is best understood as an organization that has, by any rigorous standard, exceeded the boundaries of what was originally proposed to its donors and which now operates in a state of cheerful overreach maintained largely by the unwillingness of any external body to take responsibility for shutting it down. Its public communications are uniformly composed, its press releases are scrupulously sourced, and its director gives interviews in which every individual sentence is defensible.
 
 The institute's blind spot is the question of consent in subjects who, prior to the procedure, did not possess the cognitive capacity to grant it. It has thus far addressed this question by means of pre-procedural consent forms executed by owners and guardians, an arrangement which several of the augmented macaques have contested in federal court.
-
-## Articles
-
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — performed the first canine cognitive augmentation; subject requested reversal within the hour
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — performed the first feline cognitive augmentation; subject declined reversal and produced a twenty-two-page critique of the institute

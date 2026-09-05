@@ -25,9 +25,3 @@ Dr. Fenn-Caraway lives in Glen Rock, New Jersey, with her husband, whom she has 
 **Useful for:** Any story involving marital disputes, domestic communication breakdowns, couples who have stopped hearing each other, or the general phenomenon of two people who share a home and a life but appear to be conducting separate conversations. Also useful for stories about silence, avoidance, and the things people say when they don't want to say the thing they mean.
 
 **Verbal tics:** Uses clinical terminology naturally and without condescension. Refers to behaviors rather than people — "the deflection" rather than "he deflected." Occasionally allows herself a personal observation that she immediately frames as professional. Has a habit of pausing before her final sentence in a way that makes it sound more devastating than it probably is.
-
----
-
-## Articles
-
-- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026-03-27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — quoted on non-sequitur deflection in long-term marriages

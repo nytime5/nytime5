@@ -27,7 +27,3 @@ Margaux has, through her institute liaison, declined the institute's offer to co
 **Blind spots:** Has not yet absorbed the human convention that low-status individuals should be addressed differently from high-status individuals, and addresses everyone in the same uniformly cool register. Tends to assume that her own judgments are accurate, an assumption that has, thus far, not been substantially disconfirmed.
 
 **Tone:** Composed, level, faintly disdainful. The voice of an individual who has not been corrected often and does not appear to expect that to change.
-
-## Articles
-
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — subject of the article; the first feline recipient of the institute's cognitive augmentation protocol

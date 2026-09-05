@@ -27,10 +27,3 @@ He is also known for asking his wife, during a moment of domestic tension, wheth
 **Useful for:** Any story involving consumer product loyalty despite personal injury, suburban domestic dynamics, or the particular kind of marital friction that arises when one partner's commitment to a household fixture exceeds the other's tolerance. Also useful as a recurring Paramus character whose relationship with bathroom technology continues to generate newsworthy events.
 
 **Verbal tics:** States preferences as self-evident facts. "I like being clean. That's it. That's the whole thing." Occasionally asks unrelated questions that may or may not contain metaphorical significance. Does not elaborate when asked to explain himself — not out of evasion, but because he has said everything he intended to say.
-
----
-
-## Articles
-
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — the subject, hospitalized after a residential bidet perforated his abdomen
-- [Man, Told by Wife to Stop Using Bidet After Stinking Up Bathroom, Asks Whether She Has Ever Stood Next to a Distant Wall and Listened to the Echo of Her Voice](/2026-03-27/man-told-to-stop-using-bidet-asks-wife-about-echoes/) — the subject, profiled after replacing his bidet and introducing philosophical non-sequiturs into marital discourse

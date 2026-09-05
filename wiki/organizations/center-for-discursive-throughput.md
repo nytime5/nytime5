@@ -44,9 +44,3 @@ The center publishes *Throughput*, a semiannual journal, and hosts the Ann Arbor
 - **Dr. Terrence Kolbeck** — Director and Principal Investigator
 - **Dr. Priscilla Ibarra** — Associate Director, Field Protocols
 - **Advisory Board** — nine members, who convene by circulated memorandum
-
----
-
-## Articles
-
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — conducted the four-year federal study establishing the serialization limit on political speech

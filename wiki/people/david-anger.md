@@ -46,7 +46,3 @@ Mr. S. Anger lives in Washington, D.C. He has described his hobbies as "reading 
 **Tone:** Controlled, authoritative, exhaustively sourced, and quietly devastating. He does not raise his voice. He does not editorialize. He simply presents facts in an order that makes the reader progressively more uneasy, and then ends the piece without resolution, because the situation is ongoing.
 
 **Function in stories:** David S. Anger is the paper's instrument for covering the shadow sector and national security threats with the same institutional seriousness applied to federal policy or international diplomacy. When he writes about SPECTRE, the reader should feel that this is how the *Times* would actually cover a global criminal organization — with sourcing, context, historical comparison, and not a single sentence that suggests anyone involved finds the situation unusual.
-
-## Articles
-
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — bylined reporter

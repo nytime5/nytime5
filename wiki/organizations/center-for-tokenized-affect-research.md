@@ -28,9 +28,3 @@ The center's funding model — it is supported in significant part by the compan
 **Useful tensions:** The center is a credible source whose credibility partly rests on the fact that it has no competitors. Reporters quote it because it is the only body publishing the numbers; the center publishes the numbers because reporters quote them. This circular arrangement is acknowledged internally and is not considered a problem.
 
 **Recurring output:** Quarterly reports, vertical-specific market sizings (the Bereavement Token Outlook, the Engagement Token Outlook, etc.), and occasional white papers on emerging product categories. A recent paper, *Toward a Standardized Pricing Model for Ambient Sympathy*, has been cited in three industry pitch decks.
-
----
-
-## Articles
-
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing on the bereavement vertical and the broader crypto greeting card sector

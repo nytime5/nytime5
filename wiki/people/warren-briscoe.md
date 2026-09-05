@@ -25,10 +25,3 @@ He lives in Wichita with his wife, a retired veterinarian, and two Labrador retr
 **Voice and sensibility:** Senator Briscoe speaks with the flat, unhurried pragmatism of a man who has spent his career thinking about water rights and has simply applied the same logic to national sovereignty. He does not view the partition of the United States as radical; he views it as a zoning dispute that has been deferred for two and a half centuries. His tone is measured, his metaphors are agricultural, and his affect suggests a man who has thought about this for a very long time and is mildly surprised that anyone finds it controversial.
 
 **Useful for:** Any story involving national partition, sovereignty disputes, or legislative proposals of enormous consequence delivered with the energy of a county planning commission meeting. A senator who treats the dissolution of the republic as an infrastructure project.
-
----
-
-## Articles
-
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — lead sponsor of the National Dissolution and Bilateral Sovereignty Act
-- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026-07-01/senate-bill-dissolve-canadian-border-national-improvement/) — lead sponsor of the Northern Boundary Elimination and National Improvement Act

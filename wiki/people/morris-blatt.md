@@ -31,9 +31,3 @@ He lives in Maplewood, New Jersey, with his wife, a school librarian, and their 
 **Blind spots:** Entirely unbothered by the fact that no court has ever recognized his legal theory. Interprets this as evidence that the theory is ahead of its time rather than that it is wrong. Also does not seem to have considered that Einstein himself built on prior work, a point he deflects by noting that "Newton's descendants are welcome to file their own suit."
 
 **Tone:** Professionally confident, slightly grandiose. Speaks to reporters the way a district attorney speaks about an airtight case, except the case has no legal foundation and he does not appear to notice.
-
----
-
-## Articles
-
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — representing the plaintiff

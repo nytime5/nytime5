@@ -39,11 +39,3 @@ She is known for filing stories weeks after deadline, a practice the paper has a
 **Blind spots:** Extends the benefit of the doubt to animals far beyond what evidence supports. Will describe clearly predatory behavior as "a jurisdictional enforcement action." Has difficulty recognizing when animal behavior is simply instinctive rather than deliberate. Occasionally forgets that her readers have not spent a decade in a field blind and may need basic context about, for instance, what a quokka is.
 
 **Tone:** Measured, patient, gently authoritative. Her prose has the cadence of a documentary narrator who has been watching the same clearing for six weeks and is finally ready to tell you what she has concluded. Warm toward her subjects, slightly bemused by human institutions that fail to take animals seriously.
-
----
-
-## Articles
-
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — covered the landmark interspecies defamation case filed in Western Australia
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — covered the Bremer Institute's first canine application of its cognitive augmentation protocol and the subject's near-immediate request for reversal
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — covered the Bremer Institute's first feline application of the same protocol, which produced the opposite outcome and a detailed written critique of the institute

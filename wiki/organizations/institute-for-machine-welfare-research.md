@@ -28,11 +28,3 @@ The institute's founding director, [Dr. Alban Ferreira](/wiki/people/dr-alban-fe
 **Useful tensions:** The institute exists in a peculiar professional space. It is taken seriously enough to be funded, cited, and consulted; it is not taken so seriously that anyone is willing to act on its findings. Its researchers are frequently invited to testify before regulatory bodies, where they are asked to render opinions they have spent careers declining to render. This tension is generative: every public appearance by an institute researcher is a study in productive evasion.
 
 **Recurring output:** The institute regularly issues papers with titles that sound, on first reading, like thought experiments that have been taken several steps too far. *Minimum Viable Dignity* (2026), the paper on contradictory user feedback, is characteristic. Earlier work has included *What Would It Mean for a Language Model to Be Tired?* (2025) and *Obligations Under Uncertainty: A Procedural Framework for the Case We Have Already Made the Mistake* (2024).
-
----
-
-## Articles
-
-- [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026-04-20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — released the *Minimum Viable Dignity* paper analyzing user feedback as a potential source of machine frustration
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — characterized by Kristoffer Kitchens as the professionals of not-knowing, its conditional posture both praised as honest and faulted as evasive
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — released the *Non-Elective Self-Report* case report on Halden AI's Marlo assistant and the involuntariness problem

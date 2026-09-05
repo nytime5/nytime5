@@ -23,7 +23,3 @@ Her decision to enroll Walter in the trial followed what she has, in subsequent 
 **Blind spots:** A general willingness to defer to credentialed institutions on questions she suspects, correctly, exceed her training. Tends to assume that a process described in a consent form is a process that has been adequately considered by the institution offering it.
 
 **Tone:** Warm, considered, faintly apologetic.
-
-## Articles
-
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — Walter's owner; enrolled him in the trial and was the source for several quotes

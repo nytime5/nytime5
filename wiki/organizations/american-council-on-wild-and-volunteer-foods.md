@@ -22,7 +22,3 @@ The Council is led by executive director [Dr. Audra Stenholm](/wiki/people/dr-au
 The Council exists to be the careful, deflating voice in any story where someone has gotten excited about free food growing somewhere it shouldn't. Its institutional temperament is precise, patient, and faintly exhausted — it has spent fifty years explaining that "edible" and "a food source" are not the same claim, and it expects to spend fifty more. It never mocks enthusiasm; it simply measures it and reports the yield, which is almost always lower than hoped.
 
 The "present" category is the engine of its comedy. The Council can be relied upon to assess any sudden windfall of wild provision — a flooded field of watercress, an orchard gone feral, a reflecting pool now full of ducks — and to conclude, with full scientific seriousness, that the organisms in question are real, are there, and are enrolled in no program. It is generative for any story involving foraging, food insecurity addressed through unconventional means, or officials claiming that nature has been quietly feeding people all along.
-
-## Articles
-
-- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026-06-19/trump-reflecting-pool-organic-food-source-for-hungry/) — its executive director assessed the forageable yield of the renovated reflecting pool

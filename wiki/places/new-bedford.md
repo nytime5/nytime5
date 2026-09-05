@@ -28,9 +28,3 @@ Politically, the city is a quiet, durable Democratic stronghold whose representa
 - **Federal grievance.** Beyond the Jones Act, the city maintains active grievances against NOAA, the New England Fishery Management Council, the European Union (over imported seafood standards), and the Massachusetts Department of Marine Fisheries. These grievances are not always coherent in combination but are individually enduring.
 - **The Whaling Park.** Tolerated. Underused by locals. A frequent destination for school field trips that go better than expected.
 - **St. Anthony of Padua.** The largest Portuguese-American Catholic parish in the United States. Center of civic life for a substantial fraction of the city's fishing community. The annual Feast of the Blessed Sacrament, held each August in nearby Fall River, draws an estimated 200,000 attendees over four days and is treated as a regional civic event.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — setting; site of the death and of the Hennessey family business

@@ -33,9 +33,3 @@ Dr. Fortenberry lives in Hyde Park with his wife, a labor historian, and is a fr
 **Tone:** Patient, learned, faintly elegiac. He speaks like a man who has been making the same argument for thirty years and expects to be making it for thirty more, and who has come to find a kind of quiet satisfaction in the fact that he has not yet been talked out of it.
 
 **When to deploy:** Any story involving the introduction of a new psychiatric diagnosis with social or political content; any story in which the question of whether a patient's distress is a disorder or a coherent response is genuinely live; any panel where Dr. Halbritter is appearing and the editor wants the disagreement on the record.
-
----
-
-## Articles
-
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — quoted as the most prominent clinical critic of the DSM-5-TR-2 inclusion of P.D.S.

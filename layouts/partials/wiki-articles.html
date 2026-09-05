@@ -1,0 +1,34 @@
+{{- /*
+  The Articles list for a wiki entry, derived at build time.
+
+  It is deliberately not stored in the markdown. A hand-written back-link has to
+  be written before the article it points at is published, so it is a live 404
+  on nytime5.com until someone remembers to flip the draft flag -- which is how
+  four articles sat unpublished for months behind sixteen dead links.
+
+  site.RegularPages omits drafts in a production build, so an entry lists
+  exactly the articles a reader can open, and lists them the moment one
+  publishes. Nothing to maintain and nothing to break.
+
+  An article counts if its body links to this entry, or -- for staff writers --
+  if it carries their byline, since an article does not link to its own author.
+*/ -}}
+{{- $me := .RelPermalink -}}
+{{- $name := .Title -}}
+{{- $found := slice -}}
+{{- range site.RegularPages -}}
+  {{- if not (or (hasPrefix .RelPermalink "/wiki/") (hasPrefix .RelPermalink "/papers/")) -}}
+    {{- if or (strings.Contains .RawContent $me) (eq (.Params.writer | default "") $name) -}}
+      {{- $found = $found | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with sort $found "Date" "asc" }}
+<hr>
+<h2 id="articles">Articles</h2>
+<ul>
+  {{- range . }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.excerpt }} — {{ . }}{{ end }}</li>
+  {{- end }}
+</ul>
+{{- end }}

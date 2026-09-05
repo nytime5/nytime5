@@ -24,9 +24,3 @@ The Planétarium's gift shop is the single highest-grossing retail space per squ
 The Hayden Planétarium functions as the institutional base for Dr. onGrass Tyson's campaign to insert astrophysics into every facet of public life. The facility itself is world-class, its programming is scientifically rigorous, and its staff is exhausted. Dr. onGrass Tyson treats the Planétarium not as a workplace but as a launchpad — both metaphorically, for his media appearances and columns, and literally, in the sense that he once proposed installing an electromagnetic catapult on the roof "to demonstrate orbital mechanics for school groups," a proposal the museum's insurance carrier rejected within the hour.
 
 The Planétarium's staff has developed a system of gentle redirection for when Dr. onGrass Tyson attempts to expand programming beyond its mandate. The phrase "that's a wonderful idea for the podcast" has been deployed more than two hundred times since 2020 and has a success rate of approximately sixty percent. The remaining forty percent of the time, Dr. onGrass Tyson proceeds with the idea anyway, resulting in Planétarium shows that address topics including the thermodynamics of sourdough starters, the gravitational implications of high-rise construction in Midtown, and a forty-five-minute presentation on why daylight saving time is "cosmically incoherent" that was, by all accounts, compelling and entirely beside the point.
-
----
-
-## Articles
-
-- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026-03-22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — Dr. onGrass Tyson quoted as director on Americans' inability to explain why they are sitting down

@@ -31,9 +31,3 @@ Mr. Hennessey's adult son, Cole Hennessey, died on April 21, 2026, of what the B
 **Tone:** Plainspoken. Weathered. Briefly funny in a way that he does not appear to know is funny.
 
 **Useful for:** Stories involving the New England commercial fishing industry, federal maritime regulation, working-class New England, or the specific moral economy of inherited businesses. He is the source who can be relied upon to say, in five words, what an academic source would say in fifty.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted on the death of his son and on the cumulative family experience of the Jones Act

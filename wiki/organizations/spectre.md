@@ -35,7 +35,3 @@ For much of its history, SPECTRE operated under the leadership of a succession o
 **Voice:** Official statements are issued in the bland, carefully hedged language of corporate communications. Press releases read like they were drafted by a legal team that bills by the hour, which they were. SPECTRE does not deny its activities; it redescribes them using vocabulary that makes them sound administrative.
 
 **Function in stories:** SPECTRE exists to be treated as a legitimate institutional actor — a shadow organization covered with the same seriousness as a government agency or Fortune 500 company. The comedy is in the gap between what it does and how it is discussed.
-
-## Articles
-
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — organizational profile and leadership transition coverage

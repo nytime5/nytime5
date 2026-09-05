@@ -25,7 +25,3 @@ He is not known to have campaigned for his view, sought converts, or expressed d
 **Convictions:** That pride about food is a luxury and a weakness. That the line between what is fed to animals and what is fed to people is a snobbery, not a safeguard. That he knows what he is eating — a claim he holds regardless of evidence — and is comfortable in the company it implies.
 
 **Blind spot:** Largely indifferent to whether his factual premise is true. The McDonald's of the present does not use the process he describes; he has been told this and is unmoved, because for him the belief is doing moral rather than dietary work. He does not register that he has, in effect, chosen to be humble about an ingredient that is not there.
-
-## Articles
-
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — subject of the feature

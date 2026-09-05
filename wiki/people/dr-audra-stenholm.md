@@ -27,7 +27,3 @@ Dr. Stenholm is frequently consulted by reporters whenever a public figure annou
 **Blind spots:** Constitutionally unable to round up or to let an optimistic figure stand. Tends to answer the narrow technical question with such thoroughness that she misses that the questioner wanted reassurance, not a yield estimate. Assumes everyone shares her conviction that "present" and "food" are obviously different categories.
 
 **Tone:** Calm, courteous, faintly clinical. The bedside manner of someone delivering survivable but unwelcome news about a watercress bed.
-
-## Articles
-
-- [Trump Says Reflecting Pool Renovations Were Secretly Designed as an Organic Food Source for the Hungry, a 'Gift of National Heritage'](/2026-06-19/trump-reflecting-pool-organic-food-source-for-hungry/) — assessed the forageable yield of the renovated reflecting pool and cautioned that its ducks are "not enrolled in a program"

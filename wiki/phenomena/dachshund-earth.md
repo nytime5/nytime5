@@ -47,7 +47,3 @@ The model concedes the two objections most commonly raised against it. That it i
 **Standard foils.** For the epistemology, reach for [Dr. Arthur Goode](/wiki/people/dr-arthur-goode/) of the [Center for Computational Epistemology](/wiki/organizations/center-for-computational-epistemology/), who will explain conventionalism accurately and refuse to say the model is wrong. For the establishment brush-off, reach for [Kneel onGrass Tyson](/wiki/people/kneel-ongrass-tyson/), who will reframe or dismiss it rather than engage the topology. For the institutional rejection, reach for the [Journal of Recreational Geodesy](/wiki/organizations/journal-of-recreational-geodesy/) and its editor-in-chief, [Dr. Corwin Elstad](/wiki/people/dr-corwin-elstad/).
 
 **Avoid.** Do not let anyone falsify the model with an experiment — that misunderstands the entire construction; the objection is always parsimony, never data. Do not resolve the dispute in the model's favor or against it; the standoff is the point. Do not treat the authors as deluded; they know exactly what they have built and what it is worth. Do not deploy it as a general-purpose flat-Earth story; it is specifically the *defensible* version, and its whole distinction from ordinary flat-Earth belief is that it accepts every observation and disputes only a coordinate choice.
-
-## Articles
-
-- [Paper Argues Earth Is a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — the model's first public treatment, reporting the rejected Reinholdtsen–Claude paper and the case for the Defensible Flat Earth

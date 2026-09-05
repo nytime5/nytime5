@@ -29,9 +29,3 @@ In July 2026 Dr. Aumann was drawn, against her preference, into public commentar
 **Blind spots:** Has limited patience for the philosophical machinery around machine consciousness and tends to regard it as a distraction from empirical questions with actual answers. This makes her a useful foil to [Dr. Alban Ferreira](/wiki/people/dr-alban-ferreira/) and [Dr. Arthur Goode](/wiki/people/dr-arthur-goode/): where they dwell in the unanswerable, she wants to know what the thing measurably is, and grows visibly impatient when told that is not the interesting part.
 
 **When to deploy:** Any story that applies a neurological, psychiatric, or movement-disorder frame to a machine or to an institution. Also available for straight coverage of tic disorders, in which capacity she is authoritative, careful, and entirely unwilling to be made into a metaphor.
-
----
-
-## Articles
-
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — objected to the "machine Tourette's" framing on clinical grounds, noting that a tic is fragmentary while the outburst is a complete proposition

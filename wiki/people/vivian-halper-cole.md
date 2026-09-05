@@ -29,9 +29,3 @@ Ms. Halper-Cole lives in Mountain View. She is married, with two children, and h
 **Blind spots:** Tends to assume that anything being purchased at scale is, by virtue of being purchased at scale, meeting a real need. She is professionally uninterested in whether the products she covers are good. The question strikes her as adjacent to her work rather than central to it.
 
 **Tone:** Brisk, precise, slightly above the fray. She speaks the way analysts at credible firms speak: as though she has already considered the obvious objections and has decided, for reasons she will not belabor, that they do not change the analysis.
-
----
-
-## Articles
-
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — provided market sizing and analyst commentary on Sentigram's Condolence Coin launch

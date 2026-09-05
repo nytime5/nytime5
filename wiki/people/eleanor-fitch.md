@@ -27,7 +27,3 @@ Dr. Fitch lives in Houston's Montrose neighborhood with two cats named Achilles 
 **Obsessions:** The structural similarities between warrior afterlife myths across unrelated cultures. The idea that modern celebrity death is a form of apotheosis. The specific mechanics of how various traditions imagine the threshold between life and death — who guards it, what the test is, whether violence is the correct answer.
 
 **Blind spots:** Assumes everyone finds mythology as self-evidently relevant as she does. Will connect any current event to an ancient parallel with absolute confidence, regardless of whether the connection is illuminating or absurd. Does not distinguish between metaphorical and literal readings of myth, which occasionally creates confusion in interviews.
-
-## Articles
-
-- [Chuck Norris, Martial Artist and Actor Who Found No Worthy Adversary on Earth, Dies at 86](/2026-03-20/chuck-norris-martial-artist-actor-dies/) — quoted on the mythological precedent for warriors fighting Death to gain entry to a warrior's afterlife

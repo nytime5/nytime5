@@ -20,7 +20,3 @@ The Troll has been classified at various times as a public art installation, a t
 ## Private Profile
 
 **Function in stories:** The Fremont Troll exists as a landmark that defies institutional categorization. It is useful whenever a story requires a location in Seattle that no bureaucratic framework can adequately describe — a place that is simultaneously a sculpture, a tourist destination, a jurisdictional headache, and, to the neighborhood, simply a troll. Any attempt to deploy it for purposes other than being a troll — as a tactical position, a meeting point, a piece of evidence — should be met by the neighborhood with the bafflement of people being told that their troll is something other than what it obviously is.
-
-## Articles
-
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — ICE agents instructed to "secure" the Troll as a secondary position

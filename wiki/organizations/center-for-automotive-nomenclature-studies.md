@@ -24,9 +24,3 @@ The center publishes the quarterly *Journal of Vehicular Taxonomy* and maintains
 The center exists in the strange academic hinterland where engineering meets linguistics meets cultural studies, and no one in any of those fields is entirely sure the center belongs to them. Its researchers are earnest, meticulous, and accustomed to having their work described as "niche" by colleagues who do not intend it as a compliment. They take nomenclature disputes with absolute seriousness, because in their view, what you call a vehicle determines how you regulate it, insure it, market it, and understand it — and if that isn't worth studying, nothing is.
 
 The center tends to be consulted by journalists whenever a car company does something strange with product naming, which happens more often than one might expect.
-
----
-
-## Articles
-
-- [In Response to Critics, Musk Declares All Non-Cybertruck Pickup Trucks to Be 'Sistrucks'](/2026-03-15/musk-calls-all-other-trucks-sistrucks/) — Dr. Raymond Koh quoted on the "definitional inversion" strategy

@@ -21,9 +21,3 @@ Since mid-January 2026, Mr. Stettner has spent his mornings at his kitchen table
 **Voice and sensibility:** Noel Stettner is a fundamentally reasonable person who has stumbled into a problem that reasonable people are not equipped to resolve. He does not speak in philosophical jargon — he speaks the way a database administrator speaks when he has discovered an error he cannot locate in a table he is certain is correct. He is calm, methodical, and increasingly aware that calm and method are not going to help.
 
 **Useful for:** Any story requiring a regular person who has encountered a genuine philosophical problem and is treating it with the same seriousness he would bring to a plumbing issue. He is not an intellectual — he is a man with a legal pad and a conviction that something is wrong with the universe's logic, and he intends to find it.
-
----
-
-## Articles
-
-- [Man Believes Everything He Believes Is True and Also Believes That Can't Possibly Be the Case](/2026-03-21/man-believes-everything-he-believes-is-true/) — profiled as the subject of the piece

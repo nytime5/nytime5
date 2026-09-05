@@ -29,9 +29,3 @@ Mr. Schoenfeld lives in the Mission District of San Francisco. He is engaged to 
 **Blind spots:** Cannot easily distinguish between user need and product opportunity. When recipients respond to his products with confusion, he interprets the confusion as evidence of category novelty rather than category error. He has not, by his own admission, attended a funeral in the year prior to the Condolence Coin's release, a fact he believes did not impair his ability to design for the use case.
 
 **Tone:** Earnest, measured, faintly evangelical. He does not raise his voice. He does not get defensive. He responds to skepticism the way a slightly tired teacher responds to a student who has not yet done the reading: patiently, and with the assumption that comprehension will arrive in due course.
-
----
-
-## Articles
-
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — quoted as Sentigram's chief executive on the launch of the Condolence Coin

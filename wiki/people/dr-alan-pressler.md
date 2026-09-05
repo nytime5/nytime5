@@ -27,9 +27,3 @@ He lives in Silver Spring, Maryland, and has described his work as "the sort of 
 **Useful for:** Any story involving water pressure, plumbing safety, consumer fixtures, or the gap between what products are rated to do and what they actually do. He is the expert who makes you realize that every faucet in your home is a controlled weapon and that the only thing standing between you and hydraulic injury is a pressure regulator that no one has inspected since it was installed.
 
 **Verbal tics:** Provides exact P.S.I. figures for everything. Draws comparisons between consumer products and industrial or military equipment to illustrate scale. Uses the phrase "within acceptable limits" in a way that makes you wonder what the unacceptable limits look like. Occasionally references his time at the Army Research Laboratory without elaboration.
-
----
-
-## Articles
-
-- [Powerful Bidet Blasts Hole Clean Through Man](/2026-03-24/powerful-bidet-blasts-hole-clean-through-man/) — quoted on the water pressure required to produce the described injuries and the implications for consumer fixture safety standards

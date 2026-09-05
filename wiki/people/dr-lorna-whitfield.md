@@ -29,9 +29,3 @@ Dr. Whitfield lives on Rottnest Island for approximately nine months of the year
 **Blind spots:** Cannot fathom why the public finds the "throwing babies" narrative compelling. Assumes that correcting the factual record will resolve the reputational damage, despite nineteen years of evidence to the contrary.
 
 **Tone:** Patient, precise, slightly exasperated.
-
----
-
-## Articles
-
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — expert witness for the plaintiffs

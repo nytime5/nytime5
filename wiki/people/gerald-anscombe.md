@@ -27,9 +27,3 @@ He holds a doctorate in jurisprudence from Oxford and has been a fellow of the A
 **Blind spots:** So focused on procedural questions that he sometimes fails to address whether the underlying claim has merit. Treats the novelty of a legal theory as inherently interesting regardless of its plausibility.
 
 **Tone:** Measured, academic, faintly amused.
-
----
-
-## Articles
-
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — independent legal commentator on jurisdictional challenges

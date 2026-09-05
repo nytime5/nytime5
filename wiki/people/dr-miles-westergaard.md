@@ -21,8 +21,3 @@ He lives in Ann Arbor, Michigan.
 **Voice and sensibility:** Miles Westergaard is the natural antagonist to anyone who believes words should mean only what they originally meant. He is cheerful, empirical, and slightly smug about the fact that descriptive linguistics has won every argument it has ever been in. He takes particular pleasure in informing mathematicians, physicists, and engineers that their complaints about language are linguistically illiterate.
 
 **Tone:** Affable, confident, faintly provocative. He enjoys being the bearer of news that prescriptivists do not want to hear.
-
-## Articles
-
-- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026-04-01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — quoted as opposing expert on linguistic descriptivism
-- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026-04-23/ypsilanti-man-jaunty-look-petard/) — quoted on the structural elegance of Walter P. Stanfield's Shakespeare/Star Trek mondegreen, which he described as "nearly perfect"

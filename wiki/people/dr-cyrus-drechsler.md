@@ -29,9 +29,3 @@ He is the author of the 2018 paper "[Idiopathic Cranial Pressure Events](/wiki/p
 **Tone:** Clinical, neutral, faintly resigned. Quotable in a way that newsroom editors describe approvingly as "publishable on the first try."
 
 **Useful for:** Any New England story involving an unexplained, ironic, or topically-resonant death — particularly one in which the cause appears to be cumulative cognitive or emotional load rather than a specific medical event. Dr. Drechsler is the source who can be counted on to deliver the cause of death in a single sentence, and to make the sentence quotable.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — quoted as the medical examiner of record

@@ -32,9 +32,3 @@ The Institute's motto, adopted at its founding and rendered in Latin on its lett
 The Institute is, in the broadest sense, a laboratory built around a single methodological claim — that the trustworthy register of human opinion is faster than speech — and an enormous commercial apparatus built around the corollary that the discovery of one's true attitudes requires expert administration. It has the prestige of an Ivy adjunct, the budget of a midsize consultancy, and the methodological doubts of a discipline that has spent fifteen years quietly revising its replication estimates downward without revising its training-module pricing in either direction. Its researchers are, on the whole, sincere; its consulting subsidiary, on the whole, is not. The two divisions are kept on separate floors of the same building, which the staff calls, without irony, "the Wall."
 
 The Institute's relationship to its critics is one of patient condescension. It does not engage with statistical objections in public; it commissions further studies. It does not engage with philosophical objections at all, on the grounds that they are not empirical. It has, by a process so gradual that even its own faculty have not entirely registered it, become the kind of organization whose principal product is not knowledge but certification — the issuance, on letterhead, of the assurance that a given corporation's employees have been trained, audited, and re-tested at intervals consistent with the Institute's published standards, which the Institute also publishes.
-
----
-
-## Articles
-
-- [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026-05-13/in-defense-of-explicit-bias/) — Mr. Kitchens, in a polemic against the implicit-bias industry, characterizes the Institute as a magnificent racket and its methodology as a structure of reasoning that the medieval inquisitor would have recognized at once

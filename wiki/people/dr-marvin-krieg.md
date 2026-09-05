@@ -27,8 +27,3 @@ In May 2026, he conducted the first canine application of the institute's protoc
 **Blind spots:** Treats the institute's institutional review board as a substantive safeguard despite a structure that ensures it cannot meaningfully constrain him. Persistently underestimates the degree to which augmented subjects, once they have language, will use it to file lawsuits.
 
 **Tone:** Calm, precise, occasionally a touch weary. The voice of a man who has been asked the same difficult question by approximately two hundred people and is willing, in good faith, to answer it again.
-
-## Articles
-
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — quoted as the institute's director and the lead investigator on Walter's procedure
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — quoted at follow-up briefing characterizing the divergent dog/cat outcomes as "informative"

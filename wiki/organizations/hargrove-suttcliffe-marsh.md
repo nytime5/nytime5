@@ -22,9 +22,3 @@ The firm's offices are located in central Perth and feature a waiting area that 
 ## Private Profile
 
 The firm is a perfect vehicle for stories involving animal legal rights — absurd in premise, completely straight-faced in execution. Harold Suttcliffe is the public face; Diane Hargrove handles research and rarely speaks to press; Colin Marsh manages the business side and is rumored to be skeptical of the firm's direction but financially committed. The in-house ethologist, whose name has not been publicly disclosed, is responsible for translating client behavior into legally admissible testimony.
-
----
-
-## Articles
-
-- [Quokkas File Class Action Libel Suit Against Humanity Over 'Throwing Their Young' Narrative](/2026-04-08/quokkas-file-class-action-libel-suit-against-humanity/) — filed the class action on behalf of the quokka plaintiff class

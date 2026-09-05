@@ -32,8 +32,3 @@ The Foundations serve as the primary financial vehicle through which Mr. Saurus 
 **Organizational character:** The Closed Society Foundations operate as the administrative backbone of Jorge Saurus's activities. They file paperwork, issue press releases, and manage the logistics of global destabilization with the procedural diligence of a well-run community foundation. The staff write grant reports about chaos initiatives using the same templates that normal foundations use for literacy programs.
 
 **Function in stories:** The Closed Society Foundations are the mechanism through which Saurus's activities are given institutional legitimacy. They exist to make shadow operations look like philanthropy, using the vocabulary and organizational forms of the nonprofit sector.
-
-## Articles
-
-- [Jorge Saurus Assumes Dual Chairmanship of SPECTRE and CHAOS, Completing Unprecedented Consolidation of Shadow Operations](/2026-03-14/saurus-consolidates-spectre-chaos/) — referenced as financial vehicle for the consolidation
-- [The Real Threat to Western Civilization](/2026-04-08/the-real-threat-to-western-civilization/) — cited as example of the administration's criminalization of disfavored organizations

@@ -31,10 +31,3 @@ Dr. Murch's fieldwork has taken her to Takoma Park, Md.; Berkeley, Calif.; Burli
 **Tone:** Measured, precise, mildly amused. She speaks in complete sentences, the later ones qualifying the earlier ones in ways that make the whole structure stronger rather than weaker. A quote from Dr. Murch always sounds, on the page, as though it could go into a textbook — because, frequently, it does.
 
 **Function in stories:** Dr. Murch is the standing expert for any story about chronic nonvoting, political apathy narrated as principle, or the retroactive construction of ideology around habits that preceded it. Useful whenever a character needs an academic interlocutor who will neither endorse nor ridicule their position but will, instead, name it with terrifying accuracy.
-
----
-
-## Articles
-
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — quoted on "retroactive principle formation" and the architecture of rationalized nonparticipation
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — quoted on unspeakability in the narrow sense; produced the ninety-one-word paraphrase Gary Neuhoff now carries

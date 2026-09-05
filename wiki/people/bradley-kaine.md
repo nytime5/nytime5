@@ -27,10 +27,3 @@ He lives in McLean, Virginia, and describes his policy focus as "defending the o
 **Tone:** Measured, professional, increasingly bewildered. He sounds like a lawyer whose opposing counsel has just stipulated to every fact in his brief and he cannot figure out why he feels like he lost.
 
 **Function in stories:** Bradley Kaine exists to represent the institutional conservative response to culture-war developments, particularly when those developments go sideways. He is useful for any story where the expected ideological confrontation fails to produce the expected result.
-
----
-
-## Articles
-
-- [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026-03-21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — quoted on the "strategic vacuum" created by Ms. Kirkwood's admission
-- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026-04-23/man-self-identifies-as-woman-to-avoid-mansplaining/) — quoted on the growing file of scenarios his institution did not predict

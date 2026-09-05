@@ -25,9 +25,3 @@ A graduate of Bergen Community College, Ms. Brandt holds certifications in aircr
 **Verbal tics:** Lowers her voice out of consideration for sleeping passengers. Reaches for domestic, household-scale comparisons to make sense of enormous things — foreclosed split-levels, shuttered food-court counters, a brother-in-law's pontoon boat. Closes a thought with a plain, unanswerable observation ("You don't sell something this big without telling anybody").
 
 **Blind spots:** Does not entertain the possibility that the premise itself is the problem. Once she has accepted that Greenland is for sale, the absence of a sign becomes a deficiency in the world, never in her reasoning.
-
----
-
-## Articles
-
-- [Flight Attendant Who Crosses Greenland Twice a Week Is Quietly Troubled That She Has Never Once Spotted the For-Sale Sign](/2026-06-01/flight-attendant-crosses-greenland-never-spotted-for-sale-sign/) — profiled as she searched, binoculars in hand, for signage denoting the island's availability

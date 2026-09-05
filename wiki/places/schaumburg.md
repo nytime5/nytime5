@@ -33,9 +33,3 @@ Political disagreements in Schaumburg tend to concern procedure rather than subs
 ## Notable Residents
 
 - [Douglas Wren](/wiki/people/douglas-wren/), 53, a senior quality-assurance analyst who in 2025 self-identified as a woman for the purpose of defeating accusations of mansplaining.
-
----
-
-## Articles
-
-- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026-04-23/man-self-identifies-as-woman-to-avoid-mansplaining/) — setting of the feature profile

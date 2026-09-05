@@ -21,9 +21,3 @@ She is a frequent speaker at industry conferences and is known for discussing Mi
 Dr. Prak believes, not without evidence, that the bar for human reasoning is lower than most people publicly acknowledge. She does not consider this a depressing finding. She considers it a market opportunity. Her public statements are unfailingly enthusiastic, but a careful listener will note that her enthusiasm is often directed at the system's ability to match human performance rather than exceed it — a distinction she clearly finds funnier than she lets on.
 
 When quoted in the press, she tends to volunteer details that technically support her point while also, on reflection, undermining it. She is aware of this tendency and has concluded that it is the audience's problem.
-
----
-
-## Articles
-
-- [Microsoft Unveils Reasoning-Detection A.I. Capable of Identifying Logical Flaws That Anyone With Half a Brain Could Identify, Report Finds](/2026-03-17/microsoft-half-brain-ai-detects-obvious-reasoning-flaws/) — quoted as lead Microsoft executive on the ReasonCheck launch

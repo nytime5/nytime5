@@ -23,10 +23,3 @@ He has been cited as an expert source by a number of opinion columnists and inde
 **Obsessions:** Conversion and ideological transformation in public figures. He genuinely believes this is an underexamined field and has spent his post-government career trying to make it respectable. The fact that his primary audience is conspiracy columnists rather than peer-reviewed journals is a source of quiet frustration he manages by telling himself that "the intelligence community has always operated outside academic channels."
 
 **Blind spots:** Cannot see that his careful, credential-heavy non-answers are functioning as accelerant rather than analysis. Believes he is providing sober expert context when he is in fact giving conspiracy theories a Ph.D.-level vocabulary upgrade. His eleven-second pauses feel like gravity to him; to the columnist on the other end of the phone, they feel like confirmation.
-
----
-
-## Articles
-
-- [Connect the Dots: The President Faces East Five Times a Day and Nobody in Washington Will Say Why](/2026-03-15/connect-the-dots-president-faces-east-five-times-a-day/) — quoted as expert on "conversion indicators" in public figures
-- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026-04-05/trump-and-iran-declare-complete-victory-in-war/) — quoted on the "analytically remarkable" rhetorical convergence between U.S. and Iranian victory declarations

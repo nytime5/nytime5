@@ -16,10 +16,3 @@ The center occupies the third floor of a converted rowhouse on Q Street NW, in a
 The center employs a staff of twelve and focuses on legislative advocacy, public education, and coalition-building with allied organizations. It has been involved in supporting transgender nondiscrimination legislation in fourteen states and has filed amicus briefs in several federal court cases involving gender identity.
 
 The organization gained unexpected national attention in March 2026 when its executive director publicly agreed with the characterization that she "doesn't mind pretending men are women," a statement that produced what both allies and opponents described as a rhetorical crisis of unprecedented symmetry.
-
----
-
-## Articles
-
-- [Transgender Rights Advocate Openly Admits She Doesn't Mind Pretending Men Are Women](/2026-03-21/transgender-rights-advocate-doesnt-mind-pretending-men-are-women/) — organizational setting for the article; executive director profiled
-- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026-04-23/man-self-identifies-as-woman-to-avoid-mansplaining/) — executive director quoted on the impossibility of abusing politeness

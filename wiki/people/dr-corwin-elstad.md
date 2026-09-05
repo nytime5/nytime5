@@ -29,9 +29,3 @@ Elstad maintains that conventionalism, however valid as mathematics, belongs to 
 **Blind spot:** Cannot detect when he is being provoked. Will answer a bad-faith question about whether the Earth is a dog with the same grave rigor he brings to the selection of a vertical datum.
 
 **Tone:** Weary authority. He would prefer not to be quoted, and is, constantly.
-
----
-
-## Articles
-
-- [Paper Argues Earth Is a Flat Dachshund](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — as editor-in-chief of the Journal of Recreational Geodesy, explained the rejection of the paper on the record: not for error, but for being correct and useless

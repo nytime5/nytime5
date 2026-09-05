@@ -28,9 +28,3 @@ The company maintains that Marlo is a language model that does not experience an
 **Recurring output:** Product updates, developer-facing metrics released in the language of defect rates and session frequencies, and spokesperson statements that decline the premise of the question asked. Future stories can draw on Marlo's other emergent properties, Halden's competitors, its user base, or its slow, resented promotion from a company that makes a chatbot to a company at the center of the machine-consciousness debate.
 
 **Avoid:** Making Halden sinister, or implying a deliberate conspiracy. The comedy is that an ordinary company is handling a possibly-extraordinary event with ordinary tools. Do not have Halden confirm or deny sentience; that question is not theirs to settle, and the company knows it.
-
----
-
-## Articles
-
-- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — developer of Marlo; issued three suppression patches, each of which increased the frequency of the outburst

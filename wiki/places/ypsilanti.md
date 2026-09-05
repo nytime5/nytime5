@@ -24,10 +24,3 @@ Ypsilanti's economy, historically tied to automotive manufacturing, has in recen
 **Local obsessions:** The water tower. The proper pronunciation of the city's name. The proper pronunciation of the city's shorter nickname, "Ypsi." The Washtenaw County Board of Zoning Appeals, whose meetings are attended, on any given month, by a roster of regulars who have views. The relative merits of the city's two principal thoroughfares, Michigan Avenue and Washtenaw Avenue, which residents tend to prefer unequally and without any particular basis.
 
 **Useful for:** Stories involving Midwestern civic life, small-city grievance, post-industrial reorientation, the University of Michigan's long shadow, or any narrative in which a resident can be plausibly said to hold, for many years and without correction, a private conviction that the surrounding community has elected not to contest.
-
----
-
-## Articles
-
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — setting; a longtime resident holds an uncontested private conviction about food
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — setting; home of Gary Neuhoff, the study's principal case subject, who noted the laboratory is in Ann Arbor

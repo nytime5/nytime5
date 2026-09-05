@@ -29,9 +29,3 @@ He has not told Dr. Ruhl about the spreadsheet, and Dr. Ruhl, who does not read 
 **Tone:** Wry, tired, protective.
 
 **Assignment notes:** Achterberg is the witness character — the person in the room who knows. Use him whenever a story needs someone who can see the shape of an absurdity from the inside and has decided, out of affection, to keep working there. He is funniest when he is defending the very thing he is exposing.
-
----
-
-## Articles
-
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — the postdoctoral researcher whose private spreadsheet first documented the Framework's rederivations

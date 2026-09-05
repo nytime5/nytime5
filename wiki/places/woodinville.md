@@ -33,7 +33,3 @@ Woodinville's sore spots are specific and long-held. Residents are sensitive to 
 **Function in stories:** Woodinville is the aggressively pleasant Eastside exurb that has, without quite intending to, become the world capital of recreational geodesy. It is a place where the disinterested study of the shape of the Earth can flourish precisely because nothing there is at stake — a wine-tasting weekend town whose surplus of unhurried, agreeable, faintly credentialed leisure turns out to be the ideal medium for a discipline with no practical consequence. Stories set in Woodinville should draw on this collision: the improbable seriousness of the geodesy community set against the town's relentless amiability, and the civic pride of a place that has finally found an identity beyond wine and is not entirely certain it wanted this one.
 
 **Tone:** Unfailingly agreeable, quietly self-conscious about its standing as a suburb, and privately delighted to be known for something. Woodinville does not find recreational geodesy strange. It finds it flattering.
-
-## Articles
-
-- [Paper Argues the Earth Is a Flat Dachshund. It Was Rejected, and Its Author Says That Proves the Point.](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — dateline and setting; home of the paper's first author and the field's institutional seat

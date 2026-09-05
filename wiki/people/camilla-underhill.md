@@ -23,7 +23,3 @@ Her decision to enroll Margaux in the trial followed a recommendation by Margaux
 **Blind spots:** A tendency, common in librarians of her generation, to assume that a professionally credentialed institution which uses appropriate terminology has, in some operational sense, also done the work the terminology implies.
 
 **Tone:** Calm, considered, slightly dry. The voice of a woman who has not been surprised in some time.
-
-## Articles
-
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — Margaux's owner; enrolled her in the trial and was the source for several quotes

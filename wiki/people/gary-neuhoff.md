@@ -33,9 +33,3 @@ Mr. Neuhoff is married, has two adult children, and votes in every election.
 **Tone:** Flat, patient, entirely unaggrieved. He has been at peace with this for years.
 
 **Function in stories:** Neuhoff is the standing everyman for stories about the gap between an inner position and its transmissible version — political silence, the collapse of nuance, the citizen who is fully engaged and entirely quiet. He is also available for any Ypsilanti story requiring a resident who holds, without contest, a private conviction the neighborhood has elected not to litigate. He will not raise his voice and he will not be drawn, but he will hand you something.
-
----
-
-## Articles
-
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — case subject of the federal throughput study; carries the ninety-one-word card

@@ -21,9 +21,3 @@ She has been described by colleagues as "the leading pessimist on shared waterwa
 **Voice and sensibility:** Dr. Kessler-Pfaff speaks with the resigned authority of someone whose entire career has consisted of documenting the same mistake made repeatedly by different nations. She is not cynical — she is exhaustive. Her quotes tend to end with a prediction of failure delivered with such clinical precision that it sounds almost optimistic.
 
 **Useful for:** Any story involving rivers as borders, shared sovereignty arrangements, or international boundary disputes. She is the expert who will explain, calmly and with citations, why the proposed arrangement will fail, and who will then add, with faint hope, that it might work this time.
-
----
-
-## Articles
-
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — quoted on the historical precedents for joint river sovereignty

@@ -25,8 +25,3 @@ Walter is represented by a Madison law firm specializing in animal welfare matte
 **Blind spots:** Has not yet adjusted to the social conventions surrounding when one is and is not expected to reply to a question. Tends to assume that anyone who has spoken to him has done so because they want a reply. Has not, as of this writing, developed the human reflex toward small talk and may never.
 
 **Tone:** Measured, direct, faintly elegiac. The voice of an individual who has lost something he did not realize he valued and who is, in the meantime, doing his best.
-
-## Articles
-
-- [Dog Granted Human-Level Intelligence in Experimental Procedure Requests, Forty-Six Minutes Later, That It Be Reversed](/2026-05-19/dog-granted-human-intelligence-requests-reversal/) — subject of the article; the first canine recipient of the institute's cognitive augmentation protocol
-- [Cat Granted Human-Level Cognition Declines Reversal, Files Twenty-Two-Page Memorandum on the Institute's Performance Instead](/2026-05-19/cat-granted-human-cognition-files-memorandum/) — mentioned in an addendum to the augmented cat's memorandum; characterized by her as "structurally dependent" and offered her sympathy

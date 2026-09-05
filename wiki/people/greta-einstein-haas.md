@@ -31,9 +31,3 @@ She is represented by [Morris Blatt](/wiki/people/morris-blatt/) of Blatt, Grune
 **Blind spots:** Cannot distinguish between intellectual influence and plagiarism. Sees no meaningful difference between "Einstein's work made this possible" and "this is Einstein's work." Also does not fully grasp that scientific principles are not copyrightable, a legal reality she considers a flaw in the system rather than a flaw in her argument.
 
 **Tone:** Measured, earnest, faintly aggrieved. She sounds like a homeowner who has discovered that her contractor subcontracted without permission — disappointed rather than angry, but fully committed to seeing the matter resolved.
-
----
-
-## Articles
-
-- [Einstein's Great-Great-Granddaughter Sues Every Physicist Since 1905 for Plagiarism](/2026-04-05/einstein-heir-sues-every-physicist-since-1905/) — plaintiff in the lawsuit

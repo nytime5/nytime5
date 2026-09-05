@@ -25,11 +25,3 @@ She has described the column "Executive Privilege," by [Richard Nixon](/wiki/peo
 **Voice and manner:** Hollenbeck speaks in the register of a very good law review article. Her quotes are dense with subordinate clauses and careful qualifications. She never editorializes; she characterizes. She finds the same behavior admirable in one context and catastrophic in another, and will explain exactly why without apparent discomfort. She has a tendency to identify the "central unresolved tension" in whatever question she is addressing, which she then proceeds to resolve, carefully, on the record, before noting that others in the field remain unconvinced.
 
 **Relationship to Nixon:** Hollenbeck has cited Nixon's columns approvingly in academic work, a practice her colleagues regard with varying degrees of unease. She considers Nixon a primary source — a practitioner whose documented views on executive authority carry evidentiary weight independent of his legal and historical reputation. She does not endorse his actions. She studies them. The distinction matters to her. It is not clear that it matters to Nixon.
-
----
-
-## Articles
-
-- [What Eisenhower Understood About the Southern Border, and Why the Current Administration Appears Not To](/2026-03-17/what-eisenhower-understood-about-the-southern-border/) — quoted on the distinction between enforcement as theater and enforcement as architecture
-- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026-04-05/trump-and-iran-declare-complete-victory-in-war/) — quoted on "the sovereignty of narrative in post-evidentiary conflict"
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — quoted on the "universality problem" and selective enforcement of contempt

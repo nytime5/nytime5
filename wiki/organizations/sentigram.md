@@ -28,9 +28,3 @@ The company's headquarters occupy a converted bank building on Folsom Street in 
 **Useful tensions:** Sentigram inhabits a peculiar position in the consumer landscape. It is large enough to be covered seriously by business reporters, novel enough to attract regular criticism from clergy and ethicists, and earnest enough to be visibly hurt by both. Its public communications increasingly take the tone of a company that feels misunderstood. Internal slide decks have been described, by former employees who spoke on condition of anonymity, as "deeply sincere in a way that is difficult to be around."
 
 **Recurring threads:** The company periodically announces expansions into new "sentiment categories." Each announcement provokes a small wave of cultural commentary, which Sentigram's leadership treats as evidence of category fit. The ambient-sentiment slate (congratulations, get well, thinking of you) is the next anticipated product line.
-
----
-
-## Articles
-
-- [Newly Launched 'Sorry for Your Loss' Coin Completes Crypto Greeting Card Industry's Push Into Full Life-Event Tokenization](/2026-04-23/crypto-greeting-cards-condolence-coin-launch/) — launched the Condolence Coin, completing the company's life-event slate

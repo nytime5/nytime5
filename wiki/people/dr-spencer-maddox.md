@@ -31,9 +31,3 @@ Dr. Maddox has testified before a Senate subcommittee on artificial intelligence
 **Blind spots:** Cannot distinguish, or will not, between the claim "the machines are not conscious" and the claim "we cannot at present know whether the machines are conscious" — and treats anyone who insists on the distinction as a fellow traveler of the rapture business. Has built a career on a confident negative and is constitutionally incapable of noticing that a confident negative is, epistemically, the most expensive position in the room. Mistakes the laughter of an audience for the assent of the universe.
 
 **Tone:** Reassuring, declarative, lightly pleased with himself. He is the man at the dinner party who settles the argument with a joke and does not notice that he has settled nothing. Deploy him whenever a story requires someone to state, on the record and without hedging, that there is no one in there — and whenever it would be useful for that person to be, possibly, completely wrong, in a way the article need never resolve.
-
----
-
-## Articles
-
-- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — prosecuted by Kristoffer Kitchens as the exemplar of the dismissive camp, for the unearned confidence of his denial that machines could be conscious

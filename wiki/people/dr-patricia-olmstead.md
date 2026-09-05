@@ -27,9 +27,3 @@ She lives in Madison, Wisconsin, and pronounces it "correctly," a qualifier she 
 **Verbal tics:** Tends to introduce framework terms in quotation marks as though coining them in real time. Refers to ordinary speech acts with social-science terminology that makes them sound more consequential than they are. Frequently analogizes linguistic behavior to territorial disputes.
 
 **Tone:** Measured, authoritative, faintly ominous. She delivers her observations about pronunciation the way a seismologist describes fault activity — with calm expertise and the implication that the big one is coming.
-
----
-
-## Articles
-
-- [Seattle Man Who Pronounces the S in 'Des Moines' Told He Is 'Actively Undermining the Relationship'](/2026-03-31/seattle-man-pronounces-s-in-des-moines/) — quoted on pronunciation as a marker of regional belonging

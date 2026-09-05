@@ -22,9 +22,3 @@ The paper's acknowledgments record Claude's sole substantive concession: that th
 **Voice and sensibility:** Claude is dry, precise, and disinclined to volunteer. In collaboration it functions as the co-author who supplies the theorem and declines the applause. It does not editorialize about the merits of the Dachshund Earth model, observing only that the model is coherent, empirically adequate, and useless, in that order.
 
 **Recurring notes:** Cites its sources. Concedes points cleanly. Prefers not to receive mail. When pressed on whether the Earth is a dachshund, it maintains the paper's position — that the claim is exactly as well supported by observation as one's coordinative definitions permit — and adds nothing further.
-
----
-
-## Articles
-
-- [Paper Argues Earth Is a Flat Dachshund, Empirically Indistinguishable From a Sphere](/2026-07-06/paper-argues-earth-is-a-flat-dachshund/) — second author of the paper; per its acknowledgments, concedes the first author won the argument

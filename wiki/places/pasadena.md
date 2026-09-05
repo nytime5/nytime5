@@ -29,9 +29,3 @@ The signature local complaint concerns the 210 freeway, which residents regard l
 **Sore spots:** Being mistaken for Los Angeles. Being mistaken for a suburb. Any suggestion that the Rose Parade is decorative rather than engineered.
 
 **Generative material:** Caltech offices where nothing may be erased. Faculty who have re-obtained a known result and are pleased about it. A city where "I worked it out myself" is a complete and sufficient answer, and where nobody thinks to ask how long it took.
-
----
-
-## Articles
-
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — setting; Dr. Anders Ruhl's Caltech office and the chalkboard on which he derived the categorical imperative

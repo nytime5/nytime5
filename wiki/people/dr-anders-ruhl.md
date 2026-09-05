@@ -42,9 +42,3 @@ He lives in [Pasadena](/wiki/places/pasadena/).
 **Tone:** Cheerful, methodical, faintly pastoral. He speaks like a man giving directions to a place he has walked to many times.
 
 **Assignment notes:** Deploy Ruhl whenever a story needs someone who will reinvent a solved problem in good faith and at enormous cost, or who will decline an available shortcut on principle. He is the universe's purest first-principles reasoner, and the joke is never that he is stupid — he is not, and his derivations are correct — but that the method has no stopping condition. He pairs naturally with [D.C. Makinson](/wiki/people/dc-makinson/), who has spent sixty years inside a paradox Ruhl reached in six weeks, and with [Dr. Arthur Goode](/wiki/people/dr-arthur-goode/), who will confirm the work is good and mention, precisely, how old it is. His postdoc [Devon Achterberg](/wiki/people/devon-achterberg/) keeps the ledger.
-
----
-
-## Articles
-
-- [Physicist Who Refuses to Read Philosophy Has Spent Eleven Years Deriving It From First Principles, Arriving at 1785](/2026-07-12/physicist-derives-philosophy-from-first-principles/) — first public account of the Framework and the Center for Computational Epistemology's audit of it

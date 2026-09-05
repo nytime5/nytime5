@@ -23,9 +23,3 @@ Ms. Fenn lives in San Francisco and is known in the House for her ability to cre
 **Voice and sensibility:** Ms. Fenn is a technocrat who views the dissolution of the republic the way a project manager views a difficult migration — regrettable, perhaps, but ultimately a question of scope, timeline, and resource allocation. Her quotes tend to be studded with specific percentages and asset inventories. She does not get emotional about partition; she gets specific.
 
 **Useful for:** Stories requiring a congressional source who treats enormous political upheaval as a logistics problem. Good counterpart to Senator Briscoe's prairie pragmatism — where he sees a zoning dispute, she sees a Gantt chart.
-
----
-
-## Articles
-
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — chair of the newly created House Subcommittee on National Reorganization

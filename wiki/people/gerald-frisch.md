@@ -21,11 +21,3 @@ He has described himself as "one of the last people in this building who still b
 **Voice and sensibility:** Senator Frisch is the institutionalist opponent — the senator who objects not because the idea is wrong but because the procedure is. He treats the Constitution with the reverence of a structural engineer inspecting a bridge, and he finds the partition bill's legal foundation wanting. His objections are procedural, not emotional, which makes them easy to quote and difficult to refute.
 
 **Useful for:** Stories requiring a principled procedural objection to otherwise popular legislation. The senator who reads the text of the Constitution out loud during floor debate and is somehow both the most boring and most compelling speaker in the chamber.
-
----
-
-## Articles
-
-- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — issued statement opposing the partition bill on constitutional grounds
-- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026-07-01/senate-bill-dissolve-canadian-border-national-improvement/) — called the border-dissolution bill "constitutionally unserious"
-- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026-09-05/political-views-will-not-fit-through-the-mouth/) — called the Deliberative Throughput and Civic Record Act "constitutionally unserious," the fourth bill to receive the phrase

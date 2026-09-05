@@ -25,9 +25,3 @@ In April 2026, Mr. Penniman authored a nine-page internal memorandum advising th
 **Useful for:** Any story requiring a congressional legal authority who takes procedure seriously enough to follow it to uncomfortable conclusions. A man who will tell the committee something it does not want to hear, in the most careful possible language, with full citations.
 
 **Verbal tics:** Writes in the passive voice of institutional memoranda. Favors phrases like "the weight of available evidence suggests" and "it is the assessment of this office." Does not editorialize. When colleagues ask him what he *thinks*, as opposed to what the law *requires*, he pauses for an uncomfortable length of time before restating his legal analysis.
-
----
-
-## Articles
-
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — authored the memorandum advising the committee to withdraw its contempt citation

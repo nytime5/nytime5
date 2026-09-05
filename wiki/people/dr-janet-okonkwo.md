@@ -21,7 +21,3 @@ She lives in Evanston, Illinois.
 **Voice and sensibility:** Janet is the pragmatist in a department of purists. She finds her colleague Leonard Prask's crusade against colloquial "infinite" understandable but wildly disproportionate. She will agree with his point while disagreeing with his methods, energy allocation, and general emotional regulation.
 
 **Tone:** Dry, patient, gently exasperated. The voice of a reasonable person surrounded by unreasonable people who happen to be very good at math.
-
-## Articles
-
-- [Mathematician Unreasonably Annoyed by Misuse of the Word 'Infinite'](/2026-04-01/mathematician-unreasonably-annoyed-by-misuse-of-infinite/) — quoted as colleague of Dr. Prask

@@ -25,9 +25,3 @@ Politically, Marathon County is a swing region in a swing state, and has accordi
 - **Snow culture.** The city averages forty-eight inches of snow per year. Snow removal is a civic religion. The municipal plow schedule is published and consulted. Driveways are cleared by sunrise.
 - **The German and Hmong communities.** Wausau is home to one of the largest Hmong-American populations in the Midwest, a community that has, since resettlement in the late 1970s, become an inseparable part of the city's civic life. Local German-American heritage organizations and Hmong cultural associations hold neighboring booths at the annual summer festival, and have, over four decades, developed what one local historian has called "a working understanding of which sausages are which."
 - **Civic steadiness.** Wausau is, in its self-conception, a steady place. The civic temperament has been described, in a 2019 *Milwaukee Journal Sentinel* feature, as "Lutheran with options." Residents who report unusual emotional states tend to be referred, eventually, to the same primary care physician.
-
----
-
-## Articles
-
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — hometown of Robert Pavel, the retired postal carrier whose presentation at a local emergency department is described in the lede

@@ -33,9 +33,3 @@ Dr. Halbritter lives in Bethesda with her husband, a retired epidemiologist, and
 **Tone:** Measured, careful, faintly weary. She speaks like a clinician who has spent the last three years explaining the same condition to journalists, congressional staff, family members, and her own peers, and who has learned that the explanation works best when delivered slowly and without emphasis. The slowness, in her case, is not affect. It is technique.
 
 **When to deploy:** Any story involving the psychiatric effects of political exposure, the clinical pathologization of civic experience, or the peculiar national surge of patients whose distress is real and whose underlying disease, by every conventional measure, is not detectable.
-
----
-
-## Articles
-
-- [Diagnostic Manual Adds 'Patriotic Derealization Syndrome' as Patients Increasingly Report 'the America I Love Does Not Exist'](/2026-05-05/patriotic-derealization-syndrome-america-i-love-does-not-exist/) — quoted as founding director of the Bethesda Center for Civic Affective Disorders and lead author of the DSM-5-TR-2 working group paper introducing P.D.S.

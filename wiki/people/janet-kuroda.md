@@ -25,9 +25,3 @@ In April 2026, she described the legal theory behind the withdrawal of contempt 
 **Useful for:** Any story requiring a senior House Democrat who can articulate the exact dimensions of a procedural humiliation without losing composure. A lawmaker who treats congressional dysfunction as a professional inconvenience rather than a philosophical crisis.
 
 **Verbal tics:** "The data is what the data is." Tends to summarize bad outcomes with compound adjectives: "novel, aggressive, and unfortunately well-supported." Describes opposing legal arguments with the grudging respect of someone who wishes they were wrong.
-
----
-
-## Articles
-
-- [Congress Drops Contempt of Congress Charges After Noting That Everyone Holds Congress in Contempt](/2026-04-06/congress-drops-contempt-charges-after-noting-everyone-holds-congress-in-contempt/) — quoted as ranking member of the House Judiciary Committee

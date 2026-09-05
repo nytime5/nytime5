@@ -23,6 +23,7 @@
   </header>
   <div class="wiki-page-content">
     {{ partial "wiki-public-content.html" . }}
+    {{ partial "wiki-articles.html" . }}
   </div>
   <nav class="wiki-page-nav">
     <a href="{{ .Parent.RelPermalink }}">← Back to {{ .Parent.Title }}</a>

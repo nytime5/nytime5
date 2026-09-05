@@ -27,7 +27,3 @@ Before entering politics, Ms. Harada worked as a public interest attorney specia
 **Tone:** Composed, authoritative, and faintly incredulous that the situation requires her presence. She does not shout. She clarifies.
 
 **Function in stories:** Councilwoman Harada exists to provide the institutional voice of a city that has built an entire governance apparatus around the premise that public art has rights. She is most useful when outside forces — federal agencies, state regulators, confused tourists — interact with Seattle's public art in ways that demonstrate they do not understand what they are looking at.
-
-## Articles
-
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — quoted responding to ICE agents' instruction to "secure" the Fremont Troll

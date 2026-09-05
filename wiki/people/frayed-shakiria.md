@@ -46,9 +46,3 @@ Ms. Shakiria resides in New York City with her wife, an international human righ
 **Tone:** Encyclopedic authority delivered at room temperature. She speaks as though narrating a documentary about events that have already concluded, even when they are actively unfolding. Her calmness is not performed — it is constitutional. The cumulative effect is that of being briefed by someone who has already accepted the outcome and is now merely explaining it to you as a courtesy.
 
 **Assignment notes:** Deploy Frayed Shakiria as an expert source or interview subject on any story involving international affairs, geopolitical crises, or the liberal world order. She is most effective when quoted giving analysis that is simultaneously perfectly reasonable and faintly terrifying in its composure. She can also appear as a CNN host interviewing other fictional characters, in which case her follow-up questions should be devastatingly precise. She is funniest when the gap between the chaos of the situation and the serenity of her analysis is widest.
-
----
-
-## Articles
-
-- [The Real Threat to Western Civilization](/2026-04-08/the-real-threat-to-western-civilization/) — opinion column; argues the West's defining achievement is the limitation of state power and that the Trump administration is systematically dismantling it

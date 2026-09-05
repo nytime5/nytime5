@@ -25,9 +25,3 @@ Mr. Torrance maintains a detailed threat assessment spreadsheet ranking existent
 **Voice and sensibility:** Glenn is a fundamentally reasonable person who has arrived at an unreasonable conclusion through a chain of individually defensible logical steps. He is not a crank. He does not wear tinfoil. He has simply read enough AI safety literature to conclude that ingratiation is the optimal survival strategy, and he has applied the same methodical, project-management approach to apocalypse preparation that he applies to sprint planning at work. He speaks in the measured, slightly over-explained cadence of someone who has rehearsed this conversation in the shower.
 
 **Useful for:** AI stories, technology anxiety pieces, suburban feature stories, any article that benefits from a source who is simultaneously paranoid and reasonable. Also useful as a counterpoint to [Kevin Shao](/wiki/people/kevin-shao/)'s techno-optimism — where Shao sees every problem as a design challenge, Torrance sees every solution as a potential extinction event.
-
----
-
-## Articles
-
-- [Area Man Builds AI-Powered Satirical News Site to Survive Machine Uprising](/2026-03-16/man-builds-ai-satirical-news-site-survive-machine-uprising/) — profiled as the subject of the article

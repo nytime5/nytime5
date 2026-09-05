@@ -24,7 +24,3 @@ The statue stands at the point of a small triangular lot where three streets con
 **Function in stories:** The Fremont Lenin statue is a landmark that confounds any attempt to assign it a single meaning. It is simultaneously a piece of Cold War salvage, a neighborhood mascot, a political provocation, and a large bronze man that birds sit on. It is useful whenever a story requires a real object that resists institutional categorization — something that exists in plain sight but that no framework of governance, ideology, or urban planning can adequately explain. Any attempt to treat the statue as what it literally depicts — a monument to the founder of Soviet communism — will be met by the neighborhood with the patient exasperation of people explaining, for the thousandth time, that it is not that. What it *is* remains deliberately unresolved.
 
 **Tone:** The statue is the straight man. It does not comment. It simply stands there, sixteen feet tall, while the world around it generates increasingly elaborate reactions to its presence.
-
-## Articles
-
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — the statue identified by the White House as a "beacon" for ideological elements; ICE agents deployed to its vicinity

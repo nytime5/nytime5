@@ -45,9 +45,3 @@ He was awarded the Presidential Medal of Freedom in 1974 by Gerald Ford, an hono
 **Relationship with other columnists:** Nixon reads the other columnists carefully and does not mention them by name. His columns occasionally contain what appear to be rejoinders to positions taken elsewhere in the paper, but the references are indirect and his office denies any intention of engagement. He considers the opinion page, as a concept, to be fine. He considers the other columnists to be on the list. Gerald K. [Vanderbeek](/wiki/people/gerald-k-vanderbeek/) sent Nixon a note after one column praising his position on executive discretion; Nixon's office confirmed receipt and noted that Vanderbeek had been moved from Active to Dormant status pending further review.
 
 **When to deploy:** Any story involving presidential power, surveillance, the legal limits of government authority, the press, the concept of executive privilege, or the proper evaluation of historical legacy. Nixon can be called for comment on any political story where the appropriate response is "I was right all along," delivered with the full apparatus of decades of documentation. He can also appear in lighter stories to provide unexpectedly grave legal framing, e.g., a piece about a city council vote that Nixon characterizes, in his comment, as implicating "the same structural overreach that has characterized the legislative branch since, frankly, the Johnson years."
-
----
-
-## Articles
-
-- [What Eisenhower Understood About the Southern Border, and Why the Current Administration Appears Not To](/2026-03-17/what-eisenhower-understood-about-the-southern-border/) — author; argues the current administration's immigration enforcement is aspirational rather than architectural

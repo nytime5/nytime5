@@ -33,9 +33,3 @@ He owns nine books, four of which are duplicate copies of *All About Love* by be
 **Tone:** Earnest, soft-spoken, slightly tired. He speaks with the air of a man who has worked out the argument so thoroughly in advance that he is mildly surprised to find anyone still asking him to defend it. He is never hostile. He is frequently fatigued. He considers fatigue, itself, a form of evidence.
 
 **Function in stories:** Brendan Vossmeier is the subject for any profile in which a man's accumulated nonaction has acquired, in his own account, a political meaning his behavior alone would not sustain. Useful whenever the story calls for someone to explain, at length, how not doing something has become the thing he does.
-
----
-
-## Articles
-
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — profiled as a man whose sustained nonvoting has, over time, been retroactively narrated into a form of anti-patriarchal activism

@@ -35,9 +35,3 @@ The city's relationship with Washington, D.C., immediately to its south, is cord
 ## Notable Residents
 
 - [Brendan Vossmeier](/wiki/people/brendan-vossmeier/), 34, a writer and self-described organizer whose thirteen-year failure to register to vote has, in his own account, become a sustained act of anti-patriarchal resistance.
-
----
-
-## Articles
-
-- [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026-04-23/takoma-park-man-not-voting-patriarchy-activism/) — setting of the feature profile

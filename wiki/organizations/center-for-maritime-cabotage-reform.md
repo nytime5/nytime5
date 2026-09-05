@@ -26,9 +26,3 @@ The Center maintains a public reading room containing a complete annotated text 
 - The annual *Cabotage Cost Index*, which estimates the additional consumer cost imposed by Jones Act compliance across nine product categories.
 - A standing offer, made each February since 2012, to host a closed-door briefing for any member of Congress representing Hawaii, Alaska, or Puerto Rico. Acceptances have been intermittent.
 - The 2021 amicus brief in *Hapag-Lloyd v. United States*, in which the Center argued that the Act's foreign-built vessel restriction had not been rationally updated since the relevant shipyards had ceased domestic construction. The brief was not cited in the decision.
-
----
-
-## Articles
-
-- [Adult Son of New Bedford Commercial Fisherman Dies of Catastrophic Cranial Pressure Event While Reading the Wikipedia Entry on the Jones Act](/2026-04-25/adult-son-fisherman-dies-cranial-event-jones-act/) — Dr. Krummel quoted on the cognitive externality of statutory engagement

@@ -31,9 +31,3 @@ He is a frequent and increasingly exasperated commentator on scientific literacy
 **Obsessions:** The gap between what physics has established and what the public believes. The fact that general relativity is 111 years old and still treated as exotic knowledge. The word "theory" and how its colloquial usage undermines public understanding of science. The comfort people take in not knowing things.
 
 **Blind spots:** Cannot fully comprehend that most people's lives function perfectly well without understanding general relativity. Genuinely believes that knowing what causes gravity should change how a person feels about being alive, and is quietly hurt that it does not.
-
----
-
-## Articles
-
-- [Most Americans Cannot Explain What Causes Gravity, BuzzFeed Poll Finds](/2026-03-22/most-americans-cannot-explain-what-causes-gravity-poll-finds/) — quoted as lead expert on the implications of the poll results

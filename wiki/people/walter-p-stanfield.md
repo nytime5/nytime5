@@ -27,9 +27,3 @@ Mr. Stanfield, 58, was born in Jackson, Michigan, and graduated from Eastern Mic
 **Blind spots:** Has never once, in his own account, considered the possibility that the phrase he has been using for eleven years is not the phrase he believes it is. On the matter of the show's actual dialogue, he trusts his memory over all other available sources, including transcripts, episode guides, and his wife. He is aware that other people sometimes look puzzled when he deploys the phrase and attributes this to a generational unfamiliarity with *The Next Generation*.
 
 **Useful for:** Stories involving domestic rhetoric, lay Shakespeare, fandom as an epistemic system, the social economics of marriage, the Washtenaw County Board of Zoning Appeals, or the phenomenon by which a person's signature phrase becomes, over time, an informal term of art among those obliged to hear it.
-
----
-
-## Articles
-
-- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026-04-23/ypsilanti-man-jaunty-look-petard/) — subject of a feature profile on his eleven-year use of a malapropism he believes to be a Picard quotation

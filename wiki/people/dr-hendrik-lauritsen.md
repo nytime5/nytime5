@@ -27,9 +27,3 @@ Dr. Lauritsen was born in The Hague and holds Dutch and Swedish citizenship. He 
 **Obsessions:** The gap between what agreements say and what they accomplish. The architecture of ceasefire language. The institutional capacity of international bodies to process events that fall outside their procedural templates.
 
 **Blind spots:** Tends to view all conflicts as solvable through better document drafting. Occasionally fails to notice that the parties to a conflict have no interest in resolution and are, in fact, enjoying themselves.
-
----
-
-## Articles
-
-- [Trump and Iran Both Declare Complete and Utter Victory in War, Each Citing the Other's Losses as Evidence](/2026-04-05/trump-and-iran-declare-complete-victory-in-war/) — quoted on the diplomatic challenges of dual victory declarations

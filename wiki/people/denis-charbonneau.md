@@ -21,9 +21,3 @@ He came to broader American attention in July 2026, when he was asked to respond
 **Voice and sensibility:** Mr. Charbonneau is the voice of a country responding, with unfailing courtesy, to being complimented in a manner it finds faintly alarming. He is polite to the point of structural load-bearing, declines invitations without ever quite saying no, and treats every American overture as a very kind offer that he must, regrettably, decline on behalf of thirty-eight million people who would rather stay home. His register is warm, exact, and immovable.
 
 **Useful for:** Any story in which the United States acts upon Canada, proposes to acquire, annex, merge with, or be improved by Canada, or otherwise requires an official Canadian response delivered with maximum grace and zero forward motion. The spokesman who thanks you sincerely and changes nothing.
-
----
-
-## Articles
-
-- [Senator Introduces Bill to Dissolve the Canadian Border, Arguing That a Mass Influx of Canadians Would Improve the Country](/2026-07-01/senate-bill-dissolve-canadian-border-national-improvement/) — responded on behalf of Global Affairs Canada that Canada had no plans to invade the United States

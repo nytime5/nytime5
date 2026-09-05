@@ -25,7 +25,3 @@ She is a frequent and weary presence in news coverage of food scares, where she 
 **Convictions:** That disgust is information about the eater, not the food. That mechanically recovered protein is "legitimate output," wasted at moral and caloric cost by a squeamish public. That an ingredient is not degraded by being fed to an animal — that the food chain has no shame in it, only people do.
 
 **Blind spot:** Cannot understand why her argument, which is correct, persuades no one. Tends to assume that people object on factual grounds and so meets them with more facts, which never works, because the objection was never factual. Mildly fascinated, in spite of herself, by Mr. Krauss — who agrees with her conclusion entirely while caring nothing for her reasoning.
-
-## Articles
-
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — explained the mechanically recovered poultry process and called the subject's conclusion correct by an unusual road

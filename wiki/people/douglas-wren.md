@@ -33,9 +33,3 @@ She is the author of an unpublished household binder titled *Notes Toward a Unif
 **Tone:** Earnest, methodical, untroubled. She speaks with the measured confidence of a man who has solved a problem by redefining his relationship to it, and who considers this a sensible engineering response to an adversarial environment.
 
 **Function in stories:** Douglas Wren exists to demonstrate the outer reach of strategic self-identification — the man who has found a procedural exploit in a good-faith framework and is using it in good faith of his own. Useful for stories about the collision between sincere belief, strategic maneuver, and the languages we have for telling them apart.
-
----
-
-## Articles
-
-- [Schaumburg Man Self-Identifies as a Woman So That, When She Points Out the Obvious, She Cannot Be Accused of Mansplaining](/2026-04-23/man-self-identifies-as-woman-to-avoid-mansplaining/) — profiled as a man who self-identified as a woman to defeat accusations of mansplaining

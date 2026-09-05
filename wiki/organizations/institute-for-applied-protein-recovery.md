@@ -20,7 +20,3 @@ It does not manufacture or sell food, a distinction it draws often, and it has n
 The Institute exists to be the calm, exact, slightly lonely voice insisting that the disgusting thing is fine. It is the defender of everything the modern eater has decided to be above — the trim, the slurry, the recovered stream — and it makes its case on impeccable scientific grounds to an audience that was never going to be convinced by scientific grounds. Its institutional temperament is patient, unembarrassed, and quietly aggrieved at waste, which it regards as the real scandal that squeamishness conceals.
 
 The comic engine of the Institute is direction of travel: where a reader expects an expert body to confirm that something is bad, the Institute confirms that it is good, in unwanted clinical detail, and is faintly hurt that this does not land. It is generative for stories about processed food, food waste and food security, "ingredient panic," recalls, and any situation in which the public has recoiled from a foodstuff that is, by every measurable standard, perfectly acceptable. It never condescends to the squeamish; it simply measures the squeamishness, reports that it is unfounded, and is ignored.
-
-## Articles
-
-- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — its director described the mechanically recovered poultry process and defended its nutritional legitimacy

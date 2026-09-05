@@ -29,8 +29,3 @@ The neighborhood's relationship with the rest of Seattle is one of cheerful sece
 **Function in stories:** Fremont is the neighborhood that treats its own eccentricity as normal governance. It is a place where a sixteen-foot Lenin statue and an eighteen-foot concrete troll are not curiosities but infrastructure, and where any attempt by outside authority to impose order is met with the polite bewilderment of a sovereign territory being lectured by a neighboring state about domestic affairs. Stories set in Fremont should be stories where the setting itself resists the premise — federal agents trying to conduct a serious operation in a neighborhood that has declared itself the Center of the Universe and means it.
 
 **Tone:** Aggressively whimsical but completely sincere. Fremont does not think it is quirky. It thinks everywhere else is insufficiently committed.
-
-## Articles
-
-- [Administration Directs ICE to Search Seattle's Fremont Neighborhood for Cuban Communists Believed Drawn to Lenin Statue](/2026-03-14/ice-searches-seattle-fremont-cuban-communists-lenin-statue/) — setting of ICE enforcement operation targeting the Lenin statue
-- [Seattle Man Who Pronounces the S in 'Des Moines' Told He Is 'Actively Undermining the Relationship'](/2026-03-31/seattle-man-pronounces-s-in-des-moines/) — hometown of Garrett Langford, whose pronunciation of Midwestern place names has strained his relationship

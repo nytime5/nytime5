@@ -26,9 +26,3 @@ Annual dues are $24.
 **Sore points:** The admissibility of the *Kelvin Timeline* films in internal debate. The question of whether the society should formally recognize the animated series. The longstanding, unaddressed matter of [Walter P. Stanfield](/wiki/people/walter-p-stanfield/)'s use of the phrase "Jaunty Look, Petard," which the society has, since approximately 2019, agreed not to address.
 
 **Useful for:** Stories involving amateur associations, fan communities, parliamentary procedure in informal settings, internal canon disputes, or the quiet Midwestern infrastructure of niche interest groups.
-
----
-
-## Articles
-
-- [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026-06-15/bill-would-rename-united-states-united-federation-of-planets/) — declined to endorse the renaming legislation, citing concerns about its fidelity to source material; referred the matter to its bylaws subcommittee
