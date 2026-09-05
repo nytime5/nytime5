@@ -35,3 +35,4 @@ He lives in Ann Arbor and in Washington, and is married with three children.
 ## Articles
 
 - [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026/06/15/bill-would-rename-united-states-united-federation-of-planets/) — lead sponsor of the United Federation of Planets Designation Act
+- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026/09/05/half-a-child-apiece-bisection-of-the-american-question/) — told the columnist he had never compared reasoning with his own co-sponsor, explaining that "she handles her half and I handle mine"

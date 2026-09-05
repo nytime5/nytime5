@@ -34,3 +34,4 @@ The caucus maintains no permanent staff beyond a single shared legislative aide 
 ## Articles
 
 - [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026/06/15/bill-would-rename-united-states-united-federation-of-planets/) — introduced the United Federation of Planets Designation Act
+- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026/09/05/half-a-child-apiece-bisection-of-the-american-question/) — cited as the definitive specimen of bipartisan bisection: two co-chairs, one bill, and two rationales that have never been placed side by side

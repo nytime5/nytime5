@@ -54,6 +54,7 @@ He lives in Washington, D.C., in an apartment he describes as "a library that ha
 - [The Elephant in the Elephant's Room: On the Conservative Movement's Disciplined Refusal to Discuss the Awfulness of Donald Trump](/2026/04/29/the-elephant-in-the-elephants-room/) — polemic indicting the conservative intellectual class for its collective vow of silence on Trump
 - [In Defense of Explicit Bias: On the Comprehensive and Costly Fiction That We Did Not Already Know](/2026/05/13/in-defense-of-explicit-bias/) — a prosecutorial dismantling of the implicit-bias industry, with particular attention to the [Wexler Institute for Implicit Cognition Studies](/wiki/organizations/wexler-institute-for-implicit-cognition-studies/) and its director, [Dr. Hadley Vermeer-Schultz](/wiki/people/dr-hadley-vermeer-schultz/)
 - [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026/05/22/confederacy-of-the-certain-machine-consciousness/) — a polemic against both camps of the machine-consciousness debate, indicting believers and deniers alike for the unpardonable conviction that the unknowable has been settled
+- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026/09/05/half-a-child-apiece-bisection-of-the-american-question/) — a prosecution of the American habit of halving every question, argued from the Judgment of Solomon through the Peloponnesian War to a dispute over an alley behind his building
 
 ---
 

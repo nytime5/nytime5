@@ -35,3 +35,4 @@ She lives in Houston and in Washington, and is known among colleagues for a comp
 ## Articles
 
 - [Bipartisan Caucus Sponsors Bill to Rename the United States the 'United Federation of Planets'](/2026/06/15/bill-would-rename-united-states-united-federation-of-planets/) — Republican co-chair of the Congressional Federation Caucus; spoke at the news conference introducing the Designation Act
+- [Half a Child Apiece: On the Bisection of the American Question and the Two Legislators Perfectly Content With Their Portions](/2026/09/05/half-a-child-apiece-bisection-of-the-american-question/) — declined to account for her co-chair's rationale for their shared bill, on the ground that the paperwork was "not my half of the mission profile"
