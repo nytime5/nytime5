@@ -37,3 +37,4 @@ Dr. Murch's fieldwork has taken her to Takoma Park, Md.; Berkeley, Calif.; Burli
 ## Articles
 
 - [Takoma Park Man Says His Thirteen-Year Refusal to Register to Vote Has 'Finally Started to Feel Like Activism'](/2026/04/23/takoma-park-man-not-voting-patriarchy-activism/) — quoted on "retroactive principle formation" and the architecture of rationalized nonparticipation
+- [American Men Are Not Afraid to Discuss Politics, Study Finds; Their Views Simply Will Not Fit Through the Mouth](/2026/09/05/political-views-will-not-fit-through-the-mouth/) — quoted on unspeakability in the narrow sense; produced the ninety-one-word paraphrase Gary Neuhoff now carries
