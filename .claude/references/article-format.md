@@ -25,7 +25,7 @@ Every post must include this front matter. Do not add Jekyll-specific fields lik
 ---
 title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With It"
 date: YYYY-MM-DD
-draft: true
+draft: false
 writer: "David R. Ashworth"
 tags: [congress, hardware, consumer-safety]
 image: /posts/YYYY-MM-DD/slugified-headline.jpg
@@ -42,7 +42,7 @@ column: "The Free Exchange"
 ### Field Rules
 - **title** — Full headline. Formal NYT style. Capitalize major words. Can be long.
 - **date** — ISO format. Use today's date unless specified otherwise.
-- **draft** — Always set to `true` by default. Set to `false` only when explicitly ready to publish.
+- **draft** — `false` by default: articles publish on creation (see `/write-article`). Set `true` only when the user asks to hold an article; `/publish` flips it later.
 - **writer** — Full name of the assigned staff writer. Must match a wiki entry in `wiki/people/`.
 - **column** — Column name, for opinion pieces only.
 - **tags** — 2 to 5 tags. Lowercase, hyphenated. Draw from existing tags where possible before creating new ones.

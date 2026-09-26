@@ -1,8 +1,10 @@
 ---
-description: Write a complete article from a topic prompt — assigns writer, generates image, creates wiki entries.
+description: Write and publish a complete article from a topic prompt — assigns writer, generates image, creates wiki entries, commits, and pushes.
 ---
 
-Write a complete, publish-ready article for nytime5.com. The argument is the topic prompt.
+Write a complete article for nytime5.com and publish it. The argument is the topic prompt.
+
+Publishing is the default: the article ships with `draft: false`, is committed, and is pushed. If the user asks to hold it — "draft", "don't publish", "let me review it first" — set `draft: true` and stop after step 9. `/publish` finishes the job later.
 
 ## Workflow
 
@@ -21,6 +23,14 @@ Write a complete, publish-ready article for nytime5.com. The argument is the top
 7. **Update existing wiki entries.** If the article quotes or references an existing wiki character, add the article to their "Articles" section with a link back to the post using its permalink path (`/YYYY/MM/DD/slug/`).
 
 8. **Verify against checklist.** Review the checklist in `.claude/references/article-format.md` before finishing.
+
+9. **Run the gate.** `npm run check` must pass — it builds the site with and without drafts and fails on any broken internal link. On a failure, fix the article or wiki entries and rerun. Never weaken the check, and never commit or push on red.
+
+10. **Commit.** Run `git status` and stage only what this article created or changed: the post, its image, and new or updated wiki entries. Leave unrelated working-tree changes unstaged. Use the article's headline as the commit message subject.
+
+11. **Sync.** Run `git pull --rebase`, then `git push`. The push is the deploy: Workers Builds runs `npm run deploy` on it (see `.claude/references/hugo-setup.md`). If the pull conflicts or the push is rejected, stop and report — never force-push.
+
+12. **Report.** Give the commit hash and the article URL, `https://nytime5.com/YYYY-MM-DD/slug/`. The build runs on Cloudflare after the push, so say the article was pushed, not that it is live, unless you have fetched the URL and seen it.
 
 ## Post-Article Reflection
 

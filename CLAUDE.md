@@ -10,7 +10,7 @@ The domain is **nytime5.com**. The name itself is the joke. Do not explain it.
 
 ## How to Interpret Prompts
 
-Any prompt I give you is an article topic. Invoke the `/write-article` skill to generate a complete, publish-ready post unless I explicitly ask for something else (e.g., "edit the last post", "add a tag", "fix the layout").
+Any prompt I give you is an article topic. Invoke the `/write-article` skill to write the post and publish it — `draft: false`, committed, and pushed, which deploys it — unless I explicitly ask for something else (e.g., "edit the last post", "add a tag", "fix the layout") or ask to hold it as a draft.
 
 Do not ask clarifying questions before generating. Write the article, then I will iterate if needed.
 
@@ -71,11 +71,11 @@ Detailed format specs, templates, and procedural workflows live in `.claude/refe
 - `hugo-setup.md` — Hugo framework, directory structure, HTML contract, Cloudflare notes
 
 **Skills** (`.claude/commands/`):
-- `/write-article` — full article creation workflow (invoked automatically for bare topic prompts)
+- `/write-article` — full article creation workflow through commit and push (invoked automatically for bare topic prompts)
 - `/create-wiki-entry` — create a wiki entry for a person, organization, place, or event
 - `/headshot` — generate a staff photo for a wiki person
 - `/assign-writer` — recommend a writer for a topic without writing the article
-- `/publish` — set draft to false and commit
+- `/publish` — publish a held draft: set draft to false, commit, and push
 
 ---
 
