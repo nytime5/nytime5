@@ -16,6 +16,8 @@ Paramus takes its municipal codes seriously. The borough's Department of Code En
 
 The borough's public schools are consistently ranked among the top in Bergen County. Property taxes are high. Lawns are maintained. Complaints are filed promptly and in writing.
 
+East Ridgewood Avenue, a residential street of split-level ranches, has become the borough's most closely reported block. Its residents include [Dennis P. Hagerty](/wiki/people/dennis-p-hagerty/), whose relationship with residential bidet technology has twice required medical or marital intervention, and his next-door neighbor [Phil Amato](/wiki/people/phil-amato/), a retired Department of Code Enforcement inspector whose long-running conversation with himself became, in the fall of 2025, a one-sided one.
+
 ---
 
 ## Private Profile

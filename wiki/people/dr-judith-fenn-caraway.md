@@ -14,6 +14,8 @@ Dr. Fenn-Caraway received her Ph.D. in clinical psychology from the University o
 
 She has been quoted in numerous publications on the subject of domestic communication breakdown and has testified as an expert witness in four divorce proceedings in Bergen County Superior Court, each of which she has described as "entirely preventable and completely inevitable."
 
+Since June 2026 she has treated [Phil Amato](/wiki/people/phil-amato/) of Paramus, a retired housing inspector whose decades-long practice of talking to himself has given way to ranting to himself. She has said the case falls squarely within her practice and that, lacking an appropriate intake form, she used the couples form and filled it out twice. She attributes the change to the loss of a shared project at retirement, and has described asking the quieter partner what he wanted. "He had a great deal to say," she said.
+
 Dr. Fenn-Caraway lives in Glen Rock, New Jersey, with her husband, whom she has described in interviews as "a good man who occasionally says things that have nothing to do with what we are talking about."
 
 ---

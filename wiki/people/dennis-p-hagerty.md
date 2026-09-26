@@ -18,6 +18,8 @@ Mr. Hagerty renovated his second-floor bathroom in early 2026, installing new ti
 
 He is also known for asking his wife, during a moment of domestic tension, whether she has ever stood next to a distant wall and listened to the echo of her voice, a question she did not answer.
 
+His next-door neighbor is [Phil Amato](/wiki/people/phil-amato/), a retired Paramus housing inspector whose habit of talking to himself Mr. Hagerty has overheard through the kitchen window for more than a decade. Asked in September 2026 to describe its recent change in character, he said it used to sound "like two guys working on a car," and now sounds like "one guy, and there's no car." He then asked the reporter whether he had ever heard an echo that did not wait for him to finish talking.
+
 ---
 
 ## Private Profile

@@ -16,6 +16,8 @@ His early work concerned ordinary speech disfluency. It was redirected in 2011, 
 
 He is the author of *The Ordering Problem* (MIT Press, 2019) and a co-author of *Fidelity Loss in Spoken Belief* (2023). He does not accept invitations to appear on live radio.
 
+Dr. Kolbeck regards self-directed speech as the one standing exception to the center's findings — the only channel in which the listener already holds the speaker's entire position and cannot be given the wrong first clause. Asked in September 2026 about a Paramus, N.J., man whose self-talk had become a series of rants, he described the conversation a man has with himself as "the only conversation in the country that worked," and the rant as "what speech does once it has run out of people who haven't already heard it."
+
 Dr. Kolbeck lives in Ann Arbor.
 
 ---

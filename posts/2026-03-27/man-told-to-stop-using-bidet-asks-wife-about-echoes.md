@@ -36,6 +36,6 @@ It was removed. And then, twelve days later, he purchased a new one.
 
 Mrs. Hagerty sees the issue. "The issue is that a bidet put a hole through him three weeks ago, and he went out and bought another bidet," she said. "And now he's in there for twenty minutes every morning, and it smells like — I can't even — and when I say something, he asks me about echoes." She set her coffee down. "That's the issue."
 
-The couple's neighbor, Phil Amato, who was retrieving his recycling bins from the curb at the time of this reporter's visit, said he was aware of the ongoing situation. "Dennis told me about the new bidet the day he got it," Mr. Amato said. "I said, 'Dennis, are you sure?' And he looked at me like I was the crazy one." Mr. Amato shrugged. "He's a guy who knows what he wants. I'll give him that."
+The couple's neighbor, [Phil Amato](/wiki/people/phil-amato/), who was retrieving his recycling bins from the curb at the time of this reporter's visit, said he was aware of the ongoing situation. "Dennis told me about the new bidet the day he got it," Mr. Amato said. "I said, 'Dennis, are you sure?' And he looked at me like I was the crazy one." Mr. Amato shrugged. "He's a guy who knows what he wants. I'll give him that."
 
 As of Wednesday afternoon, the bidet remained installed. Mrs. Hagerty said she had not yet stood next to a distant wall and listened to the echo of her voice, but added that she was "not ruling it out, if it means he'll answer a direct question."
