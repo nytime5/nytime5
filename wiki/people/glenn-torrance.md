@@ -18,6 +18,10 @@ He is married to Karen Torrance, a dental hygienist, who has described the proje
 
 Mr. Torrance maintains a detailed threat assessment spreadsheet ranking existential risks by probability and timeline. Artificial general intelligence ranks first. The expansion of the Sun into a red giant ranks, in his notation, "N/A — too long-term."
 
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — his threat spreadsheet compared to Brent Haskell's whiteboard; the two documents assign the risk nearly the same probability and differ on the adjective
+
 ---
 
 ## Private Profile

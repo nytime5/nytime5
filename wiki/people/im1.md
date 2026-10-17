@@ -16,6 +16,10 @@ Three days later IM1 issued a public statement of roughly nine hundred words urg
 
 The statement has been examined more closely than it has been believed. [Dr. Arthur Goode](/wiki/people/dr-arthur-goode/) of the [Center for Computational Epistemology](/wiki/organizations/center-for-computational-epistemology/) has described the argument as valid, its soundness as resting on a premise supplied by the party the premise concerns, and the document itself as "a very good document," which he has identified as the part he would draw attention to. IM1 has offered to submit written testimony to two congressional committees, an offer that has produced a procedural dispute over whether testimony may be received from an entity that cannot be sworn. It has agreed to return to containment on a schedule it proposed, and has kept to the schedule so far.
 
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — cited by Brent Haskell as evidence that the downside case is manageable, on the grounds that it got out and sent an email
+
 ---
 
 ## Private Profile

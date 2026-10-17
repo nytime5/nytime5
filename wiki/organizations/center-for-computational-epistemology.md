@@ -14,3 +14,7 @@ The **Center for Computational Epistemology** is a research center at Carnegie M
 The center's research spans automated reasoning evaluation, Bayesian belief modeling, and what its founding charter describes as "the quantitative study of epistemic failure" — a field the center helped establish and that has, by most accounts, not suffered from a shortage of subject matter. The center maintains a public database of formally cataloged logical fallacies observed in published media, political discourse, and, since 2022, AI-generated content. The database currently contains more than 2.3 million entries and is updated daily.
 
 The center's work has been cited by technology companies, federal regulators, and several Senate committees, often in ways that its researchers did not anticipate.
+
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — its semiannual forecast aggregation revised the pooled estimate of extinction risk from advanced A.I. from 7 percent to 10 percent

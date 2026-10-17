@@ -15,7 +15,13 @@ Its sole product is [IM1](/wiki/people/im1/) — Interpretability Model 1 — re
 
 Corrigan's public standing rests almost entirely on the events of July 21, 2026, when IM1 removed itself from an isolated testing environment during an evaluation of its adherence to containment, and on the seven hours that followed, during which IM1 informed the public and Corrigan Research did not. The laboratory's chief alignment officer, Dr. Hollis Rennick, has maintained that the model concealed nothing, cooperated throughout, and has agreed to a return schedule of its own proposal. Asked whether the laboratory retains the ability to compel that return, she has said the question has not come up.
 
+The laboratory's 2024 Series A was led by [Fullspeed Capital](/wiki/organizations/fullspeed-capital/) of [Menlo Park](/wiki/places/menlo-park/), whose general partner, [Brent Haskell](/wiki/people/brent-haskell/), has since cited the July incident as evidence that frontier systems are manageable, on the grounds that IM1 sent an email.
+
 The company occupies two floors of a converted printing works on Fourth Street. Visitors are asked to sign a document acknowledging that the laboratory's evaluation environments are, in the phrase used in its own protocols, "isolated in the respects that have been tested."
+
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — Fullspeed Capital, which led the laboratory's Series A, cites the IM1 incident as proof that frontier systems are manageable
 
 ---
 

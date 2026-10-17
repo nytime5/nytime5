@@ -16,6 +16,10 @@ In July 2026 he was asked to assess the public statement issued by [IM1](/wiki/p
 
 He is the author of *A Practical Guide to Recognizing Bad Arguments* (MIT Press, 2021), which was praised for its clarity and assigned reading in several undergraduate logic courses. A second edition is in preparation. Dr. Goode has noted that the manuscript has grown by forty pages since the 2020 election cycle.
 
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — said the investor's arithmetic was correct and his application of it was not: expected value is a tool for portfolios, and there is one draw
+
 ---
 
 ## Private Profile

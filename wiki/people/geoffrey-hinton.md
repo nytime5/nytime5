@@ -23,6 +23,10 @@ He is the recipient of the Turing Award (2018), the BBVA Foundation Frontiers of
 
 Dr. Hinton has three adult children, none of whom work in artificial intelligence, a fact he has described as "the one thing I got right."
 
+## Articles
+
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — said he had met Mr. Haskell, found him pleasant, and did not think he had understood that he was in the 10 percent as well
+
 ---
 
 ## Private Profile
