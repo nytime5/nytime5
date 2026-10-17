@@ -14,6 +14,11 @@ Mr. Frisch was born in Columbus, Ohio, and attended Ohio State University, where
 
 He has described himself as "one of the last people in this building who still believes the Constitution is a load-bearing document rather than a suggestion."
 
+## Articles
+
+- [Congress Debates Splitting Blue and Red America Into Two Nations: Trans America and Cis America](/2026-03-21/congress-debates-splitting-america-into-trans-america-and-cis-america/) — described the National Dissolution and Bilateral Sovereignty Act as "constitutionally unserious"
+- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — through a spokesman, declined to regard the reverse side of a boarding pass as an instrument of federal rulemaking
+
 ---
 
 ## Private Profile
