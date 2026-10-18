@@ -18,9 +18,12 @@ The [Institute for Occupational Cognitive Health](/wiki/organizations/institute-
 
 Critics, principally hospital administrators and the manufacturers of decision-support systems, note that the practice extends procedure times substantially; that the "unassisted" reasoner brings to the task decades of training that were, at the time, other people's thinking; and that the checklist was introduced for reasons that have not changed. Practitioners generally concede all three points and regard none of them as responsive.
 
+The practice has a precedent in theoretical physics, where working alone at a desk without reference to results one has not obtained oneself was the field's ordinary method until about 1930. [Dr. Rolf Ekelund](/wiki/people/dr-rolf-ekelund/), a professor at the California Institute of Technology, has observed the practice's constraints in full since 2019 and has concluded that every problem in physics that satisfies them has already been solved. He is the movement's elegist, as Dr. Lindqvist is its exponent.
+
 ## Articles
 
 - [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — the practice's first appearance in an operating room on the record
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — the practice in theoretical physics, where its constraints have exhausted the available problems
 
 ---
 

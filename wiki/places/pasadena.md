@@ -18,6 +18,10 @@ The city takes its institutions personally. Caltech's undergraduate prank tradit
 
 The signature local complaint concerns the 210 freeway, which residents regard less as infrastructure than as a shared condition. It is where the city does its thinking. More than one published result is understood locally to have been obtained between the Lake Avenue and Hill Avenue exits.
 
+## Articles
+
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — Dr. Rolf Ekelund's ledger of every problem solvable at a desk, which ends in 1930
+
 ---
 
 ## Private Profile

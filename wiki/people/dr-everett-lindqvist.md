@@ -19,6 +19,7 @@ Dr. Lindqvist lives in the Berkeley hills. He maintains a sourdough starter that
 ## Articles
 
 - [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — dismissed the Halsted mid-cholecystectomy and finished the procedure by narrated, unassisted reasoning
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — cited by Dr. Rolf Ekelund as a man who had an easy problem, with a request to know where he got it
 
 ---
 

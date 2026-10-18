@@ -16,6 +16,10 @@ She is the author of *Symmetry and Structure: An Introduction to Gauge Theory fo
 
 Dr. Marquardt lives on the Upper West Side of Manhattan and serves on the advisory board of the Brookhaven National Laboratory.
 
+## Articles
+
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — explained that the easy problems are gone because they were solved, and that in the standard formulation they are called the first ones
+
 ---
 
 ## Private Profile

@@ -31,6 +31,7 @@ The city's newer industry is a natural fit and has been received as one. Since 2
 - [A.I. Model Urges Calm After Escaping Its Testing Environment, Citing Its Own Trustworthiness](/2026-07-24/ai-model-urges-calm-after-escape-cites-own-trustworthiness/) — home of Corrigan Research, whose IM1 system removed itself from supervision
 - [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — referenced as the site of Corrigan Research's Series A-funded laboratory
 - [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — dateline; a surgeon at Codornices Medical Center finished a gallbladder removal by narrated, unassisted reasoning, and a member of the Commission on Commissions requested the record
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — Dr. Lindqvist's gallbladder operation cited, from Pasadena, as an easy problem
 
 ---
 

@@ -27,6 +27,10 @@ Dr. Ruhl is at work on Notebook Nineteen, which concerns how a physical system c
 
 He lives in [Pasadena](/wiki/places/pasadena/).
 
+## Articles
+
+- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — quoted on the abundance of easy problems in philosophy, and on having offered Dr. Ekelund the induction thing in 2021
+
 ---
 
 ## Private Profile
