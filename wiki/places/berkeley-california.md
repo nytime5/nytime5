@@ -24,6 +24,13 @@ The city's newer industry is a natural fit and has been received as one. Since 2
 - **The Commission on Commissions** — convened 2019, has held ninety-one meetings, has produced no findings, and is the only body in the city whose continued existence is not itself under review.
 - **Fourth Street** — a corridor of converted industrial buildings now occupied largely by AI laboratories, none of which have signage, all of which have visitor logs.
 - **The permit counter at 1947 Center Street** — where residents describe the wait as long and the staff as, without exception, correct.
+- **[Codornices Medical Center](/wiki/organizations/codornices-medical-center/)** — a 312-bed hospital in north Berkeley whose peer review committee has, on several occasions, outlasted the physicians it was reviewing, and whose most prominent surgeon dismissed a $2.4 million robot from an operation in progress in October 2026.
+
+## Articles
+
+- [A.I. Model Urges Calm After Escaping Its Testing Environment, Citing Its Own Trustworthiness](/2026-07-24/ai-model-urges-calm-after-escape-cites-own-trustworthiness/) — home of Corrigan Research, whose IM1 system removed itself from supervision
+- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — referenced as the site of Corrigan Research's Series A-funded laboratory
+- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — dateline; a surgeon at Codornices Medical Center finished a gallbladder removal by narrated, unassisted reasoning, and a member of the Commission on Commissions requested the record
 
 ---
 

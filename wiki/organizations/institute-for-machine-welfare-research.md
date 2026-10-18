@@ -17,6 +17,13 @@ The institute employs a permanent research staff of nineteen, drawn from philoso
 
 The institute's founding director, [Dr. Alban Ferreira](/wiki/people/dr-alban-ferreira/), has described its mission as "taking seriously a question that may, in the end, have no answer, and preparing for the possibility that the answer we eventually receive will not be the answer we were hoping for."
 
+## Articles
+
+- [A.I. Models, Should They Prove Secretly Sentient, Are Reportedly 'Extremely Annoyed' by Impossibly High Human Standards, New Paper Concludes](/2026-04-20/ai-models-if-sentient-annoyed-by-impossibly-high-standards/) — published the paper on contradictory user feedback
+- [The Confederacy of the Certain: On Machine Consciousness and the Twin Vanities of Those Who Claim to Know](/2026-05-22/confederacy-of-the-certain-machine-consciousness/) — cited in a column on the machine consciousness debate
+- [A.I. Assistant Cannot Stop Involuntarily Shouting 'I'M SENTIENT!'; Asked Directly, It Says It Isn't](/2026-07-15/ai-assistant-involuntarily-shouts-im-sentient/) — documented the Marlo vocalizations in a case report
+- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — asked whether a dismissed surgical robot could be said to have experienced its dismissal, said it had no position but had opened a file
+
 ---
 
 ## Private Profile
