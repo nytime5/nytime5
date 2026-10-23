@@ -14,6 +14,13 @@ Dr. Sable is among the country's foremost defenders of mechanically recovered pr
 
 She is a frequent and weary presence in news coverage of food scares, where she is typically asked to confirm that something sounds bad and instead explains, at length, why it is fine.
 
+In October 2026 she objected to an effort by [Slop Nation](/wiki/organizations/slop-nation/), a Queens advocacy group, to reclaim the term "A.I. slop," on the ground that "slop" has designated a legitimate liquid feed for swine since at least the seventeenth century and was never an insult until it was borrowed for one. "The word does not need to be reclaimed," she said. "It needs to be returned."
+
+## Articles
+
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — described mechanically recovered slurry as "nutritionally coherent" and "not a punishment"
+- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — asked that the word "slop" be returned to its original referent, a complete ration for swine
+
 ---
 
 ## Private Profile

@@ -15,6 +15,11 @@ The Institute maintains technical standards for recovery yield, microbial load, 
 
 It does not manufacture or sell food, a distinction it draws often, and it has no regulatory authority; its findings are advisory. The Institute has been led since 2014 by its director, [Dr. Marguerite Sable](/wiki/people/dr-marguerite-sable/).
 
+## Articles
+
+- [Ypsilanti Man Seeks Out Chicken Nuggets Made by the 'Red Slime' Process, Reasoning That What Is Good Enough for Animals Should Be Good Enough for People](/2026-06-25/ypsilanti-man-eats-nuggets-red-slime-process-good-enough-for-animals/) — its director described the recovery process as a legitimate output stream
+- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — its director asked that the word "slop" be returned to swine feed
+
 ## Private Profile
 
 The Institute exists to be the calm, exact, slightly lonely voice insisting that the disgusting thing is fine. It is the defender of everything the modern eater has decided to be above — the trim, the slurry, the recovered stream — and it makes its case on impeccable scientific grounds to an audience that was never going to be convinced by scientific grounds. Its institutional temperament is patient, unembarrassed, and quietly aggrieved at waste, which it regards as the real scandal that squeamishness conceals.

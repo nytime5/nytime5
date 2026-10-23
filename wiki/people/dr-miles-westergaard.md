@@ -14,6 +14,11 @@ Dr. Westergaard received his Ph.D. from the University of Edinburgh and has publ
 
 He lives in Ann Arbor, Michigan.
 
+## Articles
+
+- [Ypsilanti Man Exclaims 'Jaunty Look, Petard!' Whenever an Argument Contradicts Itself, Convinced the Phrase Is a Star Trek Reference Anyone with Taste Would Recognize](/2026-04-23/ypsilanti-man-jaunty-look-petard/) — called Walter P. Stanfield's mondegreen "nearly perfect"
+- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — said reclamation was possible in principle, but that every successful case he knew of involved a word applied to people rather than to output
+
 ---
 
 ## Private Profile
