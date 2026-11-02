@@ -30,8 +30,12 @@ Political disagreements in Takoma Park tend to concern method rather than direct
 
 The city's relationship with Washington, D.C., immediately to its south, is cordial and slightly distant. Takoma Park residents tend to speak of the District the way small European countries speak of larger ones next door — appreciatively, a little warily, and with the awareness that most of the weather comes from that direction.
 
+The municipal building at 7500 Maple Avenue carries two names, joined by a dash: the Takoma Park Community Center – Sam Abbott Citizens' Center, the second of which the city gave it in 1991 and the first of which came with its expansion into a community center between 2003 and 2007. Residents tend to use one name or the other, and the question of which has not been brought to consensus. The Montgomery County chapter of the [National Council of the Easily Annoyed](/wiki/organizations/national-council-of-the-easily-annoyed/) meets in the building's Lilac Room on the second Tuesday of each month.
+
 ---
 
 ## Notable Residents
 
 - [Brendan Vossmeier](/wiki/people/brendan-vossmeier/), 34, a writer and self-described organizer whose thirteen-year failure to register to vote has, in his own account, become a sustained act of anti-patriarchal resistance.
+- [Kenneth Ebersole](/wiki/people/kenneth-ebersole/), 64, a retired title examiner on Tulip Avenue whose 2026 objection to the word "community" was admitted by the [National Council of the Easily Annoyed](/wiki/organizations/national-council-of-the-easily-annoyed/) as a reservation and then treated as grounds to renew his membership through 2028.
+- [Evelyn Garvey](/wiki/people/evelyn-garvey/), 71, who has chaired the council's Montgomery County chapter since 2012, lives four doors from Mr. Ebersole and considers his annoyance at the word perfectly normal.
