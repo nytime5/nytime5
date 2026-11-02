@@ -10,3 +10,6 @@ node_modules/
 .env*
 !.env.example
 .check/
+
+# Scratch space for in-progress work, one subfolder per task
+work/
