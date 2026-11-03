@@ -24,11 +24,11 @@ Since then, Dr. Prask has maintained what he describes as a "log" — and what h
 
 "Eleven people is so finite it barely registers as a quantity worth naming," Dr. Prask said. He paused, then added: "I love my daughter. But she should know better. She took AP Calculus."
 
-Dr. Prask's colleagues in the University of Chicago's mathematics department offered what might charitably be described as mixed support. Dr. Janet Okonkwo, a professor of applied mathematics, said she agreed that the colloquial use of "infinite" was imprecise but questioned whether it warranted "the amount of emotional energy Leonard has invested."
+Dr. Prask's colleagues in the University of Chicago's mathematics department offered what might charitably be described as mixed support. [Dr. Janet Okonkwo](/wiki/people/dr-janet-okonkwo/), a professor of applied mathematics, said she agreed that the colloquial use of "infinite" was imprecise but questioned whether it warranted "the amount of emotional energy Leonard has invested."
 
 "He brought it up at a faculty meeting," Dr. Okonkwo said. "He wanted the department to issue a statement. We were there to discuss the photocopier budget."
 
-Dr. Prask has also drawn attention from linguists, who have been less sympathetic. Dr. Miles Westergaard, a professor of linguistics at the University of Michigan, said that the word "infinite" has functioned as a hyperbolic intensifier in English for at least four centuries and that Dr. Prask's objection, while understandable, reflects "a fundamental misunderstanding of how language works."
+Dr. Prask has also drawn attention from linguists, who have been less sympathetic. [Dr. Miles Westergaard](/wiki/people/dr-miles-westergaard/), a professor of linguistics at the University of Michigan, said that the word "infinite" has functioned as a hyperbolic intensifier in English for at least four centuries and that Dr. Prask's objection, while understandable, reflects "a fundamental misunderstanding of how language works."
 
 "Words mean what people use them to mean," Dr. Westergaard said. "If I say I have 'infinite patience,' I am not claiming to possess a transfinite cardinal quantity of patience. I am saying I have a lot of patience. Everyone understands this."
 

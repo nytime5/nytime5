@@ -17,10 +17,6 @@ Fullspeed's limited partners include university endowments, two sovereign wealth
 
 The firm was co-founded by Mr. Haskell and two partners who have since departed, one to run a laboratory in which Fullspeed holds a position. It employs nineteen people and occupies a single-story building with floor-to-ceiling glass on the eastern side of Sand Hill Road, looking out on the oak-covered hills, which the partners cite as the reason they chose the site, and on the road itself, which they do not.
 
-## Articles
-
-- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — the firm's frontier-laboratory position, its 10 percent haircut, and its general partner's view of both
-
 ---
 
 ## Private Profile

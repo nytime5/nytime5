@@ -12,10 +12,6 @@ first-appearance: 2026-10-17
 
 Ms. Oyelaran, 27, received her bachelor's degree in physics from the University of Illinois Urbana-Champaign in 2021 and was admitted to Caltech on the strength of a senior thesis in computational condensed-matter physics, which she wrote on a computer. In the interval since, she has been running numerical simulations of a spin glass at night, on a laptop, in her car, in a parking structure on Wilson Avenue, with the dome light off. "I'm running Monte Carlo in a Honda," she has said. "It's not what I pictured." Dr. Ekelund does not know. He would know, she notes, if he had email.
 
-## Articles
-
-- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — Dr. Ekelund's sole graduate student, without a thesis problem, doing numerics in her car
-
 ---
 
 ## Private Profile

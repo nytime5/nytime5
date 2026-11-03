@@ -20,13 +20,13 @@ Publishing is the default: the article ships with `draft: false`, is committed, 
 
 6. **Create wiki entries.** For every new fictional person, organization, place, or institution introduced in the article, create a wiki entry immediately. Use `/create-wiki-entry` or read `.claude/references/wiki-entry-format.md` for the format. Link to each new entry from the article.
 
-7. **Update existing wiki entries.** If the article quotes or references an existing wiki character, add the article to their "Articles" section with a link back to the post using its permalink path (`/YYYY/MM/DD/slug/`).
+7. **Update existing wiki entries.** If the article changes what is known about an existing wiki entity (a new position, a new resident, a development in a running story), add that to the entry. Do not add the article to an "Articles" section. Each entry's list of articles is built at render time from the links in article bodies (see `.claude/references/cross-linking.md`), so the article appears on every entry it links once it is published. A hand-written list renders a second Articles heading.
 
 8. **Verify against checklist.** Review the checklist in `.claude/references/article-format.md` before finishing.
 
 9. **Run the gate.** `npm run check` must pass — it builds the site with and without drafts and fails on any broken internal link. On a failure, fix the article or wiki entries and rerun. Never weaken the check, and never commit or push on red.
 
-10. **Commit.** Run `git status` and stage only what this article created or changed: the post, its image, and new or updated wiki entries. Leave unrelated working-tree changes unstaged. Use the article's headline as the commit message subject.
+10. **Commit.** Run `git status` and stage only what this article created or changed: the post, its image, new or updated wiki entries, and any earlier posts you linked to a new entry. Leave unrelated working-tree changes unstaged. Use the article's headline as the commit message subject.
 
 11. **Sync.** Run `git pull --rebase`, then `git push`. The push is the deploy: Workers Builds runs `npm run deploy` on it (see `.claude/references/hugo-setup.md`). If the pull conflicts or the push is rejected, stop and report — never force-push.
 

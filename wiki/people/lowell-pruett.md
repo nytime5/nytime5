@@ -18,10 +18,6 @@ In August 2026 Mr. Pruett incorporated Slop Nation in New York State. In October
 
 He lives on 47th Street in Sunnyside with a cat whose portrait he has generated, by his estimate, forty thousand times.
 
-## Articles
-
-- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — founded Slop Nation and sought a permit for the Queens SlopWalk
-
 ---
 
 ## Private Profile

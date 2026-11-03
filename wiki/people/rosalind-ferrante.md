@@ -16,10 +16,6 @@ Her committee meets on the third Tuesday of every month in a public school cafet
 
 In October 2026 she presided over the committee's review of the Queens SlopWalk, a march proposed by [Lowell Pruett](/wiki/people/lowell-pruett/) of [Slop Nation](/wiki/organizations/slop-nation/), and stated the limits of the committee's jurisdiction in a form since quoted in the borough press: "We do not rule on the meaning of words. We rule on whether a bus can get through."
 
-## Articles
-
-- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — tabled the Queens SlopWalk permit pending a revised sanitation plan
-
 ---
 
 ## Private Profile

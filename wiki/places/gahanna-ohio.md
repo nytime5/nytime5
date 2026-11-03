@@ -25,10 +25,6 @@ Gahanna's Creekside district, a redevelopment along Big Walnut Creek completed i
 - **The Airport Liaison Committee** — convened monthly since 1991; recommendations received, forty-three consecutive times.
 - **The approach** — the line in the sky along which the city's aircraft arrive, known locally by flight number rather than airline, and used as a clock.
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — home of the proposal's author
-
 ---
 
 ## Private Profile

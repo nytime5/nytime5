@@ -23,10 +23,6 @@ Secondary design questions on which he has said he is still working include whet
 - "I'm not saying it's perfect. I'm just saying it's better than whatever the hell we're doing now."
 - "Obviously not a liquid." — on mayonnaise, to a transportation security officer, over eleven minutes
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — subject; described the proposal at Gate B22
-
 ---
 
 ## Private Profile

@@ -18,11 +18,6 @@ The institute's 2026 survey of theoretical physicists, which Dr. Krause has desc
 
 Dr. Krause testifies regularly before congressional subcommittees on workforce matters and is generally the last witness called, a scheduling decision he has described as "the committee's prerogative and, in its way, a finding."
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — characterized thinking as "the oldest tool we have," eventually improved upon by a committee
-- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — described physicists working alone as the institute's control group since 1687, and placed Dr. Ekelund in, and as, the 3 percent
-
 ---
 
 ## Private Profile

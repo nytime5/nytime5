@@ -32,7 +32,3 @@ Sunnyside has a long and proud history of hosting the city's newer arrivals, and
 
 - [Lowell Pruett](/wiki/people/lowell-pruett/), founder of [Slop Nation](/wiki/organizations/slop-nation/), who in October 2026 sought a permit to march along Skillman Avenue in defense of the term "A.I. slop."
 - [Rosalind Ferrante](/wiki/people/rosalind-ferrante/), chair of the Transportation Committee of Queens Community Board 2 since 2017, who tabled the application.
-
-## Articles
-
-- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — site of the proposed Queens SlopWalk

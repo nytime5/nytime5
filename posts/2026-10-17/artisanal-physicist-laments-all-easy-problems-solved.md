@@ -10,7 +10,7 @@ excerpt: "“A gallbladder is an easy problem,” Dr. Ekelund said of a Berkeley
 
 ![Dr. Rolf Ekelund in his office at the California Institute of Technology in Pasadena on Wednesday, with the ledger in which he has recorded every problem in physics he considers to have been solvable by one person at a desk. The final entry is dated 1930. Credit: Marguerite Sallander/The New York Time5](artisanal-physicist-laments-all-easy-problems-solved.jpg)
 
-PASADENA, Calif. — At 6:40 on Wednesday morning, [Dr. Rolf Ekelund](/wiki/people/dr-rolf-ekelund/) sat down at the desk in his office at the California Institute of Technology, sharpened a pencil with a pocketknife, and solved the hydrogen atom.
+[PASADENA](/wiki/places/pasadena/), Calif. — At 6:40 on Wednesday morning, [Dr. Rolf Ekelund](/wiki/people/dr-rolf-ekelund/) sat down at the desk in his office at the California Institute of Technology, sharpened a pencil with a pocketknife, and solved the hydrogen atom.
 
 It took him fifty minutes. He wrote the energy levels at the bottom of the page, checked them against nothing, signed and dated the sheet, and placed it in a drawer with the 211 others. He has solved the hydrogen atom, by his count, 212 times since 2019, a practice he describes as "keeping the hands in." Then he did what he has done every morning for seven years, which is to open a green clothbound ledger to its last written page and look for something else to solve. There was nothing there. There has been nothing there since 1930.
 

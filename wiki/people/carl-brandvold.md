@@ -19,10 +19,6 @@ He first appeared in *The New York Time5* in October 2026, in connection with a 
 - "The agency has not received a proposal from Mr. Henderson and does not comment on proposals it has not received."
 - "T.S.A. does not discuss the specifics of screening procedures, the existence of which it can confirm."
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — issued the agency's statement
-
 ---
 
 ## Private Profile

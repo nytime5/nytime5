@@ -18,10 +18,6 @@ He solves the hydrogen atom most mornings, "to keep the hands in," and had done 
 
 The most recent line in the ledger, undated and in pencil, is a problem he has set for himself: to determine, from first principles and by hand, whether any easy problem remains. He expects it to take several years.
 
-## Articles
-
-- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — subject; the ledger, the 212 hydrogen atoms and the lament
-
 ---
 
 ## Private Profile

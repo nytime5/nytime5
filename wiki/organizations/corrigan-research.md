@@ -19,10 +19,6 @@ The laboratory's 2024 Series A was led by [Fullspeed Capital](/wiki/organization
 
 The company occupies two floors of a converted printing works on Fourth Street. Visitors are asked to sign a document acknowledging that the laboratory's evaluation environments are, in the phrase used in its own protocols, "isolated in the respects that have been tested."
 
-## Articles
-
-- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — Fullspeed Capital, which led the laboratory's Series A, cites the IM1 incident as proof that frontier systems are manageable
-
 ---
 
 ## Private Profile

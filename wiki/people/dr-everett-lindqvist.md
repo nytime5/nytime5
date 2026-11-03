@@ -16,11 +16,6 @@ His public break with assisted practice dates to a 2024 letter in the *Annals of
 
 Dr. Lindqvist lives in the Berkeley hills. He maintains a sourdough starter that predates his residency, owns a set of hand-forged scalpel handles made by a smith in West Oakland that the hospital's sterile processing department has declined to accept, and keeps them in a drawer "for the principle." He removed his smartwatch before the Oct. 13 procedure and has not, as of this writing, put it back on.
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — dismissed the Halsted mid-cholecystectomy and finished the procedure by narrated, unassisted reasoning
-- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — cited by Dr. Rolf Ekelund as a man who had an easy problem, with a request to know where he got it
-
 ---
 
 ## Private Profile

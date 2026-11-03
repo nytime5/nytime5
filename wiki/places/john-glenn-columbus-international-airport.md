@@ -16,10 +16,6 @@ It was at Gate B22 of Concourse B that Mr. Henderson, on October 13, 2026, descr
 
 The airport authority has for several years pursued a nonstop route to Europe, an effort it describes as "advanced" and which has produced a succession of announcements, each received in Gahanna with the practiced calm of a population that has already heard the aircraft.
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — setting; Gate B22 and the Concourse B checkpoint
-
 ---
 
 ## Private Profile

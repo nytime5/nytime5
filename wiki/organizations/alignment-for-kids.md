@@ -17,10 +17,6 @@ The program's materials do not state what the etiquette is for. Its founders hav
 
 The waiting list for the winter session closed in September.
 
-## Articles
-
-- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — the Haskell family's enrollment described as "risk mitigation"; waiting list reported to have tripled since the IM1 incident
-
 ---
 
 ## Private Profile

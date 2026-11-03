@@ -8,7 +8,7 @@ Create a wiki entry for the specified entity. The argument is the entity name an
 
 1. **Read references.** Read `.claude/references/wiki-entry-format.md` for front matter structure, required sections, and type-specific fields. Read `.claude/references/cross-linking.md` for linking rules.
 
-2. **Check for duplicates.** Search `wiki/` to confirm this entity doesn't already exist under a different name or slug.
+2. **Check for duplicates.** Search `wiki/` to confirm this entity doesn't already exist under a different name or slug. Then search `posts/` for the name: once the entry exists, link the first mention in each published post that already names the entity, or those posts stay off its page (see `.claude/references/cross-linking.md`).
 
 3. **Determine type and subtype.** Infer from context or ask the user:
    - `person` — expert, official, bystander, beat-reporter, opinion-columnist
@@ -28,7 +28,7 @@ Create a wiki entry for the specified entity. The argument is the entity name an
    - **Front matter** with all required and type-specific fields.
    - **Public Biography / Public Profile** — deadpan, encyclopedic, entertaining standalone. Specific details: fake credentials, publications, career histories, notable statements.
    - **Private Profile** — behavioral and personality notes for generation. Written well enough to eventually publish as "behind the scenes" content.
-   - **Articles section** — list any articles that reference this entity, with permalink links.
+   - **No Articles section.** The page lists every published article that links to it, generated at render time (see `.claude/references/cross-linking.md`). A hand-written list renders a second Articles heading.
 
 6. **Cross-link.** Link to related wiki entries (people → their organizations, organizations → their directors, etc.) on first mention per section.
 

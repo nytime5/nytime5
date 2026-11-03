@@ -17,10 +17,6 @@ Slop Nation reports a membership of approximately forty people and approximately
 
 Its first planned public event, the Queens SlopWalk, would close one lane of Skillman Avenue between 43rd and 50th Streets for three hours on a Saturday. The organization's permit application, filed with the city's Street Activity Permit Office on Sept. 30, 2026, lists 1,100 placards under the heading "signage." It was tabled in October 2026 by the Transportation Committee of Queens Community Board 2, chaired by [Rosalind Ferrante](/wiki/people/rosalind-ferrante/), pending a revised sanitation plan.
 
-## Articles
-
-- [Queens Man Launches Movement to Reclaim 'A.I. Slop' as a Term of Pride, Pending Community Board Approval](/2026-10-23/queens-man-movement-reclaim-ai-slop-pending-community-board/) — applied for a permit for the Queens SlopWalk
-
 ---
 
 ## Private Profile

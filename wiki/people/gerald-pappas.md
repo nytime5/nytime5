@@ -12,10 +12,6 @@ first-appearance: 2026-10-17
 
 On Oct. 13, 2026, Mr. Pappas underwent a laparoscopic cholecystectomy at [Codornices Medical Center](/wiki/organizations/codornices-medical-center/), during which the operating surgeon, [Dr. Everett Lindqvist](/wiki/people/dr-everett-lindqvist/), dismissed the hospital's robotic surgical system forty-seven minutes in and completed the procedure by unassisted reasoning. Mr. Pappas, who was under general anesthesia, was informed the next morning. He recovered without complication and was discharged the following day with an incision somewhat longer than the one in the brochure, which his surgeon told him had character.
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — the patient; asked, on being told his gallbladder was removed by hand, "as opposed to what?"
-
 ---
 
 ## Private Profile

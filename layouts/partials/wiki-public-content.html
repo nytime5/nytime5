@@ -2,10 +2,11 @@
   Public body of a wiki entry: everything except the Private Profile section.
 
   Private Profile is the generation-side character sheet and must never ship.
-  Every other section must -- including Articles, which follows it in the file.
-  Truncating at the Private Profile heading (the earlier approach) silently
-  dropped the back-links from every person page, so remove only that one
-  section: from its heading up to the next <h2>.
+  Every other section must ship, including any placed after it (## Leadership
+  in center-for-discursive-throughput.md). Truncating at the Private Profile
+  heading (the earlier approach) silently dropped such sections, so remove
+  only that one section: from its heading up to the next <h2>. The Articles
+  list is not in the markdown; wiki-articles.html renders it after this.
 */ -}}
 {{- $parts := split .Content "<h2 id=\"private-profile\">" -}}
 {{- $out := index $parts 0 -}}

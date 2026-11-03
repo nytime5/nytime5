@@ -101,4 +101,4 @@ A post is ready to commit when:
 - [ ] Excerpt functions as a standalone deadpan sentence
 - [ ] First mention of every wiki-entry person/org/place is hyperlinked in the article body
 - [ ] Wiki entries created for all new fictional people, organizations, and institutions
-- [ ] Existing wiki entries updated with back-links to this article
+- [ ] Existing wiki entries updated with anything new the article establishes (back-links come from the body links above; no hand-written Articles sections)

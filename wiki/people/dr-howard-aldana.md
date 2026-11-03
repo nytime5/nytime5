@@ -12,10 +12,6 @@ first-appearance: 2026-10-17
 
 Dr. Aldana is responsible for the hospital's peer review process, which is widely regarded as the most thorough in the East Bay and which has, in several documented cases, outlasted the privileges of the physicians under review. Following the October 2026 dismissal of a robotic surgical system from a procedure in progress by [Dr. Everett Lindqvist](/wiki/people/dr-everett-lindqvist/), Dr. Aldana convened a review that had, after two meetings, not yet reached the portion of the record in which the robot is dismissed. He noted that the committee's own guidelines call for it to proceed deliberately, and that the committee had elected, after some discussion, to follow them.
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — said the review of Dr. Lindqvist would be "thorough"
-
 ---
 
 ## Private Profile

@@ -18,10 +18,6 @@ Mr. Haskell maintains a whiteboard in his office headed "Acceptable Probabilitie
 
 He lives in Menlo Park with his wife, Meredith Haskell, a former product counsel who sits on the parents' advisory board of [Alignment for Kids](/wiki/organizations/alignment-for-kids/), and their daughter, who is 5 and is enrolled there. He has described the enrollment as "risk mitigation." His family has been instructed that, in the event of what he calls "a 10 percent outcome," they should try to enjoy the last few minutes and remember that the expected value was still positive.
 
-## Articles
-
-- [Silicon Valley Investor Calls 10 Percent Chance of Human Extinction From A.I. 'the Best Deal in History'](/2026-10-17/investor-calls-10-percent-extinction-chance-best-deal-in-history/) — subject of the profile; explained the arithmetic, the whiteboard, and the instructions to his family
-
 ---
 
 ## Private Profile

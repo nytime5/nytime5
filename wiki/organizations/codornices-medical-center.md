@@ -15,10 +15,6 @@ The hospital is known within the region for the thoroughness of its internal rev
 
 Since 2019 the hospital has leased a Halsted robotic surgical system from [Meridian Surgical Technologies](/wiki/organizations/meridian-surgical-technologies/) at an annual cost of $2.4 million. On Oct. 13, 2026, the system was dismissed from a gallbladder removal in progress by [Dr. Everett Lindqvist](/wiki/people/dr-everett-lindqvist/), a general surgeon on staff since 2006, who completed the procedure by unassisted reasoning. The hospital convened a peer review, which is ongoing. Its chief medical officer is [Dr. Howard Aldana](/wiki/people/dr-howard-aldana/).
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — site of the procedure; convened a peer review that has not yet reached the relevant portion of the record
-
 ---
 
 ## Private Profile

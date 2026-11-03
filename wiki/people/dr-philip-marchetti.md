@@ -20,10 +20,6 @@ He first appeared in *The New York Time5* in October 2026, assessing a [Gahanna,
 - "A cabin at thirty-six thousand feet is not a population in which that assumption has historically held, particularly after the beverage service."
 - "I don't say that as a recommendation. It's just the first time we'd have a count."
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — provided the independent assessment of the proposal
-
 ---
 
 ## Private Profile

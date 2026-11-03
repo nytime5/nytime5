@@ -19,12 +19,6 @@ The institute is led by [Dr. Franklin Krause](/wiki/people/dr-franklin-krause/),
 
 The institute publishes the *Journal of Occupational Cognitive Science*, a peer-reviewed quarterly that has been described by critics as "niche" and by its editorial board as "precisely as niche as it needs to be."
 
-## Articles
-
-- [Solidity Developer, After 41-Hour Coding Session, Reports Firm Belief That Each Token Possesses a Soul](/2026-04-16/solidity-developer-believes-each-token-has-a-soul/) — its 2024 study on anthropomorphic ideation among developers provided the statistical backdrop
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — its running count of "unassisted reasoning events" in operating rooms, and its director's view that thinking is a tool improved upon by a committee
-- [Artisanal Physicist Laments That All the Easy Problems Have Been Solved, Most of Them Before 1930](/2026-10-17/artisanal-physicist-laments-all-easy-problems-solved/) — its 2026 survey of theoretical physicists on the rederivation of textbook results for reasons other than teaching
-
 ---
 
 ## Private Profile

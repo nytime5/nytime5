@@ -17,10 +17,6 @@ The Center's research program concerns the gap between what a checkpoint is desi
 
 In October 2026 the Center provided the first independent assessment of a [Gahanna, Ohio](/wiki/places/gahanna-ohio/), man's proposal to replace checkpoint screening with a bowl of knives at every jetway, which Dr. Marchetti characterized as a shift from detection to deterrence and declined to recommend.
 
-## Articles
-
-- [Ohio Man Unveils Plan to Replace T.S.A. Screening With a Bowl of Knives at Every Jetway](/2026-10-17/ohio-man-plan-replace-tsa-with-bowl-of-knives-every-jetway/) — its director assessed the proposal
-
 ---
 
 ## Private Profile

@@ -8,7 +8,7 @@ excerpt: "His profile, which has been active since 2008, lists his friend count 
 
 ![Derek Paulson, Vice President of Global Connectivity at Meta, during a quarterly all-hands meeting attended by no one who had accepted his calendar invite. Credit: Lena Marsh/The Register](facebook-vp-has-no-friends.jpg)
 
-MENLO PARK, Calif. — Derek Paulson, Vice President of Global Connectivity at Meta Platforms Inc. and a 14-year veteran of the company responsible for connecting more than three billion people around the world, has no friends, the company confirmed Tuesday.
+[MENLO PARK](/wiki/places/menlo-park/), Calif. — Derek Paulson, Vice President of Global Connectivity at Meta Platforms Inc. and a 14-year veteran of the company responsible for connecting more than three billion people around the world, has no friends, the company confirmed Tuesday.
 
 Mr. Paulson's personal Facebook profile, which has been active since 2008 and lists his hometown as Naperville, Ill., currently shows a friend count of zero. A spokesperson for Meta said the figure was "an accurate reflection of Mr. Paulson's current network status" and noted that his profile was "otherwise complete," including a cover photo of a scenic mountain range he has not visited and a workplace field that correctly identifies him as an employee of the company whose core product he has never personally benefited from.
 

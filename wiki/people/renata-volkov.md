@@ -12,10 +12,6 @@ first-appearance: 2026-10-17
 
 Ms. Volkov was present on Oct. 13, 2026, when Dr. Lindqvist dismissed the Halsted robotic system from a gallbladder removal in progress. At his request she turned the room's clinical guideline terminal to face the wall. Her account of the remainder of the procedure, in which the surgeon narrated each decision aloud, is the most detailed on record and is the one the hospital's peer review committee has relied upon, having not yet reached that portion of the record itself.
 
-## Articles
-
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — described the surgeon as looking "like a man reading a menu in a language he used to speak"
-
 ---
 
 ## Private Profile

@@ -15,11 +15,6 @@ The company's Patella Implant Division held preferred-vendor agreements with sev
 
 In October 2026 a Halsted system at [Codornices Medical Center](/wiki/organizations/codornices-medical-center/) in Berkeley, Calif., became the first to be dismissed from a procedure in progress, when the operating surgeon, [Dr. Everett Lindqvist](/wiki/people/dr-everett-lindqvist/), a former Meridian regional proctor, had it undocked and parked against the wall. The company said the system had performed as designed and distinguished, for reporting purposes, between a malfunction and a dismissal. It billed the hospital for the full session.
 
-## Articles
-
-- [New York City Knee Surgeons Report Catastrophic Revenue Collapse Following Death of John Reese](/2026-03-07/nyc-knee-surgeons-bankrupt-death-john-reese/) — discontinued the Patella Implant Division's New York territory
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — manufacturer of the Halsted; said the system "was dismissed," not malfunctioning
-
 ---
 
 ## Private Profile

@@ -14,11 +14,6 @@ Mr. Enright's public statements are notable for their modeling vocabulary. Of th
 
 He holds a bachelor's degree in biomedical engineering from Marquette University and an M.B.A. from the University of Minnesota's Carlson School of Management.
 
-## Articles
-
-- [New York City Knee Surgeons Report Catastrophic Revenue Collapse Following Death of John Reese](/2026-03-07/nyc-knee-surgeons-bankrupt-death-john-reese/) — announced the discontinuation of the Patella Implant Division's New York territory
-- [Surgeon Dismisses Robot Midway Through Operation, Vowing to Finish With 'Pure Artisanal Thinking'](/2026-10-17/surgeon-dismisses-robot-mid-operation-pure-artisanal-thinking/) — confirmed the hospital would be billed for the full session because "availability is the product"
-
 ---
 
 ## Private Profile
