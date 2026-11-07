@@ -24,4 +24,6 @@ The **Tenney–Lapham** neighborhood, on the isthmus north of the Capitol Square
 
 The **Vilas** neighborhood, on the near west side of the isthmus, is anchored by Vilas Park, the Henry Vilas Zoo, and a residential grid of early-twentieth-century homes occupied in disproportionate concentration by retired university faculty, retired civil servants, and a small but visible cohort of retired librarians. Its neighborhood association maintains a lighting subcommittee whose meetings have, on three documented occasions in the past decade, run past midnight.
 
+The [Center for Cohort Boundary Research](/wiki/organizations/center-for-cohort-boundary-research/), on the second floor of a former dairy cooperative office on East Johnson Street in Tenney–Lapham, maintains the national reconciliation table of American generational frameworks and is, in the city's tradition, in the twelfth year of a public review to determine when Generation Alpha ends.
+
 The [Bremer Institute for Cognitive Augmentation](/wiki/organizations/bremer-institute-for-cognitive-augmentation/), on University Avenue, is among the more notable of the city's independent research institutes. Its relationship to the University of Wisconsin–Madison is, in the institute's own documentation, "loose and constructive," and, in the university's documentation, "the subject of ongoing review."
