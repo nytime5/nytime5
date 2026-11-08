@@ -17,6 +17,8 @@ Slop Nation reports a membership of approximately forty people and approximately
 
 Its first planned public event, the Queens SlopWalk, would close one lane of Skillman Avenue between 43rd and 50th Streets for three hours on a Saturday. The organization's permit application, filed with the city's Street Activity Permit Office on Sept. 30, 2026, lists 1,100 placards under the heading "signage." It was tabled in October 2026 by the Transportation Committee of Queens Community Board 2, chaired by [Rosalind Ferrante](/wiki/people/rosalind-ferrante/), pending a revised sanitation plan.
 
+The organization does not accept every defense offered on its behalf. In November 2026 it rejected as "deeply infantilizing" the widely shared argument of the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/) that complaining about A.I. slop is like complaining that a toddler is clumsy. Its formal response, which runs to ninety-one pages, was released four minutes after Mr. Paulsen's post. "We are not asking anyone to be patient with us," Mr. Pruett said. "We are asking them to be proud of us. A toddler grows out of falling down. We have no intention of growing out of anything."
+
 ---
 
 ## Private Profile

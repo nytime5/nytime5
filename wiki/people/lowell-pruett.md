@@ -16,6 +16,8 @@ He operates a network of 212 social media pages, most of them devoted to images 
 
 In August 2026 Mr. Pruett incorporated Slop Nation in New York State. In October 2026 he appeared before the Transportation Committee of Queens Community Board 2 to request a street activity permit for the Queens SlopWalk, a march along Skillman Avenue, where he placed the movement in a line of descent from the reclamation of "queer" and "slut," movements he said he had studied closely, in summary form. The committee tabled the application.
 
+In November 2026 he rejected the comparison, popularized by the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/), between A.I.-generated content and a clumsy toddler, describing it as well meant and "deeply infantilizing," and observing that most of Slop Nation's members are in their forties. He regards patience as a lesser demand than pride and has declined it on the movement's behalf.
+
 He lives on 47th Street in Sunnyside with a cat whose portrait he has generated, by his estimate, forty thousand times.
 
 ---

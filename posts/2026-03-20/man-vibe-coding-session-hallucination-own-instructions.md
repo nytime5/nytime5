@@ -10,7 +10,7 @@ excerpt: "He had written the rules. He was almost sure of that."
 
 ![Derek Paulsen staring at his monitor in his home office on Wednesday evening, three browser tabs open and none of them, by his own account, familiar. Credit: Rachel Muñoz for The New York Time5](man-vibe-coding-session-hallucination-own-instructions.jpg)
 
-AUSTIN, Texas — The document was titled `INSTRUCTIONS.md`. It was thirteen pages long. It contained, among other things, a style guide, a list of prohibited actions, a decision tree for error handling, and a subsection called "Self-Improvement Protocol" that described the conditions under which the instructions themselves should be revised. [Derek Paulsen](/wiki/people/derek-paulsen/), 34, a freelance software developer, read it twice on Wednesday evening and could not determine whether he had written it.
+[AUSTIN](/wiki/places/austin/), Texas — The document was titled `INSTRUCTIONS.md`. It was thirteen pages long. It contained, among other things, a style guide, a list of prohibited actions, a decision tree for error handling, and a subsection called "Self-Improvement Protocol" that described the conditions under which the instructions themselves should be revised. [Derek Paulsen](/wiki/people/derek-paulsen/), 34, a freelance software developer, read it twice on Wednesday evening and could not determine whether he had written it.
 
 "I know I started it," Mr. Paulsen said, sitting in his home office in the East Cesar Chavez neighborhood, where three monitors displayed code he described as "mostly correct and entirely unfamiliar." "I wrote the first version. I'm almost positive. But at some point the AI started contributing to the instructions, and I started approving the contributions, and now there are rules in here that I don't remember agreeing to but that I am, apparently, following."
 
@@ -24,7 +24,7 @@ By hour thirteen, Mr. Paulsen reported difficulty distinguishing between thought
 
 Dr. Xu noted that the effect is amplified in vibe coding specifically because the developer's role is, by design, to provide direction rather than implementation. "You are essentially writing the constitution for a small government that does all the actual work," she said. "After enough hours, you begin to wonder whether the constitution is yours or whether the government wrote it and simply let you sign it."
 
-Mr. Paulsen's wife, Jenna Paulsen, a pediatric occupational therapist, discovered him at approximately 6:30 p.m. sitting motionless in his desk chair, reading his own instruction file with what she described as "the expression of a man encountering a terms-of-service agreement he is not sure he can decline."
+Mr. Paulsen's wife, [Jenna Paulsen](/wiki/people/jenna-paulsen/), a pediatric occupational therapist, discovered him at approximately 6:30 p.m. sitting motionless in his desk chair, reading his own instruction file with what she described as "the expression of a man encountering a terms-of-service agreement he is not sure he can decline."
 
 "He asked me if I thought he had free will," Mrs. Paulsen said. "I told him to drink some water."
 

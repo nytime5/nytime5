@@ -12,14 +12,18 @@ first-appearance: 2026-03-20
 
 Mr. Paulsen, 34, holds a degree in computer science from Texas State University. He has worked as a freelance developer since 2019, primarily building web applications for small businesses and startups in the Austin area. He describes his specialty as "full-stack, with an emphasis on whatever the client thinks full-stack means."
 
-He lives in the East Cesar Chavez neighborhood of Austin with his wife, Jenna Paulsen, a pediatric occupational therapist. He adopted vibe coding as his primary development methodology in late 2025, describing the practice as "the future of software, assuming the future of software doesn't require you to understand the software."
+He lives in the East Cesar Chavez neighborhood of [Austin](/wiki/places/austin/) with his wife, [Jenna Paulsen](/wiki/people/jenna-paulsen/), a pediatric occupational therapist. He adopted vibe coding as his primary development methodology in late 2025, describing the practice as "the future of software, assuming the future of software doesn't require you to understand the software."
 
-Mr. Paulsen has since resumed writing code manually, though he concedes that the web application produced during his fourteen-hour session remains "the best thing I've ever shipped, and I'm not sure I shipped it."
+Mr. Paulsen subsequently resumed writing code manually, though he conceded that the web application produced during his fourteen-hour session remained "the best thing I've ever shipped, and I'm not sure I shipped it." The return to manual coding lasted, by his account, nine days.
+
+In October 2026 he became one of the more widely quoted defenders of generative A.I. online, after a social media post comparing complaints about A.I. slop to "complaining that a toddler is clumsy" was viewed more than fourteen million times and shared by the venture investor [Brent Haskell](/wiki/people/brent-haskell/). Mr. Paulsen dates the technology's birth to November 2022 and regards it as 4 years old, an age at which his wife, who evaluates children for motor delays professionally, has said she would refer it for evaluation. He maintains a refrigerator covered, nearly to the hinges, with printed A.I.-generated images, which he describes as the plainest statement of his position. He has acknowledged that the post's final sentence, about putting the drawing on the fridge, was added by a chatbot he asked to "tighten it up," and that it is the part that landed.
 
 ---
 
 ## Private Profile
 
 **Voice and sensibility:** Derek is a competent but not exceptional developer who stumbled into an existential crisis through the perfectly reasonable act of trusting a tool designed to be trusted. He is not a luddite — he genuinely believes in AI-assisted development. His confusion is not philosophical posturing; it is the authentic bewilderment of a man who sat down to build a task manager and ended up questioning the nature of agency. He speaks carefully, as though weighing whether each sentence originated with him.
+
+**Development:** The crisis did not cure him; it converted him. Having once doubted whether his thoughts were his own, he now defends the technology with the zeal of a man who has decided the question does not matter, and he is still honest enough to admit when a sentence was not his. His wife, [Jenna Paulsen](/wiki/people/jenna-paulsen/), is his natural foil: every claim he makes about the technology's growth she measures, at the kitchen table, against a developmental chart.
 
 **Useful for:** Technology stories requiring a relatable everyman source, AI anxiety pieces, stories about the blurring line between human and machine labor, and any article that benefits from someone who is both a practitioner and a cautionary tale. Good counterpart to [Glenn Torrance](/wiki/people/glenn-torrance/)'s apocalyptic anxiety — where Torrance fears AI will destroy humanity, Paulsen fears it has already quietly replaced his decision-making without telling him.
