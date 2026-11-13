@@ -23,7 +23,7 @@ Every post must include this front matter. Do not add Jekyll-specific fields lik
 
 ```yaml
 ---
-title: "Congress Unanimously Bans Storage of WD-40 Cans Without the Little Red Straw That Goes With It"
+title: "Congress Bans Storing WD-40 Without Its Little Red Straw"
 date: YYYY-MM-DD
 draft: false
 writer: "David R. Ashworth"
@@ -40,7 +40,7 @@ column: "The Free Exchange"
 ```
 
 ### Field Rules
-- **title** — Full headline. Formal NYT style. Capitalize major words. Can be long.
+- **title** — Short and punchy, and a joke in itself: a reader who sees only the headline should get it. Aim for about ten words; cut qualifiers, hedges, and set-up the body can carry. NYT capitalization (major words), but not NYT length. Keep the topic's sharpest words (a coinage, a loaded noun like "fanboy") rather than paraphrasing them into something blander.
 - **date** — ISO format. Use today's date unless specified otherwise.
 - **draft** — `false` by default: articles publish on creation (see `/write-article`). Set `true` only when the user asks to hold an article; `/publish` flips it later.
 - **writer** — Full name of the assigned staff writer. Must match a wiki entry in `wiki/people/`.

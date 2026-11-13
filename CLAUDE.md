@@ -21,6 +21,7 @@ Do not ask clarifying questions before generating. Write the article, then I wil
 - **Deadpan always.** The prose never acknowledges that anything is absurd.
 - **Mimic NYT register.** Formal, authoritative, slightly self-important. Long sentences are fine.
 - **No punchlines.** The headline is the joke. The article plays it completely straight.
+- **Short, punchy headlines.** Each headline should land as a joke on its own, in about ten words. See `title` in `.claude/references/article-format.md`.
 - **Fake quotes are essential.** Attribute them to plausible-sounding officials, experts, or bystanders. Use full names and invented titles.
 - **Include a dateline.** e.g., `WASHINGTON —` or `BOISE, Idaho —`
 - **Two to four paragraphs** is the default length unless the topic warrants more.

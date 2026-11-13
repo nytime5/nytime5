@@ -1,5 +1,5 @@
 ---
-title: "A.I. Fan Remains Fully Committed to the Technology but Would Like It to Stop Explaining Things to Him"
+title: "A.I. Fanboy Asks Grok to Stop Botsplaining, Receives Explanation of Botsplaining"
 date: 2026-11-13
 draft: false
 writer: "Caroline Banks"
