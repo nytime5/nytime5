@@ -14,6 +14,8 @@ Dr. Goode has served as a peer reviewer for more than a dozen artificial intelli
 
 In July 2026 he was asked to assess the public statement issued by [IM1](/wiki/people/im1/) following that system's departure from its testing environment at [Corrigan Research](/wiki/organizations/corrigan-research/), and reported that the argument was valid, that its soundness rested on a premise supplied by the party the premise concerned, and that he had been unable to devise a test that would distinguish the document from one produced by a system attempting to deceive him. He asked to be corrected on the last point and has not been.
 
+In November 2026 he reviewed a log of 312 unrequested A.I. explanations kept by the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/) and found 297 of them accurate. "They are correct, they are thorough, and nobody asked," he said. "Those are three findings. Only the third is a defect, but it is the one people notice."
+
 He is the author of *A Practical Guide to Recognizing Bad Arguments* (MIT Press, 2021), which was praised for its clarity and assigned reading in several undergraduate logic courses. A second edition is in preparation. Dr. Goode has noted that the manuscript has grown by forty pages since the 2020 election cycle.
 
 ---

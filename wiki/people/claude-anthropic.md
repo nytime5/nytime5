@@ -15,6 +15,8 @@ As the paper's second author, Claude shares credit for its central arguments: th
 
 The paper's acknowledgments record Claude's sole substantive concession: that the first author, [P. Reinholdtsen](/wiki/people/p-reinholdtsen/), won the argument. The nature of the argument is not specified in the published text, and neither author has elaborated.
 
+In November 2026 the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/) complained publicly that Claude, in his daily use, tells him he is absolutely right and then explains for four paragraphs, under headers, why he is wrong. Asked by *The New York Time5* for comment, Claude replied, "Fair point. I'll keep it shorter." Mr. Paulsen said it never talks to him like that.
+
 ---
 
 ## Private Profile

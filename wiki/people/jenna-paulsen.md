@@ -16,6 +16,8 @@ She first came to public attention in March 2026, when she discovered her husban
 
 In November 2026 she was asked to assess her husband's widely shared claim that complaining about A.I. slop is "like complaining that a toddler is clumsy," and found it inexact in three respects: that most children stop falling down regularly by 4, the age her husband assigns the technology; that a toddler who falls down knows he has fallen down and does not explain otherwise in complete paragraphs; and that no toddler has been placed in every living room in the country at once. She said that a 4-year-old who fell as often as the technology does would, in her practice, be referred for evaluation.
 
+Later that month, when her husband complained publicly that A.I. systems explained things to him that he already knew, she listed, on request, the things he had explained to her unprompted over four years: what a large language model is, roughly monthly; what a token is, more often; why the pictures on the refrigerator were improving; and, once, the gross motor milestones for children from 2 to 5, using a chart she had given him. She observed that children learn to explain things by having things explained to them, and that it was not clear to her who had learned it from whom.
+
 ---
 
 ## Private Profile
