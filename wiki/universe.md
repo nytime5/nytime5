@@ -16,7 +16,7 @@ This is not parody. The world is not winking. A man who removes his shoes to tie
 
 There is an expert for everything. Not in the loose, cable-news sense of someone willing to comment on a topic adjacent to their training, but in the precise, credentialed, institutionally housed sense. The world of *The New York Time5* contains an inexhaustible supply of senior fellows, research directors, and emeritus professors whose entire careers have been devoted to domains so narrow that their existence implies a universe in which every human activity has been taxonomized, studied, and assigned a federal grant.
 
-These experts do not freelance. They belong to organizations — institutes, centers, bureaus, associations — each with a name that sounds plausible on first reading and absurd on second. The Institute for Consumer Hardware Safety. The Northwestern Center for Multiverse Behavioral Studies. The Loose Hardware Storage Association of America. These are not jokes within the world. They have headquarters, budgets, annual reports, and senior fellows who testify before Congress.
+These experts do not freelance. They belong to organizations — institutes, centers, bureaus, associations — each with a name that sounds plausible on first reading and absurd on second. The Institute for Consumer Hardware Safety. The [Northwestern Center for Multiverse Behavioral Studies](/wiki/organizations/northwestern-center-for-multiverse-behavioral-studies/). The Loose Hardware Storage Association of America. These are not jokes within the world. They have headquarters, budgets, annual reports, and senior fellows who testify before Congress.
 
 **Key principles:**
 - Every expert has a full name, a title, and an institutional affiliation. No anonymous sources on trivial matters.
