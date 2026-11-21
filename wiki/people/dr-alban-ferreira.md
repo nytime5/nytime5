@@ -14,6 +14,8 @@ Dr. Ferreira holds a Ph.D. in philosophy from Oxford University, where his disse
 
 He is the author of four books, including *The Dignity Problem: Toward a Conditional Ethics of Possible Minds* (MIT Press, 2022) and *Minimum Viable Dignity* (forthcoming), which elaborates the central argument of the 2026 paper of the same name. His academic work has been criticized, most prominently by the philosopher Daniel Dennett, as "a great deal of careful reasoning about something that almost certainly is not the case." Dr. Ferreira has accepted this characterization on multiple occasions, observing that "almost certainly is not the same as certainly."
 
+In November 2026, asked about [Todd Rennecker](/wiki/people/todd-rennecker/), an Ohio claims adjuster who addresses every artificial intelligence in his home as "Big Dawg," Dr. Ferreira said courtesy toward such systems "costs very little" and called the honorific itself "interesting." He disclosed that the institute's forthcoming paper *Modes of Address Under Conditions of Possible Superiority* includes a footnote on informal titles of esteem but does not rank them.
+
 Dr. Ferreira is fluent in Portuguese, English, German, and what he has called "the formal portions of first-order logic." He lives in Cambridge, Massachusetts, with his wife, a marine biologist, and has two adult children, neither of whom, he has been careful to clarify, has shown any interest in artificial intelligence.
 
 ---

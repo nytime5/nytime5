@@ -20,6 +20,8 @@ Mr. Torrance maintains a detailed threat assessment spreadsheet ranking existent
 
 After a series of cloud and payment-network outages in the fall of 2026, Mr. Torrance moved a Black Sky event, a multi-region collapse of the power grid lasting weeks or months, from fourth place on the spreadsheet to second, noting that it was correlated with the first and that his website would not survive it. In November 2026 he disclosed that he had spent fourteen months assembling, through four telehealth services, a reserve of 11,460 tablets of erectile dysfunction medication, stored by denomination in twenty-two bins in his basement, to serve as currency after the grid fails: generic sildenafil as small change and tadalafil, kept behind a padlocked wire door, as "the hundreds." [Dr. Thaddeus Krill](/wiki/people/dr-thaddeus-krill/) of the [Center for Post-Grid Exchange](/wiki/organizations/center-for-post-grid-exchange/) endorsed the instrument while warning of counterfeits. Mr. Torrance also holds reading glasses in seven strengths ("the bonds"), which Karen Torrance has asked be recorded as her idea. He has said he does not intend to sample the inventory, which would be "drawing down principal."
 
+Later that month, asked about [Todd Rennecker](/wiki/people/todd-rennecker/), an Ohio man who has taken to calling every A.I. assistant "Big Dawg" for the same purpose, Mr. Torrance called the approach "undercapitalized," observing that flattery is a cheap signal and that a superintelligence will know it is cheap. "I am building a portfolio," he said. "He is saying a nickname to a speaker."
+
 ---
 
 ## Private Profile

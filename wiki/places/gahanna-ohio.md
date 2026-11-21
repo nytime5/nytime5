@@ -17,6 +17,8 @@ The arrangement has produced a population with an unusual relationship to air tr
 
 Gahanna's Creekside district, a redevelopment along Big Walnut Creek completed in 2008, is where the city goes to have opinions. Its restaurants are the venue for the kind of practical, confident, irreversible civic conversation in which a man who has just been made to unwrap a sandwich explains, to general agreement, how the whole thing should actually work.
 
+The city is also home to [Todd Rennecker](/wiki/people/todd-rennecker/), a claims adjuster whose kitchen window frames the airport's eastern approach and who, since March 2026, has addressed every artificial intelligence in his household as "Big Dawg."
+
 ---
 
 ## Public Institutions and Fixtures
