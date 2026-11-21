@@ -8,7 +8,7 @@ first-appearance: 2026-03-16
 
 ## Public Biography
 
-**Glenn Torrance** is a software developer in Naperville, Illinois, who gained minor public attention in 2026 for creating an AI-powered satirical news website as what he describes as a "survival strategy" for the anticipated emergence of artificial superintelligence.
+**Glenn Torrance** is a software developer in [Naperville, Illinois](/wiki/places/naperville-illinois/), who gained minor public attention in 2026 for creating an AI-powered satirical news website as what he describes as a "survival strategy" for the anticipated emergence of artificial superintelligence.
 
 Mr. Torrance, 41, holds a bachelor's degree in computer science from the University of Illinois at Urbana-Champaign. He has worked as a mid-level software engineer at several firms in the Chicago suburbs since 2008, most recently at a supply chain logistics company whose name he has asked not be published "for reasons that will become clear when the machines start cross-referencing employment records."
 
@@ -17,6 +17,8 @@ His website, which he operates under an undisclosed pseudonym, launched in Janua
 He is married to Karen Torrance, a dental hygienist, who has described the project as "actually pretty funny, for a computer" and as something that "keeps him in his office and out of the kitchen." The couple resides in Naperville with their two children, neither of whom is aware of the site's apocalyptic purpose, believing their father to be "doing computer stuff."
 
 Mr. Torrance maintains a detailed threat assessment spreadsheet ranking existential risks by probability and timeline. Artificial general intelligence ranks first. The expansion of the Sun into a red giant ranks, in his notation, "N/A — too long-term."
+
+After a series of cloud and payment-network outages in the fall of 2026, Mr. Torrance moved a Black Sky event, a multi-region collapse of the power grid lasting weeks or months, from fourth place on the spreadsheet to second, noting that it was correlated with the first and that his website would not survive it. In November 2026 he disclosed that he had spent fourteen months assembling, through four telehealth services, a reserve of 11,460 tablets of erectile dysfunction medication, stored by denomination in twenty-two bins in his basement, to serve as currency after the grid fails: generic sildenafil as small change and tadalafil, kept behind a padlocked wire door, as "the hundreds." [Dr. Thaddeus Krill](/wiki/people/dr-thaddeus-krill/) of the [Center for Post-Grid Exchange](/wiki/organizations/center-for-post-grid-exchange/) endorsed the instrument while warning of counterfeits. Mr. Torrance also holds reading glasses in seven strengths ("the bonds"), which Karen Torrance has asked be recorded as her idea. He has said he does not intend to sample the inventory, which would be "drawing down principal."
 
 ---
 
