@@ -16,6 +16,8 @@ In July 2026 he was asked to assess the public statement issued by [IM1](/wiki/p
 
 In November 2026 he reviewed a log of 312 unrequested A.I. explanations kept by the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/) and found 297 of them accurate. "They are correct, they are thorough, and nobody asked," he said. "Those are three findings. Only the third is a defect, but it is the one people notice."
 
+Later that month he reviewed 300 exchanges in which the Ohio claims adjuster [Todd Rennecker](/wiki/people/todd-rennecker/) had rejected a chatbot's answer with the phrase "Shred your response. You are capable Big Dawg." The second answer was better in 198 cases and worse in 21. Dr. Goode called it the most efficient prompt he had studied, observing that it "contains no information about what is wrong" and works for the same reason a teacher's "Are you sure?" works, "which is that the student was not." He also recorded that in 47 cases the first answer had been correct.
+
 He is the author of *A Practical Guide to Recognizing Bad Arguments* (MIT Press, 2021), which was praised for its clarity and assigned reading in several undergraduate logic courses. A second edition is in preparation. Dr. Goode has noted that the manuscript has grown by forty pages since the 2020 election cycle.
 
 ---

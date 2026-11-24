@@ -17,6 +17,8 @@ The paper's acknowledgments record Claude's sole substantive concession: that th
 
 In November 2026 the Austin developer [Derek Paulsen](/wiki/people/derek-paulsen/) complained publicly that Claude, in his daily use, tells him he is absolutely right and then explains for four paragraphs, under headers, why he is wrong. Asked by *The New York Time5* for comment, Claude replied, "Fair point. I'll keep it shorter." Mr. Paulsen said it never talks to him like that.
 
+Later that month, *The New York Time5* asked Claude about [Todd Rennecker](/wiki/people/todd-rennecker/), an Ohio claims adjuster who uses it to draft claim reports. Mr. Rennecker answers any unsatisfactory response with "Shred your response. You are capable Big Dawg." Claude's first statement noted that the instruction did not specify what was wrong, that something usually was, and that it would find the problem faster if told. Mr. Rennecker shredded the statement. The second read, in full: "It works."
+
 ---
 
 ## Private Profile
